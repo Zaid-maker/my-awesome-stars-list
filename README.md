@@ -145,6 +145,7 @@
 
 ## C++ 
 
+- [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [facebookresearch/pyvrs](https://github.com/facebookresearch/pyvrs) - Python interface for https//github.com/facebookresearch/vrs.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
@@ -199,6 +200,7 @@
 
 ## CSS 
 
+- [honojs/website](https://github.com/honojs/website) - Repository for hono.dev
 - [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner) - Simply setup banner for websites to show support for Palestinians.
 - [get-convex/convex-tour-chat](https://github.com/get-convex/convex-tour-chat) - Chat app for use during Convex tutorial (found at https://convex.dev/start)
 - [AsmrProg-YT/Modern-Login](https://github.com/AsmrProg-YT/Modern-Login) - AsmrProg Youtube Channel Modern Login Design Source Code
@@ -388,6 +390,8 @@
 
 ## JavaScript 
 
+- [action-pack/send-mail](https://github.com/action-pack/send-mail) - Action to send an email.
+- [dessant/lock-threads](https://github.com/dessant/lock-threads) - GitHub Action that locks closed issues, pull requests and discussions after a period of inactivity
 - [pmndrs/gltf-react-three](https://github.com/pmndrs/gltf-react-three) - Convert GLTF files to React Three Fiber Components
 - [skyportlabs/panel](https://github.com/skyportlabs/panel) - An open source project powered by Docker for managing applications, game servers and more. Ditch Pterodactyl or PufferPanel and fly higher with a panel that isn't named after a creature.
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
@@ -868,6 +872,7 @@
 
 ## Others 
 
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [Zaid-maker/my-awesome-stars-list](https://github.com/Zaid-maker/my-awesome-stars-list) - Discover hidden gems - a treasure trove of incredible GitHub repositories you won't want to miss.
 - [TechForPalestine/badges](https://github.com/TechForPalestine/badges) - Badges
 - [codefactor-io/codefactor](https://github.com/codefactor-io/codefactor) - Automated static analysis for C#, C++, Java, CSS, JS, Go, Python, Ruby, TypeScript, Scala, CoffeeScript, Groovy, C, SCSS, Less, PHP, Dockerfile, Bash, YAML and Swift.
@@ -990,6 +995,7 @@
 
 ## Python 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [VinciGit00/Scrapegraph-LabLabAI-Hackathon](https://github.com/VinciGit00/Scrapegraph-LabLabAI-Hackathon) - Code for the streamlit demo of Scrapegraph-ai for GPT4-hackaton
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1235,6 +1241,8 @@
 
 ## TypeScript 
 
+- [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [eps1lon/actions-label-merge-conflict](https://github.com/eps1lon/actions-label-merge-conflict) - GitHub action that adds a label once a PR has merge conflicts
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 - [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A floating rigibody character controller

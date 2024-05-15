@@ -439,7 +439,6 @@
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new) - 
 - [devmirza-bot/status-page](https://github.com/devmirza-bot/status-page) - 
-- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [polysource-projects/moodle-mark-as-read](https://github.com/polysource-projects/moodle-mark-as-read) - 
 - [v8/v8.dev](https://github.com/v8/v8.dev) - The source code of v8.dev, the official website of the V8 project.
@@ -1353,6 +1352,7 @@
 - [Zaid-maker/space-portfolio](https://github.com/Zaid-maker/space-portfolio) - My portfolio but in space theme :)
 - [appwrite/sdk-for-web](https://github.com/appwrite/sdk-for-web) - [READ-ONLY] Official Appwrite Web SDK 🧡
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 - [Zaid-maker/turborepo-monorepo](https://github.com/Zaid-maker/turborepo-monorepo) - 
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) - The official Next.js library for Axiom.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web

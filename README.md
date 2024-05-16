@@ -871,6 +871,7 @@
 
 ## Others 
 
+- [codedamn/core](https://github.com/codedamn/core) - Official tracking repository for codedamn services
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [Zaid-maker/my-awesome-stars-list](https://github.com/Zaid-maker/my-awesome-stars-list) - Discover hidden gems - a treasure trove of incredible GitHub repositories you won't want to miss.
 - [TechForPalestine/badges](https://github.com/TechForPalestine/badges) - Badges
@@ -1121,6 +1122,7 @@
 
 ## Rust 
 
+- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [Zaid-maker/turbo](https://github.com/Zaid-maker/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -1240,6 +1242,8 @@
 
 ## TypeScript 
 
+- [SukkaW/react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack) - The webpack/rspack loader for React Compiler
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [eps1lon/actions-label-merge-conflict](https://github.com/eps1lon/actions-label-merge-conflict) - GitHub action that adds a label once a PR has merge conflicts
@@ -1499,7 +1503,7 @@
 - [discord/react-native-webview](https://github.com/discord/react-native-webview) - React Native Cross-Platform WebView
 - [upptime/uptime-monitor](https://github.com/upptime/uptime-monitor) - ⬆️📈 Uptime monitor powered by GitHub Actions
 - [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
-- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [beemobot/sugar](https://github.com/beemobot/sugar) - As of 2023 MAR 26, sugar has been archived and moved to the mono-repo at https://github.com/beemobot/cafe
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.

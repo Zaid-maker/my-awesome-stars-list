@@ -1242,6 +1242,7 @@
 
 ## TypeScript 
 
+- [abizek/stopwatch](https://github.com/abizek/stopwatch) - Stopwatch app with 10ms accuracy and lap support inspired by the Samsung stopwatch.
 - [SukkaW/react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack) - The webpack/rspack loader for React Compiler
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
@@ -1356,7 +1357,7 @@
 - [Zaid-maker/space-portfolio](https://github.com/Zaid-maker/space-portfolio) - My portfolio but in space theme :)
 - [appwrite/sdk-for-web](https://github.com/appwrite/sdk-for-web) - [READ-ONLY] Official Appwrite Web SDK 🧡
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
-- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
+- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - A flexible, modern and blazingly fast ☄️ status page
 - [Zaid-maker/turborepo-monorepo](https://github.com/Zaid-maker/turborepo-monorepo) - 
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) - The official Next.js library for Axiom.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web

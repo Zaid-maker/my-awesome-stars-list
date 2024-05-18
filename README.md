@@ -390,6 +390,8 @@
 
 ## JavaScript 
 
+- [vercel-labs/function-database-latency](https://github.com/vercel-labs/function-database-latency) - Visualize the latency of databases from Vercel Functions.
+- [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [action-pack/send-mail](https://github.com/action-pack/send-mail) - Action to send an email.
 - [dessant/lock-threads](https://github.com/dessant/lock-threads) - GitHub Action that locks closed issues, pull requests and discussions after a period of inactivity
 - [pmndrs/gltf-react-three](https://github.com/pmndrs/gltf-react-three) - Convert GLTF files to React Three Fiber Components
@@ -995,6 +997,7 @@
 
 ## Python 
 
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [VinciGit00/Scrapegraph-LabLabAI-Hackathon](https://github.com/VinciGit00/Scrapegraph-LabLabAI-Hackathon) - Code for the streamlit demo of Scrapegraph-ai for GPT4-hackaton
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
@@ -1172,7 +1175,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [adamchalmers/dingo](https://github.com/adamchalmers/dingo) - Command-line DNS client using bitvec, nom and RFC 1035
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer speedy bootstrapping, dynamic scaling, time-travel queries, and efficient joins.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer instant failover, dynamic scaling, speedy bootstrapping, and efficient joins.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Milo123459/scrooge](https://github.com/Milo123459/scrooge) - 😎 Run scripts in the command line automatically. No more copy pasting, just scrooge run!
 - [Milo123459/glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
@@ -1242,6 +1245,10 @@
 
 ## TypeScript 
 
+- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
+- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+- [vercel-labs/gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
+- [poteto/react-conf-app](https://github.com/poteto/react-conf-app) - 
 - [abizek/stopwatch](https://github.com/abizek/stopwatch) - Stopwatch app with 10ms accuracy and lap support inspired by the Samsung stopwatch.
 - [SukkaW/react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack) - The webpack/rspack loader for React Compiler
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website

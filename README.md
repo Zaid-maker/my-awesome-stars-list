@@ -121,6 +121,7 @@
 - [Jdbaii/Telefang-2-English-Translation-Project](https://github.com/Jdbaii/Telefang-2-English-Translation-Project) - A translation project for translating the Japanese GBA game Telefang 2 into English by making use of the bootleg English translation as well as further modifications.
 - [Null-Bot9875/GameOffProject](https://github.com/Null-Bot9875/GameOffProject) - 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 - [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 - [louislam/lazy-compress-h265](https://github.com/louislam/lazy-compress-h265) - Compress or convert your video files to h.265 (hevc) format with one-click, make its size much smaller!
 - [louislam/rdp-portal](https://github.com/louislam/rdp-portal) - A slightly smarter and simple Remote Desktop manager for Windows.
@@ -145,6 +146,7 @@
 
 ## C++ 
 
+- [nasa/astrobee](https://github.com/nasa/astrobee) - NASA Astrobee Robot Software
 - [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [facebookresearch/pyvrs](https://github.com/facebookresearch/pyvrs) - Python interface for https//github.com/facebookresearch/vrs.
@@ -362,6 +364,7 @@
 
 ## Haskell 
 
+- [nasa/ogma](https://github.com/nasa/ogma) - 
 - [jonascarpay/calligraphy](https://github.com/jonascarpay/calligraphy) - haskell source code visualizer
 
 ## JSON 
@@ -873,6 +876,7 @@
 
 ## Others 
 
+- [Platane/Platane](https://github.com/Platane/Platane) - 
 - [codedamn/core](https://github.com/codedamn/core) - Official tracking repository for codedamn services
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [Zaid-maker/my-awesome-stars-list](https://github.com/Zaid-maker/my-awesome-stars-list) - Discover hidden gems - a treasure trove of incredible GitHub repositories you won't want to miss.
@@ -990,7 +994,6 @@
 - [actions/versions-package-tools](https://github.com/actions/versions-package-tools) - Libs and tools used to build all *-version tools for GitHub Actions
 - [actions/node-versions](https://github.com/actions/node-versions) - Node builds for Actions Runner Images
 - [actions/go-versions](https://github.com/actions/go-versions) - Go releases for Actions Runner Images
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with
 - [pabumake/windowToolboxMalware-Removal](https://github.com/pabumake/windowToolboxMalware-Removal) - wTM-Removal searches and removes malicous files regarding the bad github repo
@@ -1125,6 +1128,7 @@
 
 ## Rust 
 
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [Zaid-maker/turbo](https://github.com/Zaid-maker/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
@@ -1202,11 +1206,12 @@
 
 ## Shell 
 
+- [Zaid-maker/repos](https://github.com/Zaid-maker/repos) - 
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [nodejs/snap](https://github.com/nodejs/snap) - Node.js snap source and updater
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [jmfayard/timetraveler](https://github.com/jmfayard/timetraveler) - Create fake commits for every day last year
 - [nodejs/node-v8](https://github.com/nodejs/node-v8) - Experimental Node.js mirror on V8 lkgr :sparkles::turtle::rocket::sparkles:
 - [vercel/opentelemetry-collector-dev-setup](https://github.com/vercel/opentelemetry-collector-dev-setup) - 
@@ -1293,6 +1298,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [Zaid-maker/Lingo](https://github.com/Zaid-maker/Lingo) - Duolingo clone with Next.js 14
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [AntonioErdeljac/lingo-early-access](https://github.com/AntonioErdeljac/lingo-early-access) - 
 - [AnandChowdhary/ledger-importer](https://github.com/AnandChowdhary/ledger-importer) - 💳 Import expenses from ABN AMRO and American Express to Ledger CLI files
@@ -1394,7 +1400,7 @@
 - [xalvarez/prevent-file-change-action](https://github.com/xalvarez/prevent-file-change-action) - Fail a pull request workflow if certain files are changed
 - [parasop/poru](https://github.com/parasop/poru) - A stable and powerful Lavalink client with some best features
 - [InfinityBotList/node-sdk](https://github.com/InfinityBotList/node-sdk) - The official node sdk for interacting with all of our services and modules.
-- [Zaid-maker/discord-clone](https://github.com/Zaid-maker/discord-clone) - 
+- [Zaid-maker/discord-clone](https://github.com/Zaid-maker/discord-clone) - Discord clone in nextjs 13
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [swc-project/swc-playground](https://github.com/swc-project/swc-playground) - The SWC playground.

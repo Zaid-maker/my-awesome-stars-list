@@ -147,7 +147,7 @@
 ## C++ 
 
 - [nasa/astrobee](https://github.com/nasa/astrobee) - NASA Astrobee Robot Software
-- [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
+- [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [facebookresearch/pyvrs](https://github.com/facebookresearch/pyvrs) - Python interface for https//github.com/facebookresearch/vrs.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
@@ -272,6 +272,7 @@
 
 ## Go 
 
+- [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
@@ -845,6 +846,7 @@
 
 ## MDX 
 
+- [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [adrianhajdin/docs](https://github.com/adrianhajdin/docs) - 
 - [InfinityBotList/Documentation](https://github.com/InfinityBotList/Documentation) - Documentation Site for Infinity Bot List
 - [Androz2091/blog.androz2091.fr](https://github.com/Androz2091/blog.androz2091.fr) - ✏️ My personal blog, built with Gatsby 2
@@ -1000,6 +1002,7 @@
 
 ## Python 
 
+- [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [VinciGit00/Scrapegraph-LabLabAI-Hackathon](https://github.com/VinciGit00/Scrapegraph-LabLabAI-Hackathon) - Code for the streamlit demo of Scrapegraph-ai for GPT4-hackaton
@@ -1383,7 +1386,7 @@
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [AnandChowdhary/bookshelf-action](https://github.com/AnandChowdhary/bookshelf-action) - 📚 Track your reading using GitHub Actions
 - [AnandChowdhary/deliverabilityguide.com](https://github.com/AnandChowdhary/deliverabilityguide.com) - 📧 Never end in spam with the world's most comprehensive email deliverability checklist
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [stethoscope-js/action](https://github.com/stethoscope-js/action) - 🎬 GitHub Action to track your life data using Stethoscope

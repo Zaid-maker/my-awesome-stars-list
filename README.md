@@ -322,6 +322,7 @@
 
 ## HTML 
 
+- [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [eps1lon/react-popover-api-demo](https://github.com/eps1lon/react-popover-api-demo) - Created with CodeSandbox
 - [enable3d/enable3d-website](https://github.com/enable3d/enable3d-website) - 🌐 Contains the website and all examples.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -1002,6 +1003,7 @@
 
 ## Python 
 
+- [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
 - [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -1253,10 +1255,10 @@
 
 ## TypeScript 
 
+- [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [vercel-labs/gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
-- [poteto/react-conf-app](https://github.com/poteto/react-conf-app) - 
 - [abizek/stopwatch](https://github.com/abizek/stopwatch) - Stopwatch app with 10ms accuracy and lap support inspired by the Samsung stopwatch.
 - [SukkaW/react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack) - The webpack/rspack loader for React Compiler
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website

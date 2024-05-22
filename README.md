@@ -524,7 +524,6 @@
 - [AnandChowdhary/birthday-reminders-action](https://github.com/AnandChowdhary/birthday-reminders-action) - 🎁 Daily messages for birthday reminders using GitHub Actions
 - [notunderctrl/gpt-3.5-chat-bot](https://github.com/notunderctrl/gpt-3.5-chat-bot) - Simple Discord chat bot built using the GPT 3.5 Turbo Model from OpenAI
 - [VulcanWM/login-signup-nextjs](https://github.com/VulcanWM/login-signup-nextjs) - 
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [TheHellTower/Reddit-Meme-Fetcher](https://github.com/TheHellTower/Reddit-Meme-Fetcher) - 
@@ -743,6 +742,7 @@
 - [top-gg/docs](https://github.com/top-gg/docs) - Top.gg documentation website
 - [rovelstars/discord-list](https://github.com/rovelstars/discord-list) - Imagine a place - where you get to find everything about discord! Ranging from botlist, to users, servers, templates, banners, stickers and emojis!
 - [Androz2091/vinted-api](https://github.com/Androz2091/vinted-api) - JavaScript library to interact with the Vinted API
+- [netlify/build](https://github.com/netlify/build) - Netlify Build (node process) runs the build command, Build Plugins and bundles Netlify Functions. Can be run in Buildbot or locally using Netlify CLI
 - [zombieFox/awesomeSheet](https://github.com/zombieFox/awesomeSheet) - Online Pathfinder Character Sheet
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [Zaid-maker/cyclone-messaging](https://github.com/Zaid-maker/cyclone-messaging) - A very easy to use chat web application.
@@ -1061,6 +1061,7 @@
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [Soheab/somerandomapi.py](https://github.com/Soheab/somerandomapi.py) - A maintained Python wrapper for the Somerandomapi API.
 - [vb100/openai-test-api](https://github.com/vb100/openai-test-api) - Test OpenAI API: text completion, code completion with Codex, and image generation with DALLE-E
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [kogorman/sdclone](https://github.com/kogorman/sdclone) - Backup/restore tool for entire drives, using partclone for most copies and zstd for compression
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1255,6 +1256,8 @@
 
 ## TypeScript 
 
+- [marco-souza/act](https://github.com/marco-souza/act) - Act 🏃 first, think 🤔 later!
+- [yo-goto/type-relation](https://github.com/yo-goto/type-relation) - Type relation checker
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
@@ -1621,7 +1624,6 @@
 - [Milo123459/swords](https://github.com/Milo123459/swords) - Swords provides widgets for the terminal. Just like shields, but swords!
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [top-gg/crowdin-discord](https://github.com/top-gg/crowdin-discord) - Forward Crowdin webhooks to Discord
-- [netlify/build](https://github.com/netlify/build) - Netlify Build (node process) runs the build command, Build Plugins and bundles Netlify Functions. Can be run in Buildbot or locally using Netlify CLI
 - [netlify/cli](https://github.com/netlify/cli) - Netlify Command Line Interface
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [WebDevSimplified/vscode-extension-pizza](https://github.com/WebDevSimplified/vscode-extension-pizza) - 

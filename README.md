@@ -350,6 +350,7 @@
 - [Zaid-maker/givesawaysbot.github.io](https://github.com/Zaid-maker/givesawaysbot.github.io) - A discord bot
 - [todaydevs/dark-mode](https://github.com/todaydevs/dark-mode) - Dark/Light mode for your website
 - [XynoxTheDev/My-Personal-Website](https://github.com/XynoxTheDev/My-Personal-Website) - My Open Source Website :D
+- [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor) - An ES6 utility for canvas with built-in functions and chained methods.
 - [WebDevSimplified/jquery-clone](https://github.com/WebDevSimplified/jquery-clone) - 
 - [files-community/files-community.github.io](https://github.com/files-community/files-community.github.io) - Website and documentation for Files
 - [DiegoRBaquero/BTorrent](https://github.com/DiegoRBaquero/BTorrent) - :globe_with_meridians: Fully-featured WebTorrent Client
@@ -746,7 +747,6 @@
 - [zombieFox/awesomeSheet](https://github.com/zombieFox/awesomeSheet) - Online Pathfinder Character Sheet
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [Zaid-maker/cyclone-messaging](https://github.com/Zaid-maker/cyclone-messaging) - A very easy to use chat web application.
-- [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor) - An ES6 utility for canvas with built-in functions and chained methods.
 - [Zaid-maker/nitro-generator](https://github.com/Zaid-maker/nitro-generator) - 
 - [npm/make-fetch-happen](https://github.com/npm/make-fetch-happen) - making fetch happen for npm
 - [jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements.
@@ -1125,6 +1125,7 @@
 
 ## Ruby 
 
+- [dependabot/demo](https://github.com/dependabot/demo) - 🤖 Fork me to try out Dependabot
 - [devhub-forums/archibus](https://github.com/devhub-forums/archibus) - 
 - [devhub-forums/chirpy-client](https://github.com/devhub-forums/chirpy-client) - Plugin that adds additional introductions for staff members to the Dev Hub Chirpy Client.
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
@@ -1290,7 +1291,7 @@
 - [advaith1/canvas-poster](https://github.com/advaith1/canvas-poster) - Crosspost Canvas announcements to Discord
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [TrigenSoftware/nanoviews](https://github.com/TrigenSoftware/nanoviews) - A small Direct DOM library for creating user interfaces.
-- [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom) - 
+- [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom) - Zoom clone in Nextjs 14
 - [adrianhajdin/zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 - [Rahuletto/pomobud](https://github.com/Rahuletto/pomobud) - Pomobud is a normal, simple yet minimal pomodoro timer (or) Tomato timer so you can focus and break that procrastination.
 - [Claradev32/real-time-with-signalR](https://github.com/Claradev32/real-time-with-signalR) - 

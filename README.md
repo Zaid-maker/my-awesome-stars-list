@@ -414,7 +414,7 @@
 - [shreshthgoyal/naturalshell](https://github.com/shreshthgoyal/naturalshell) - AI-powered bridge from natural language to shell commands in CLI.
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [discord/getting-started-activity](https://github.com/discord/getting-started-activity) - This template is used in the Building An Activity tutorial in the Discord Developer Docs.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [adrianhajdin/iphone](https://github.com/adrianhajdin/iphone) - Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!

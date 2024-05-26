@@ -1257,6 +1257,7 @@
 
 ## TypeScript 
 
+- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
 - [marco-souza/act](https://github.com/marco-souza/act) - Act 🏃 first, think 🤔 later!
 - [yo-goto/type-relation](https://github.com/yo-goto/type-relation) - Type relation checker
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands

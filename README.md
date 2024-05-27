@@ -478,7 +478,7 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [aprilaili/aprilaili](https://github.com/aprilaili/aprilaili) - 
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
-- [CordXApp/API](https://github.com/CordXApp/API) - The official RESTful API for CordX
+- [CordXApp/API](https://github.com/CordXApp/API) - Archived/Not Maintained
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [sahandghavidel/insta-v4](https://github.com/sahandghavidel/insta-v4) - Instageram clone using Next js and Tailwind CSS
 - [duiqt/herta_kuru](https://github.com/duiqt/herta_kuru) - The website for Herta, the cutest genius Honkai: Star Rail character out there.
@@ -1135,6 +1135,7 @@
 
 ## Rust 
 
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [Zaid-maker/turbo](https://github.com/Zaid-maker/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.

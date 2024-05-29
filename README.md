@@ -118,7 +118,7 @@
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [TheHellTower/Hex-Virtualization](https://github.com/TheHellTower/Hex-Virtualization) - 
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
-- [Jdbaii/Telefang-2-English-Translation-Project](https://github.com/Jdbaii/Telefang-2-English-Translation-Project) - A translation project for translating the Japanese GBA game Telefang 2 into English by making use of the bootleg English translation as well as further modifications.
+- [Jdbye/Telefang-2-English-Translation-Project](https://github.com/Jdbye/Telefang-2-English-Translation-Project) - A translation project for translating the Japanese GBA game Telefang 2 into English by making use of the bootleg English translation as well as further modifications.
 - [Null-Bot9875/GameOffProject](https://github.com/Null-Bot9875/GameOffProject) - 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
@@ -879,6 +879,8 @@
 
 ## Others 
 
+- [SeiferTim/SeiferTim](https://github.com/SeiferTim/SeiferTim) - 
+- [nikhil-shuklaa/Cool-GitHub-Profile-README](https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README) - This repo is dedicated to collecting and showcasing the coolest GitHub profile READMEs from developers around the world. Whether your README is visually stunning, informative, or uniquely creative, we
 - [Platane/Platane](https://github.com/Platane/Platane) - 
 - [codedamn/core](https://github.com/codedamn/core) - Official tracking repository for codedamn services
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -972,6 +974,7 @@
 
 ## PHP 
 
+- [louislam/uptime-kuma-website](https://github.com/louislam/uptime-kuma-website) - 
 - [erikaheidi/autodocs](https://github.com/erikaheidi/autodocs) - Automated Documentation
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
@@ -1265,7 +1268,7 @@
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [vercel-labs/gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
-- [abizek/stopwatch](https://github.com/abizek/stopwatch) - Stopwatch app with 10ms accuracy and lap support inspired by the Samsung stopwatch.
+- [abizek/kloc](https://github.com/abizek/kloc) - Shareable stopwatch and timer
 - [SukkaW/react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack) - The webpack/rspack loader for React Compiler
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework

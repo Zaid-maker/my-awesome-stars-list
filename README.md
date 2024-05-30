@@ -753,7 +753,6 @@
 - [Mr-KayJayDee/discord-image-generation](https://github.com/Mr-KayJayDee/discord-image-generation) - Moved to a new repository
 - [Zaid-maker/ping-pong-beta](https://github.com/Zaid-maker/ping-pong-beta) - Beta Testing for pingpongbot.
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc
-- [RealStormi/drunkobotsite](https://github.com/RealStormi/drunkobotsite) - Drunk o'bot's Website
 - [Sparker-99/string-progressbar](https://github.com/Sparker-99/string-progressbar) - A simple and customizable progress bar generator
 - [Ricky-JS/Nodrani](https://github.com/Ricky-JS/Nodrani) - 5/13/2020 - 1/3/2021
 - [RichardPompeo/GroveBot](https://github.com/RichardPompeo/GroveBot) - Grove - Discord Music Bot powered by Lavalink

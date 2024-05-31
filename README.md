@@ -396,6 +396,7 @@
 
 ## JavaScript 
 
+- [AlphaNodesDev/AlphaCtyl](https://github.com/AlphaNodesDev/AlphaCtyl) - Pterodactyl Manager Dashboard
 - [vercel-labs/function-database-latency](https://github.com/vercel-labs/function-database-latency) - Visualize the latency of databases from Vercel Functions.
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [action-pack/send-mail](https://github.com/action-pack/send-mail) - Action to send an email.
@@ -1005,6 +1006,7 @@
 
 ## Python 
 
+- [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions) - Update your README.md file with the weather of a city
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
 - [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -1137,6 +1139,7 @@
 
 ## Rust 
 
+- [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.

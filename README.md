@@ -828,6 +828,7 @@
 
 ## Kotlin 
 
+- [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
 - [gayanvoice/convert-website-to-android-app](https://github.com/gayanvoice/convert-website-to-android-app) - 
@@ -1006,6 +1007,7 @@
 
 ## Python 
 
+- [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 - [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions) - Update your README.md file with the weather of a city
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
 - [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line

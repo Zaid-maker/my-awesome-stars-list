@@ -1261,6 +1261,7 @@
 
 ## Swift 
 
+- [bryce-co/AnimatedAppIcons](https://github.com/bryce-co/AnimatedAppIcons) - Trick iOS Into Animating App Icons
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
 ## TypeScript 
@@ -1693,6 +1694,7 @@
 
 ## Vue 
 
+- [bufferhead-code/onthisday](https://github.com/bufferhead-code/onthisday) - History Weather Data for the current day powered by SQLite
 - [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)
 - [Sank6/Dijkstras-3D](https://github.com/Sank6/Dijkstras-3D) - 
 - [WongSaang/chatgpt-ui](https://github.com/WongSaang/chatgpt-ui) - A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts.

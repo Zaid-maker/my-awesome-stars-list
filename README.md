@@ -76,7 +76,7 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## C 
 
@@ -155,7 +155,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [wictornogueira/nfsu2-rpc](https://github.com/wictornogueira/nfsu2-rpc) - A mod that adds Discord Rich Presence integration to Need for Speed: Underground 2
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [Endermanch/XPKeygen](https://github.com/Endermanch/XPKeygen) - Windows XP Keygen
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -1266,6 +1266,7 @@
 
 ## TypeScript 
 
+- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
 - [marco-souza/act](https://github.com/marco-souza/act) - Act 🏃 first, think 🤔 later!
 - [yo-goto/type-relation](https://github.com/yo-goto/type-relation) - Type relation checker

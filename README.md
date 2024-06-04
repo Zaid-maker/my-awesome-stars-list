@@ -1221,6 +1221,7 @@
 
 ## Shell 
 
+- [pyupio/safety-action](https://github.com/pyupio/safety-action) - Runs the Safety CLI dependency scanner against your project
 - [Zaid-maker/repos](https://github.com/Zaid-maker/repos) - 
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.

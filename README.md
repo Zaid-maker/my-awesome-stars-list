@@ -382,6 +382,7 @@
 - [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [wanam/YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
+- [heroku/cnb-builder-images](https://github.com/heroku/cnb-builder-images) - Recipes for building Heroku's Cloud Native Buildpacks builder images
 - [openskynetwork/opensky-api](https://github.com/openskynetwork/opensky-api) - Python and Java bindings for the OpenSky Network REST API
 - [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [KSoft-Si/KSoft4J](https://github.com/KSoft-Si/KSoft4J) - Official Java wrapper for the KSoft API
@@ -396,6 +397,7 @@
 
 ## JavaScript 
 
+- [Mokkapps/mokkapps](https://github.com/Mokkapps/mokkapps) - My GitHub profile README which is automatically updated. Please ⭐️ if you like it
 - [AlphaNodesDev/AlphaCtyl](https://github.com/AlphaNodesDev/AlphaCtyl) - Pterodactyl Manager Dashboard
 - [vercel-labs/function-database-latency](https://github.com/vercel-labs/function-database-latency) - Visualize the latency of databases from Vercel Functions.
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
@@ -1007,6 +1009,7 @@
 
 ## Python 
 
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
 - [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 - [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions) - Update your README.md file with the weather of a city
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
@@ -1236,7 +1239,6 @@
 - [WeblateOrg/docker-compose](https://github.com/WeblateOrg/docker-compose) - Docker compose for Weblate
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
-- [heroku/cnb-builder-images](https://github.com/heroku/cnb-builder-images) - Recipes for building Heroku's Cloud Native Buildpacks builder images
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [elementar/docker-s3-volume](https://github.com/elementar/docker-s3-volume) - Docker container with a data volume from s3.
 - [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻

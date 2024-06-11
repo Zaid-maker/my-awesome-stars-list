@@ -402,7 +402,6 @@
 ## JavaScript 
 
 - [Mokkapps/mokkapps](https://github.com/Mokkapps/mokkapps) - My GitHub profile README which is automatically updated. Please ⭐️ if you like it
-- [AlphaNodesDev/AlphaCtyl](https://github.com/AlphaNodesDev/AlphaCtyl) - Pterodactyl Manager Dashboard
 - [vercel-labs/function-database-latency](https://github.com/vercel-labs/function-database-latency) - Visualize the latency of databases from Vercel Functions.
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [action-pack/send-mail](https://github.com/action-pack/send-mail) - Action to send an email.
@@ -440,7 +439,6 @@
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here!
 - [open-vsx/publish-extensions](https://github.com/open-vsx/publish-extensions) - Scripts for publishing VS Code extensions to open-vsx.org
 - [jsdelivr/data.jsdelivr.com](https://github.com/jsdelivr/data.jsdelivr.com) - The public jsDelivr API. Get npm packages, files, versions, entry points, as well as their CDN URLs and download stats.
-- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
@@ -490,7 +488,6 @@
 - [sahandghavidel/insta-v4](https://github.com/sahandghavidel/insta-v4) - Instageram clone using Next js and Tailwind CSS
 - [duiqt/herta_kuru](https://github.com/duiqt/herta_kuru) - The website for Herta, the cutest genius Honkai: Star Rail character out there.
 - [Team-IC/mineboty](https://github.com/Team-IC/mineboty) - mineboty is an npm package to make minecraft bot in a minute . it will help you to make best in pvp will also guard the place
-- [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma) - A fancy self-hosted monitoring tool
 - [marklagendijk/node-start-on-windows-boot](https://github.com/marklagendijk/node-start-on-windows-boot) - Simple utility to enable / disable starting a program on Windows boot, by modifiying the right registry values.
 - [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot) - Utility to make PM2 automatically resurrect on Windows startup
 - [revertinc/revert-example-apps](https://github.com/revertinc/revert-example-apps) - Example apps in different frontend frameworks that use Revert SDKs
@@ -981,7 +978,6 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [louislam/uptime-kuma-website](https://github.com/louislam/uptime-kuma-website) - 
 - [erikaheidi/autodocs](https://github.com/erikaheidi/autodocs) - Automated Documentation
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
@@ -1229,6 +1225,7 @@
 
 ## Shell 
 
+- [tj-actions/verify-changed-files](https://github.com/tj-actions/verify-changed-files) - :octocat: Github action to verify file changes that occur during the workflow execution.
 - [pyupio/safety-action](https://github.com/pyupio/safety-action) - Runs the Safety CLI dependency scanner against your project
 - [Zaid-maker/repos](https://github.com/Zaid-maker/repos) - 
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
@@ -1367,6 +1364,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Zaid-maker/next-auth-masterclass](https://github.com/Zaid-maker/next-auth-masterclass) - 
 - [toxic-development/Citizen](https://github.com/toxic-development/Citizen) - The FiveM and RedM bot you need. Offering a wide array of features to ensure your community is safe and engaged at all times.  Including but not limited to : Server Statistics, Player Count, Managemen
+- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [RubricLab/create-rubric-app](https://github.com/RubricLab/create-rubric-app) - CLI tool to get started with a full-stack AI project.
 - [withgraphite/year-in-code](https://github.com/withgraphite/year-in-code) - 
 - [Ezard/semantic-prs](https://github.com/Ezard/semantic-prs) - A GitHub app to check that pull requests follow the Conventional Commits spec

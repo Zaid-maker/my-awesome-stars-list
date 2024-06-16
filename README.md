@@ -121,7 +121,7 @@
 - [Jdbye/Telefang-2-English-Translation-Project](https://github.com/Jdbye/Telefang-2-English-Translation-Project) - A translation project for translating the Japanese GBA game Telefang 2 into English by making use of the bootleg English translation as well as further modifications.
 - [Null-Bot9875/GameOffProject](https://github.com/Null-Bot9875/GameOffProject) - 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 - [louislam/lazy-compress-h265](https://github.com/louislam/lazy-compress-h265) - Compress or convert your video files to h.265 (hevc) format with one-click, make its size much smaller!
 - [louislam/rdp-portal](https://github.com/louislam/rdp-portal) - A slightly smarter and simple Remote Desktop manager for Windows.
@@ -500,7 +500,7 @@
 - [AllTwinkleStars/Room_Booking](https://github.com/AllTwinkleStars/Room_Booking) - 
 - [NovoManu/node-webcontainers](https://github.com/NovoManu/node-webcontainers) - 
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
-- [kabirsingh2004/JUGNU-MUSIC](https://github.com/kabirsingh2004/JUGNU-MUSIC) - Top-notch Music Bot with Buttons, premium Filters, sleek UI, dedicated bot channel support. Built on Distube.JS, Discord.JS, Express.js, and Josh wrapper for SQL and Mongoose
+- [kabirjaipal/JUGNU-MUSIC](https://github.com/kabirjaipal/JUGNU-MUSIC) - Top-notch Music Bot with Buttons, premium Filters, sleek UI, dedicated bot channel support. Built on Distube.JS, Discord.JS, Express.js, and Josh wrapper for SQL and Mongoose
 - [Hextris/hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris!
 - [champ3oy/MobileView](https://github.com/champ3oy/MobileView) - MobileView is a VS-Code extension that opens a responsive mobile view for testing your apps and websites directly form vs code.
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning

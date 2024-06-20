@@ -136,7 +136,6 @@
 - [Impostor/Impostor](https://github.com/Impostor/Impostor) - Impostor - An open source reimplementation of the Among Us Server
 - [SubmergedAmongUs/Submerged](https://github.com/SubmergedAmongUs/Submerged) - An Among Us mod which adds a new underwater map
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-- [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [HaveIBeenPwned/PwnedPasswordsSpeedChallenge](https://github.com/HaveIBeenPwned/PwnedPasswordsSpeedChallenge) - 
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
@@ -299,6 +298,7 @@
 - [InfinityBotList/Popplio](https://github.com/InfinityBotList/Popplio) - REST API for V3 and core backend for v4
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Infinity-Development/Mongo-2-Postgres](https://github.com/Infinity-Development/Mongo-2-Postgres) - Simple cli used to backup and migrate data from Mongoose to Postgres on a Rotating/Rolling basis.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo) - Discord Nitro sniper and Giveaway joiner in Go (Faster than Python and Javascript) (UPDATED Free 24/7 w/ Heroku)
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [ayoisaiah/focus](https://github.com/ayoisaiah/focus) - A fully featured productivity timer for the command line, based on the Pomodoro Technique. Supports Linux, Windows, and macOS.
@@ -400,6 +400,7 @@
 
 ## JavaScript 
 
+- [Gunthersuper/simple-steam-idler-replit](https://github.com/Gunthersuper/simple-steam-idler-replit) - 24/7 Steam ingame time idler with Replit (simple version)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [Mokkapps/mokkapps](https://github.com/Mokkapps/mokkapps) - My GitHub profile README which is automatically updated. Please ⭐️ if you like it
@@ -836,6 +837,7 @@
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
 - [gayanvoice/convert-website-to-android-app](https://github.com/gayanvoice/convert-website-to-android-app) - 
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
 
@@ -883,6 +885,7 @@
 
 ## Others 
 
+- [adrianogil/awesome-termux](https://github.com/adrianogil/awesome-termux) - A list of awesome things related to Termux
 - [SeiferTim/SeiferTim](https://github.com/SeiferTim/SeiferTim) - 
 - [nikhil-shuklaa/Cool-GitHub-Profile-README](https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README) - This repo is dedicated to collecting and showcasing the coolest GitHub profile READMEs from developers around the world. Whether your README is visually stunning, informative, or uniquely creative, we
 - [Platane/Platane](https://github.com/Platane/Platane) - 
@@ -1010,7 +1013,7 @@
 
 ## Python 
 
-- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux + agentic infra + api
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux
 - [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 - [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions) - Update your README.md file with the weather of a city
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
@@ -1552,7 +1555,6 @@
 - [stuyy/money-transfer-api](https://github.com/stuyy/money-transfer-api) - Money Transfer API using Nest.js
 - [WebDevSimplified/react-multistep-form](https://github.com/WebDevSimplified/react-multistep-form) - 
 - [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Zaid-maker/react-select](https://github.com/Zaid-maker/react-select) - LOL
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform

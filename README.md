@@ -886,6 +886,7 @@
 
 ## Others 
 
+- [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [adrianogil/awesome-termux](https://github.com/adrianogil/awesome-termux) - A list of awesome things related to Termux
 - [SeiferTim/SeiferTim](https://github.com/SeiferTim/SeiferTim) - 
 - [nikhil-shuklaa/Cool-GitHub-Profile-README](https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README) - This repo is dedicated to collecting and showcasing the coolest GitHub profile READMEs from developers around the world. Whether your README is visually stunning, informative, or uniquely creative, we
@@ -1014,6 +1015,7 @@
 
 ## Python 
 
+- [claytonjhamilton/claytonjhamilton](https://github.com/claytonjhamilton/claytonjhamilton) - My profile README repo. Share some love with a :star:!
 - [TechForPalestine/boycott-israeli-consumer-goods-dataset](https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset) - golden source for combining boycott data + alternatives
 - [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux
 - [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
@@ -1277,6 +1279,7 @@
 
 ## TypeScript 
 
+- [andreizanik/cookies-next](https://github.com/andreizanik/cookies-next) - Getting, setting and removing cookies on both client and server with next.js
 - [TechForPalestine/profile-pic-maker](https://github.com/TechForPalestine/profile-pic-maker) - Add a Palestinian themed border to your profile images
 - [TechForPalestine/palestine-datasets](https://github.com/TechForPalestine/palestine-datasets) - The human toll of Israel's ongoing genocide in names & numbers. Use the data from our APIs to tell their story.
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]

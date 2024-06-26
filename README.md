@@ -243,6 +243,7 @@
 
 ## Dockerfile 
 
+- [BlueprintFramework/docker](https://github.com/BlueprintFramework/docker) - Blueprint's extension ecosystem you know and love, in Docker. Install, manage and develop Pterodactyl modifications like never before.
 - [nhaef/devcontainer-bun](https://github.com/nhaef/devcontainer-bun) - The Bun Dev Container provides a pre-configured development environment through Visual Studio Code's Dev Containers, simplifying JavaScript and TypeScript project development with Bun. 🚀
 - [linuxserver/docker-syncthing](https://github.com/linuxserver/docker-syncthing) - 
 - [renovatebot/docker-renovate](https://github.com/renovatebot/docker-renovate) - Renovate docker slim image
@@ -272,6 +273,7 @@
 
 ## Go 
 
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
@@ -1152,6 +1154,7 @@
 
 ## Rust 
 
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
 - [InfinityBotList/infernoplex](https://github.com/InfinityBotList/infernoplex) - 
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
@@ -1282,7 +1285,6 @@
 - [andreizanik/cookies-next](https://github.com/andreizanik/cookies-next) - Getting, setting and removing cookies on both client and server with next.js
 - [TechForPalestine/profile-pic-maker](https://github.com/TechForPalestine/profile-pic-maker) - Add a Palestinian themed border to your profile images
 - [TechForPalestine/palestine-datasets](https://github.com/TechForPalestine/palestine-datasets) - The human toll of Israel's ongoing genocide in names & numbers. Use the data from our APIs to tell their story.
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
 - [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/jav
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere

@@ -380,6 +380,7 @@
 - [AnandChowdhary/everything](https://github.com/AnandChowdhary/everything) - ⏳ Everything Everywhere All at Once
 - [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status) - 📈 Uptime monitor and status page for DevMirza-Blog, powered by @upptime
 - [AnandChowdhary/okrs](https://github.com/AnandChowdhary/okrs) - 🧭 My personal Objectives and Key Results (OKRs), tracked on GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Java 
 
@@ -877,7 +878,6 @@
 - [AnandChowdhary/readme](https://github.com/AnandChowdhary/readme) - ✏️ Anand Chowdhary's README — a guide on how to work with me
 - [AnandChowdhary/themes](https://github.com/AnandChowdhary/themes) - 🌈 My yearly themes
 - [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced) - 📈 Uptime monitor and status page for DevMirza, powered by @upptime
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Move 
 

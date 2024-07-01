@@ -1283,6 +1283,8 @@
 
 ## TypeScript 
 
+- [adrianhajdin/event_platform](https://github.com/adrianhajdin/event_platform) - Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React
+- [wormhole-foundation/wormhole](https://github.com/wormhole-foundation/wormhole) - A reference implementation for the Wormhole blockchain interoperability protocol.
 - [andreizanik/cookies-next](https://github.com/andreizanik/cookies-next) - Getting, setting and removing cookies on both client and server with next.js
 - [TechForPalestine/profile-pic-maker](https://github.com/TechForPalestine/profile-pic-maker) - Add a Palestinian themed border to your profile images
 - [TechForPalestine/palestine-datasets](https://github.com/TechForPalestine/palestine-datasets) - The human toll of Israel's ongoing genocide in names & numbers. Use the data from our APIs to tell their story.

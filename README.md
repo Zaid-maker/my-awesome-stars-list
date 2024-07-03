@@ -121,7 +121,7 @@
 - [Jdbye/Telefang-2-English-Translation-Project](https://github.com/Jdbye/Telefang-2-English-Translation-Project) - A translation project for translating the Japanese GBA game Telefang 2 into English by making use of the bootleg English translation as well as further modifications.
 - [Null-Bot9875/GameOffProject](https://github.com/Null-Bot9875/GameOffProject) - 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 - [louislam/lazy-compress-h265](https://github.com/louislam/lazy-compress-h265) - Compress or convert your video files to h.265 (hevc) format with one-click, make its size much smaller!
 - [louislam/rdp-portal](https://github.com/louislam/rdp-portal) - A slightly smarter and simple Remote Desktop manager for Windows.
@@ -326,6 +326,7 @@
 
 ## HTML 
 
+- [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list) - A list of free and available public lavalink. Feel free to make a pull request!
 - [AnandChowdhary/one-grid](https://github.com/AnandChowdhary/one-grid) - One Grid is the simplest grid system in 1 KB
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [eps1lon/react-popover-api-demo](https://github.com/eps1lon/react-popover-api-demo) - Created with CodeSandbox
@@ -1029,7 +1030,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [ScrapeGraphAI/Scrapegraph-LabLabAI-Hackathon](https://github.com/ScrapeGraphAI/Scrapegraph-LabLabAI-Hackathon) - Code for the streamlit demo of Scrapegraph-ai for GPT4-hackaton
-- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [IQAndreas/github-issues-import](https://github.com/IQAndreas/github-issues-import) - Python script to import issues from one repository into another, either one at a time or all of them at once.

@@ -80,7 +80,7 @@
 
 ## C 
 
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [torvalds/uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
@@ -1152,7 +1152,7 @@
 - [devhub-forums/chirpy-client](https://github.com/devhub-forums/chirpy-client) - Plugin that adds additional introductions for staff members to the Dev Hub Chirpy Client.
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths.
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [git/git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 
 ## Rust 
@@ -1448,7 +1448,7 @@
 - [InfinityBotList/node-sdk](https://github.com/InfinityBotList/node-sdk) - The official node sdk for interacting with all of our services and modules.
 - [Zaid-maker/discord-clone](https://github.com/Zaid-maker/discord-clone) - Discord clone in nextjs 13
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [swc-project/swc-playground](https://github.com/swc-project/swc-playground) - The SWC playground.
 - [DanBot-Hosting/auth-frontend](https://github.com/DanBot-Hosting/auth-frontend) - 👤 Frontend for Website Authentication. WIP
 - [AnandChowdhary/analytics-icons](https://github.com/AnandChowdhary/analytics-icons) - 📈 Icons for browsers, OSes, devices, flags, and more

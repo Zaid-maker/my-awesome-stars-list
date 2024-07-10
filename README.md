@@ -465,7 +465,7 @@
 - [v8/v8.dev](https://github.com/v8/v8.dev) - The source code of v8.dev, the official website of the V8 project.
 - [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog
-- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec.
+- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec
 - [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
 - [strapi-community/strapi-plugin-multitenancy](https://github.com/strapi-community/strapi-plugin-multitenancy) - 
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
@@ -1057,7 +1057,7 @@
 - [openai/weak-to-strong](https://github.com/openai/weak-to-strong) - 
 - [Zaid-maker/4-million](https://github.com/Zaid-maker/4-million) - Let's break the world record of most commits &lt;3
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
 - [PaulLockett/LangServe-Railway](https://github.com/PaulLockett/LangServe-Railway) - LangServe Template for Railway one click deployments
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub

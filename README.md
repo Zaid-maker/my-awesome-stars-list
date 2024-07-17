@@ -155,6 +155,7 @@
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [simon-valerio-epfl/notes-ba1-simon](https://github.com/simon-valerio-epfl/notes-ba1-simon) - 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [wictornogueira/nfsu2-rpc](https://github.com/wictornogueira/nfsu2-rpc) - A mod that adds Discord Rich Presence integration to Need for Speed: Underground 2
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -400,6 +401,7 @@
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [PolyMarsDev/Sokobot](https://github.com/PolyMarsDev/Sokobot) - A Discord bot that lets you play Sokoban
 - [Mr-LegitHD/NightSky](https://github.com/Mr-LegitHD/NightSky) - Public Discord Bot made with JDA. This Bot is one of my first bigger coding projects
@@ -927,7 +929,6 @@
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [EpicGames/Signup](https://github.com/EpicGames/Signup) - Information about signing up for a free Epic Games account, and getting access to UnrealEngine source code.
 - [vn7n24fzkq/github-profile-summary-cards-example](https://github.com/vn7n24fzkq/github-profile-summary-cards-example) - github-profile-summary-cards' template
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [affan-ch/affan-ch](https://github.com/affan-ch/affan-ch) - Repository showcasing my coding journey: projects, scripts, and tools reflecting my passion and expertise in development.
 - [Zaid-maker/books](https://github.com/Zaid-maker/books) - 
 - [yc-oss/startups](https://github.com/yc-oss/startups) - Open source startups funded by Y Combinator
@@ -982,7 +983,6 @@
 - [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker) - 
 - [Androz2091/Androz2091](https://github.com/Androz2091/Androz2091) - 
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [npm/roadmap](https://github.com/npm/roadmap) - Public roadmap for npm
 - [0zul/LavalinkOnHeroku](https://github.com/0zul/LavalinkOnHeroku) - A test heroku app to deploy your own lavalink server
@@ -1172,7 +1172,7 @@
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
 - [chaudharypraveen98/ccurl](https://github.com/chaudharypraveen98/ccurl) - Custom implementation of Curl - Build Your Own curl
-- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.

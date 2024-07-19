@@ -408,6 +408,7 @@
 
 ## JavaScript 
 
+- [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [silas/node-consul](https://github.com/silas/node-consul) - Consul client
 - [Gunthersuper/simple-steam-idler-replit](https://github.com/Gunthersuper/simple-steam-idler-replit) - 24/7 Steam ingame time idler with Replit (simple version)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.

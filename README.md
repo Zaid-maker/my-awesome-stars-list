@@ -408,6 +408,7 @@
 
 ## JavaScript 
 
+- [adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [silas/node-consul](https://github.com/silas/node-consul) - Consul client
 - [Gunthersuper/simple-steam-idler-replit](https://github.com/Gunthersuper/simple-steam-idler-replit) - 24/7 Steam ingame time idler with Replit (simple version)
@@ -895,6 +896,7 @@
 
 ## Others 
 
+- [Visnalize/win7-simu](https://github.com/Visnalize/win7-simu) - 📝 Win7 Simu repo for issue reports and tracking
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [adrianogil/awesome-termux](https://github.com/adrianogil/awesome-termux) - A list of awesome things related to Termux
 - [SeiferTim/SeiferTim](https://github.com/SeiferTim/SeiferTim) - 
@@ -1731,6 +1733,7 @@
 
 ## Vue 
 
+- [Visnalize/win7-ui](https://github.com/Visnalize/win7-ui) - 📚 Vue2 component library for recreating Windows 7 UI
 - [bufferhead-code/onthisday](https://github.com/bufferhead-code/onthisday) - History Weather Data for the current day powered by SQLite
 - [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)
 - [Sank6/Dijkstras-3D](https://github.com/Sank6/Dijkstras-3D) - 

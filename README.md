@@ -1124,7 +1124,7 @@
 - [SilentJungle399/lofi-bot](https://github.com/SilentJungle399/lofi-bot) - 
 - [DankMemer/imgen](https://github.com/DankMemer/imgen) - API server for image manipulation, focused on Dank Memer (discord bot)
 - [TKperson/Nuking-Discord-Server-Bot-Nuke-Bot](https://github.com/TKperson/Nuking-Discord-Server-Bot-Nuke-Bot) - RIP servers; Fastest nuking bot out here.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [infinitelyjames/discordtownlistpy](https://github.com/infinitelyjames/discordtownlistpy) - Discord Town List API Interface (old vcodes clone)
 - [asish-op/nitro-gen-and-checker-but-very-fast](https://github.com/asish-op/nitro-gen-and-checker-but-very-fast) - this is a nitro generator i made using py but it can generate 10000codes in 1sec and it will take time to cheak that codes
 - [KevinLage/Spotify-Account-Creator](https://github.com/KevinLage/Spotify-Account-Creator) - 

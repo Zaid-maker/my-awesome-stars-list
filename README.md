@@ -557,7 +557,7 @@
 - [Zaid-maker/chrome-extension](https://github.com/Zaid-maker/chrome-extension) - 
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [novuhq/json-to-typescript-chatgpt](https://github.com/novuhq/json-to-typescript-chatgpt) - 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [TheHellTower/Discord-Bot-List](https://github.com/TheHellTower/Discord-Bot-List) - Live Version: https://dbl.ovh
 - [Zaid-maker/3d_portfolio](https://github.com/Zaid-maker/3d_portfolio) - 
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
@@ -1124,7 +1124,7 @@
 - [SilentJungle399/lofi-bot](https://github.com/SilentJungle399/lofi-bot) - 
 - [DankMemer/imgen](https://github.com/DankMemer/imgen) - API server for image manipulation, focused on Dank Memer (discord bot)
 - [TKperson/Nuking-Discord-Server-Bot-Nuke-Bot](https://github.com/TKperson/Nuking-Discord-Server-Bot-Nuke-Bot) - RIP servers; Fastest nuking bot out here.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [infinitelyjames/discordtownlistpy](https://github.com/infinitelyjames/discordtownlistpy) - Discord Town List API Interface (old vcodes clone)
 - [asish-op/nitro-gen-and-checker-but-very-fast](https://github.com/asish-op/nitro-gen-and-checker-but-very-fast) - this is a nitro generator i made using py but it can generate 10000codes in 1sec and it will take time to cheak that codes
 - [KevinLage/Spotify-Account-Creator](https://github.com/KevinLage/Spotify-Account-Creator) - 
@@ -1319,7 +1319,7 @@
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [eps1lon/actions-label-merge-conflict](https://github.com/eps1lon/actions-label-merge-conflict) - GitHub action that adds a label once a PR has merge conflicts
-- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
 - [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A floating rigibody character controller
 - [codefactor-io/vscode-repo-status](https://github.com/codefactor-io/vscode-repo-status) - 
 - [cchalop1/Inizio](https://github.com/cchalop1/Inizio) - Tools to generate devcontainer config.

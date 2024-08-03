@@ -1295,6 +1295,7 @@
 
 ## TypeScript 
 
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [mendsalbert/auditra](https://github.com/mendsalbert/auditra) - 
 - [mendsalbert/identiFi](https://github.com/mendsalbert/identiFi) - 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.

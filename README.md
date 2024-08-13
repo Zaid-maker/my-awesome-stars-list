@@ -306,7 +306,6 @@
 - [InfinityBotList/Popplio](https://github.com/InfinityBotList/Popplio) - REST API for V3 and core backend for v4
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Infinity-Development/Mongo-2-Postgres](https://github.com/Infinity-Development/Mongo-2-Postgres) - Simple cli used to backup and migrate data from Mongoose to Postgres on a Rotating/Rolling basis.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo) - Discord Nitro sniper and Giveaway joiner in Go (Faster than Python and Javascript) (UPDATED Free 24/7 w/ Heroku)
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [ayoisaiah/focus](https://github.com/ayoisaiah/focus) - A fully featured productivity timer for the command line, based on the Pomodoro Technique. Supports Linux, Windows, and macOS.
@@ -1226,7 +1225,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [adamchalmers/dingo](https://github.com/adamchalmers/dingo) - Command-line DNS client using bitvec, nom and RFC 1035
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL query engine for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Pos
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams, database CDC, and time series. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified stream
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Milo123459/scrooge](https://github.com/Milo123459/scrooge) - 😎 Run scripts in the command line automatically. No more copy pasting, just scrooge run!
 - [Milo123459/glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
@@ -1595,6 +1594,7 @@
 - [stuyy/money-transfer-api](https://github.com/stuyy/money-transfer-api) - Money Transfer API using Nest.js
 - [WebDevSimplified/react-multistep-form](https://github.com/WebDevSimplified/react-multistep-form) - 
 - [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Zaid-maker/react-select](https://github.com/Zaid-maker/react-select) - LOL
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform

@@ -306,6 +306,7 @@
 - [InfinityBotList/Popplio](https://github.com/InfinityBotList/Popplio) - REST API for V3 and core backend for v4
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Infinity-Development/Mongo-2-Postgres](https://github.com/Infinity-Development/Mongo-2-Postgres) - Simple cli used to backup and migrate data from Mongoose to Postgres on a Rotating/Rolling basis.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo) - Discord Nitro sniper and Giveaway joiner in Go (Faster than Python and Javascript) (UPDATED Free 24/7 w/ Heroku)
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [ayoisaiah/focus](https://github.com/ayoisaiah/focus) - A fully featured productivity timer for the command line, based on the Pomodoro Technique. Supports Linux, Windows, and macOS.
@@ -410,6 +411,7 @@
 
 ## JavaScript 
 
+- [Buzzpy/Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia) - An encyclopedia for everything, Programming.
 - [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats) - PteroStats is a bot designed to check Pterodactyl Panel and Nodes status and post it to your discord server
 - [adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
@@ -900,6 +902,7 @@
 
 ## Others 
 
+- [Azure/github-models](https://github.com/Azure/github-models) - GitHub model catalog
 - [jdrouet/action-git-metrics](https://github.com/jdrouet/action-git-metrics) - Github action for git-metrics
 - [devmirza-bot/rdp](https://github.com/devmirza-bot/rdp) - 
 - [Visnalize/win7-simu](https://github.com/Visnalize/win7-simu) - 📝 Win7 Simu repo for issue reports and tracking
@@ -1210,7 +1213,7 @@
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [dcoles/nginx-rs](https://github.com/dcoles/nginx-rs) - Nginx module written in Rust
 - [matt-kimball/allocscope](https://github.com/matt-kimball/allocscope) - allocscope  -  a memory tracking tool
-- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [Zaid-maker/hello-cargo](https://github.com/Zaid-maker/hello-cargo) - 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -1594,7 +1597,6 @@
 - [stuyy/money-transfer-api](https://github.com/stuyy/money-transfer-api) - Money Transfer API using Nest.js
 - [WebDevSimplified/react-multistep-form](https://github.com/WebDevSimplified/react-multistep-form) - 
 - [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Zaid-maker/react-select](https://github.com/Zaid-maker/react-select) - LOL
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform

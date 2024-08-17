@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
 - [livinamuk/Hell2024](https://github.com/livinamuk/Hell2024) - 
 - [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
 - [nasa/astrobee](https://github.com/nasa/astrobee) - NASA Astrobee Robot Software

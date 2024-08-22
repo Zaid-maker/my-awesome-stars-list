@@ -236,7 +236,6 @@
 
 ## CoffeeScript 
 
-- [paulmillr/top-github-users](https://github.com/paulmillr/top-github-users) - GitHub top-1000 generation script
 - [Androz2091/simsimi-bot](https://github.com/Androz2091/simsimi-bot) - Simsimi Discord Bot - The most clever chatbot
 
 ## Dart 
@@ -905,7 +904,6 @@
 
 - [Azure/github-models](https://github.com/Azure/github-models) - GitHub model catalog
 - [jdrouet/action-git-metrics](https://github.com/jdrouet/action-git-metrics) - Github action for git-metrics
-- [devmirza-bot/rdp](https://github.com/devmirza-bot/rdp) - 
 - [Visnalize/win7-simu](https://github.com/Visnalize/win7-simu) - 📝 Win7 Simu repo for issue reports and tracking
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [adrianogil/awesome-termux](https://github.com/adrianogil/awesome-termux) - A list of awesome things related to Termux
@@ -944,7 +942,6 @@
 - [vn7n24fzkq/github-profile-summary-cards-example](https://github.com/vn7n24fzkq/github-profile-summary-cards-example) - github-profile-summary-cards' template
 - [affan-ch/affan-ch](https://github.com/affan-ch/affan-ch) - Repository showcasing my coding journey: projects, scripts, and tools reflecting my passion and expertise in development.
 - [Zaid-maker/books](https://github.com/Zaid-maker/books) - 
-- [yc-oss/startups](https://github.com/yc-oss/startups) - Open source startups funded by Y Combinator
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [katoahq/docs](https://github.com/katoahq/docs) - Documentation for Katoa
 - [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
@@ -1230,7 +1227,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [adamchalmers/dingo](https://github.com/adamchalmers/dingo) - Command-line DNS client using bitvec, nom and RFC 1035
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch p
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL engine for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. 
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Milo123459/scrooge](https://github.com/Milo123459/scrooge) - 😎 Run scripts in the command line automatically. No more copy pasting, just scrooge run!
 - [Milo123459/glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
@@ -1420,7 +1417,7 @@
 - [remotion-dev/github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - Your coding year in review
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [Zaid-maker/Gamehub](https://github.com/Zaid-maker/Gamehub) - 
 - [vercel/speed-insights](https://github.com/vercel/speed-insights) - Vercel Speed Insights package
 - [whoisseth/country-info-app-yt](https://github.com/whoisseth/country-info-app-yt) - 
@@ -1456,6 +1453,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
+- [yc-oss/open-source-companies](https://github.com/yc-oss/open-source-companies) - Open source startups funded by Y Combinator
 - [AnandChowdhary/bookshelf-action](https://github.com/AnandChowdhary/bookshelf-action) - 📚 Track your reading using GitHub Actions
 - [AnandChowdhary/deliverabilityguide.com](https://github.com/AnandChowdhary/deliverabilityguide.com) - 📧 Never end in spam with the world's most comprehensive email deliverability checklist
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io

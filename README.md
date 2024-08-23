@@ -838,7 +838,7 @@
 ## Jupyter Notebook 
 
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [github/codespaces-jupyter](https://github.com/github/codespaces-jupyter) - Explore machine learning and data science with Codespaces
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -1453,7 +1453,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
-- [yc-oss/open-source-companies](https://github.com/yc-oss/open-source-companies) - Open source startups funded by Y Combinator
+- [yc-oss/open-source-companies](https://github.com/yc-oss/open-source-companies) - List of open source startups funded by Y Combinator
 - [AnandChowdhary/bookshelf-action](https://github.com/AnandChowdhary/bookshelf-action) - 📚 Track your reading using GitHub Actions
 - [AnandChowdhary/deliverabilityguide.com](https://github.com/AnandChowdhary/deliverabilityguide.com) - 📧 Never end in spam with the world's most comprehensive email deliverability checklist
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io

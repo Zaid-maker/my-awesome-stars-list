@@ -1034,6 +1034,8 @@
 
 ## Python 
 
+- [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
+- [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [claytonjhamilton/claytonjhamilton](https://github.com/claytonjhamilton/claytonjhamilton) - My profile README repo. Share some love with a :star:!

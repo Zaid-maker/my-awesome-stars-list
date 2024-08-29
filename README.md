@@ -1076,7 +1076,7 @@
 - [openai/weak-to-strong](https://github.com/openai/weak-to-strong) - 
 - [Zaid-maker/4-million](https://github.com/Zaid-maker/4-million) - Let's break the world record of most commits &lt;3
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inferenc
 - [PaulLockett/LangServe-Railway](https://github.com/PaulLockett/LangServe-Railway) - LangServe Template for Railway one click deployments
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
@@ -1362,7 +1362,7 @@
 - [adrianhajdin/zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 - [Rahuletto/pomobud](https://github.com/Rahuletto/pomobud) - Pomobud is a normal, simple yet minimal pomodoro timer (or) Tomato timer so you can focus and break that procrastination.
 - [Claradev32/real-time-with-signalR](https://github.com/Claradev32/real-time-with-signalR) - 
-- [gitroomhq/gitroom](https://github.com/gitroomhq/gitroom) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types
 - [keyurparalkar/render-million-rows](https://github.com/keyurparalkar/render-million-rows) - A project to demonstrate rendering 1 million rows in React
 - [Darker-Ink/anti-polls](https://github.com/Darker-Ink/anti-polls) - Punish users who post polls in your server
@@ -1674,7 +1674,7 @@
 - [lavacord/discord.js](https://github.com/lavacord/discord.js) - A lavalink library for discord.js using Lavacord
 - [lavacord/Lavacord](https://github.com/lavacord/Lavacord) - A easy to use Lavalink client that can be used with any discord api wrapper
 - [nitzanhen/agrippa](https://github.com/nitzanhen/agrippa) - The CLI for frontend component generation
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.

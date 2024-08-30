@@ -407,7 +407,6 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [PolyMarsDev/Sokobot](https://github.com/PolyMarsDev/Sokobot) - A Discord bot that lets you play Sokoban
 - [Mr-LegitHD/NightSky](https://github.com/Mr-LegitHD/NightSky) - Public Discord Bot made with JDA. This Bot is one of my first bigger coding projects
 
@@ -563,7 +562,7 @@
 - [Zaid-maker/chrome-extension](https://github.com/Zaid-maker/chrome-extension) - 
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [novuhq/json-to-typescript-chatgpt](https://github.com/novuhq/json-to-typescript-chatgpt) - 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
 - [TheHellTower/Discord-Bot-List](https://github.com/TheHellTower/Discord-Bot-List) - Live Version: https://dbl.ovh
 - [Zaid-maker/3d_portfolio](https://github.com/Zaid-maker/3d_portfolio) - 
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
@@ -859,6 +858,7 @@
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
+- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 
 ## Lua 
 
@@ -1035,6 +1035,8 @@
 
 ## Python 
 
+- [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -1048,7 +1050,7 @@
 - [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-- [ScrapeGraphAI/Scrapegraph-LabLabAI-Hackathon](https://github.com/ScrapeGraphAI/Scrapegraph-LabLabAI-Hackathon) - Code for the streamlit demo of Scrapegraph-ai for GPT4-hackaton
+- [ScrapeGraphAI/Scrapegraph-demo](https://github.com/ScrapeGraphAI/Scrapegraph-demo) - Streamlit demo of Scrapegraph-ai for GPT4-hackaton
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1231,7 +1233,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [adamchalmers/dingo](https://github.com/adamchalmers/dingo) - Command-line DNS client using bitvec, nom and RFC 1035
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL engine for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. 
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming 
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Milo123459/scrooge](https://github.com/Milo123459/scrooge) - 😎 Run scripts in the command line automatically. No more copy pasting, just scrooge run!
 - [Milo123459/glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
@@ -1304,6 +1306,8 @@
 
 ## TypeScript 
 
+- [mendsalbert/protein-bind-starter-file](https://github.com/mendsalbert/protein-bind-starter-file) - 
+- [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -1362,7 +1366,7 @@
 - [adrianhajdin/zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 - [Rahuletto/pomobud](https://github.com/Rahuletto/pomobud) - Pomobud is a normal, simple yet minimal pomodoro timer (or) Tomato timer so you can focus and break that procrastination.
 - [Claradev32/real-time-with-signalR](https://github.com/Claradev32/real-time-with-signalR) - 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types
 - [keyurparalkar/render-million-rows](https://github.com/keyurparalkar/render-million-rows) - A project to demonstrate rendering 1 million rows in React
 - [Darker-Ink/anti-polls](https://github.com/Darker-Ink/anti-polls) - Punish users who post polls in your server

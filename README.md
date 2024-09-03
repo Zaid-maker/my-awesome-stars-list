@@ -208,6 +208,7 @@
 
 ## CSS 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
 - [ManucrackYT/LapsusClient](https://github.com/ManucrackYT/LapsusClient) - ✨ Lapsus Client, the most modern and customizable Pterodactyl Client Area for your hosting.
 - [honojs/website](https://github.com/honojs/website) - Repository for hono.dev
@@ -896,6 +897,7 @@
 - [AnandChowdhary/readme](https://github.com/AnandChowdhary/readme) - ✏️ Anand Chowdhary's README — a guide on how to work with me
 - [AnandChowdhary/themes](https://github.com/AnandChowdhary/themes) - 🌈 My yearly themes
 - [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced) - 📈 Uptime monitor and status page for DevMirza, powered by @upptime
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Move 
 
@@ -981,7 +983,6 @@
 - [DanBot-Hosting/.github](https://github.com/DanBot-Hosting/.github) - All about DanBot Hosting.
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter) - 
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -1005,6 +1006,7 @@
 
 ## PHP 
 
+- [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
 - [server-status-project/server-status](https://github.com/server-status-project/server-status) - Simple, modern looking server status page with administration and some nice features, that can run even on shared webhosting
 - [louislam/uptime-kuma-website](https://github.com/louislam/uptime-kuma-website) - 
 - [erikaheidi/autodocs](https://github.com/erikaheidi/autodocs) - Automated Documentation
@@ -1370,7 +1372,7 @@
 - [adrianhajdin/zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 - [Rahuletto/pomobud](https://github.com/Rahuletto/pomobud) - Pomobud is a normal, simple yet minimal pomodoro timer (or) Tomato timer so you can focus and break that procrastination.
 - [Claradev32/real-time-with-signalR](https://github.com/Claradev32/real-time-with-signalR) - 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types
 - [keyurparalkar/render-million-rows](https://github.com/keyurparalkar/render-million-rows) - A project to demonstrate rendering 1 million rows in React
 - [Darker-Ink/anti-polls](https://github.com/Darker-Ink/anti-polls) - Punish users who post polls in your server

@@ -198,6 +198,7 @@
 
 ## CMake 
 
+- [f3d-app/lfs-data-cache-action](https://github.com/f3d-app/lfs-data-cache-action) - A github action to cache and recover LFS data
 - [MiKom/QtQuickApp](https://github.com/MiKom/QtQuickApp) - Template Qt Quick application
 
 ## COBOL 
@@ -1310,6 +1311,7 @@
 
 ## TypeScript 
 
+- [dus4nstojanovic/create-files-from-template-vscode](https://github.com/dus4nstojanovic/create-files-from-template-vscode) - 
 - [sujjeee/threads-clone](https://github.com/sujjeee/threads-clone) - Threads built with the t3-stack: Next.js 14, TypeScript, tRPC, Tailwind CSS, Shadcn ui, Prisma ORM, and Clerk Auth.
 - [dev-ahmadbilal/islam.js](https://github.com/dev-ahmadbilal/islam.js) - A comprehensive Typescript package offering Quranic text with multiple dialects (Hafs and Warsh), translations in over 20 languages, 28 Tafseers, Hadith collections with multiple translations, Dua and
 - [mendsalbert/ProteinBind](https://github.com/mendsalbert/ProteinBind) - 

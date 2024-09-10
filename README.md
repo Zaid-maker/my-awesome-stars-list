@@ -417,7 +417,7 @@
 ## JavaScript 
 
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
-- [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats) - PteroStats is a bot designed to check Pterodactyl Panel and Nodes status and post it to your discord server
+- [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats) - PteroStats is a Discord App that designed to check Pterodactyl or Pelican Panel stats and post it to your Discord server.
 - [adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [silas/node-consul](https://github.com/silas/node-consul) - Consul client

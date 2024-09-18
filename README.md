@@ -418,6 +418,7 @@
 
 ## JavaScript 
 
+- [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats) - PteroStats is a Discord App/Bot designed to check Pterodactyl or Pelican Panel stats and post it to your Discord server.
 - [adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
@@ -1313,6 +1314,7 @@
 
 ## TypeScript 
 
+- [nikandr-surkov/Notcoin-Telegram-Mini-App-Clone](https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone) - A clone of the popular Telegram mini app Notcoin (clicker game), built with Vite, TypeScript, and Tailwind CSS
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [dus4nstojanovic/create-files-from-template-vscode](https://github.com/dus4nstojanovic/create-files-from-template-vscode) - 
 - [sujjeee/threads-clone](https://github.com/sujjeee/threads-clone) - Threads built with the t3-stack: Next.js 14, TypeScript, tRPC, Tailwind CSS, Shadcn ui, Prisma ORM, and Clerk Auth.

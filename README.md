@@ -171,7 +171,7 @@
 - [mitchkoko/ModernSmartHomeUI](https://github.com/mitchkoko/ModernSmartHomeUI) - 
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [CarloWood/linuxviewer](https://github.com/CarloWood/linuxviewer) - A Vulkan Engine for the GNU/Linux operating system.
-- [Joshua-Ashton/VPhysics-Jolt](https://github.com/Joshua-Ashton/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
+- [misyltoad/VPhysics-Jolt](https://github.com/misyltoad/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
 - [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -366,6 +366,7 @@
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [fireship-io/threejs-scroll-animation-demo](https://github.com/fireship-io/threejs-scroll-animation-demo) - 3D Scrolling Portfolio Website with Three.js
 - [uploadr-club/frontend](https://github.com/uploadr-club/frontend) - frontend of uploadr v2
+- [git/git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 - [Zaid-maker/givesawaysbot.github.io](https://github.com/Zaid-maker/givesawaysbot.github.io) - A discord bot
 - [todaydevs/dark-mode](https://github.com/todaydevs/dark-mode) - Dark/Light mode for your website
 - [XynoxTheDev/My-Personal-Website](https://github.com/XynoxTheDev/My-Personal-Website) - My Open Source Website :D
@@ -585,7 +586,7 @@
 - [IAmADev78/my-first-strapi-app](https://github.com/IAmADev78/my-first-strapi-app) - 
 - [louislam/uptime-kuma-example-plugin](https://github.com/louislam/uptime-kuma-example-plugin) - 
 - [Zaid-maker/ai-image-generation](https://github.com/Zaid-maker/ai-image-generation) - 
-- [adh319/Lunox](https://github.com/adh319/Lunox) - Simply powerfull Discord Music Bot that used Poru Lavalink client & DiscordJS v14
+- [adh319/Lunox](https://github.com/adh319/Lunox) - Simply powerfull Discord Music Bot that used Lavalink client & DiscordJS v14
 - [Zaid-maker/nhost-test-app](https://github.com/Zaid-maker/nhost-test-app) - 
 - [D4r1inG/BioLinkApp](https://github.com/D4r1inG/BioLinkApp) - 
 - [MutluMinds/fullstack-image-app](https://github.com/MutluMinds/fullstack-image-app) - This app gets image data by using Node.js from GIPHY API (gifs) and PIXABAY API (images) and renders them by using React.js It's designed with mobile first approach and created by Furkan Mutlu and you
@@ -1182,7 +1183,6 @@
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
-- [git/git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 
 ## Rust 
 
@@ -1314,6 +1314,7 @@
 
 ## TypeScript 
 
+- [developersdigest/ai-consulting](https://github.com/developersdigest/ai-consulting) - 
 - [nikandr-surkov/Notcoin-Telegram-Mini-App-Clone](https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone) - A clone of the popular Telegram mini app Notcoin (clicker game), built with Vite, TypeScript, and Tailwind CSS
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [dus4nstojanovic/create-files-from-template-vscode](https://github.com/dus4nstojanovic/create-files-from-template-vscode) - 

@@ -103,7 +103,6 @@
 - [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
 - [cozis/xHTTP](https://github.com/cozis/xHTTP) - A lightweight HTTP server as a library.
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [opencomputeproject/Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project) - Develop an end-to-end hypothetical reference model, network architectures, precision time tools, performance objectives and the methods to distribute, operate, monitor time synchronization within data
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
@@ -187,6 +186,7 @@
 - [Poppro/MCNE](https://github.com/Poppro/MCNE) - Minecraft Neural Evolution (Reinforcment learning)
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -419,6 +419,9 @@
 
 ## JavaScript 
 
+- [adrianhajdin/xora](https://github.com/adrianhajdin/xora) - Learn how to build and deploy a SaaS landing page with modern UI and mobile-first principles while strengthening your React.js and Tailwind CSS skills.
+- [hkithub-official/no-plaintext-passwords](https://github.com/hkithub-official/no-plaintext-passwords) - 
+- [Tazhys/ecomping-nue](https://github.com/Tazhys/ecomping-nue) - A replica of contabo's ecomping-nue/ping api.
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats) - PteroStats is a Discord App/Bot designed to check Pterodactyl or Pelican Panel stats and post it to your Discord server.

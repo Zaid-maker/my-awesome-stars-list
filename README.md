@@ -156,7 +156,7 @@
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [facebookresearch/pyvrs](https://github.com/facebookresearch/pyvrs) - Python interface for https//github.com/facebookresearch/vrs.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
-- [simon-epfl/notes-ba1-simon](https://github.com/simon-epfl/notes-ba1-simon) - 
+- [simon-epfl/notes-ba1-simon](https://github.com/simon-epfl/notes-ba1-simon) - Mes notes de cours @ EPFL (bachelor semestre 1)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [wictornogueira/nfsu2-rpc](https://github.com/wictornogueira/nfsu2-rpc) - A mod that adds Discord Rich Presence integration to Need for Speed: Underground 2
@@ -589,7 +589,7 @@
 - [IAmADev78/my-first-strapi-app](https://github.com/IAmADev78/my-first-strapi-app) - 
 - [louislam/uptime-kuma-example-plugin](https://github.com/louislam/uptime-kuma-example-plugin) - 
 - [Zaid-maker/ai-image-generation](https://github.com/Zaid-maker/ai-image-generation) - 
-- [adh319/Lunox](https://github.com/adh319/Lunox) - Simply powerfull Discord Music Bot that used Lavalink client & DiscordJS v14
+- [adh319/Lunox](https://github.com/adh319/Lunox) - A simple yet powerful Discord music bot using the Lavalink client and Discord.js v14.
 - [Zaid-maker/nhost-test-app](https://github.com/Zaid-maker/nhost-test-app) - 
 - [D4r1inG/BioLinkApp](https://github.com/D4r1inG/BioLinkApp) - 
 - [MutluMinds/fullstack-image-app](https://github.com/MutluMinds/fullstack-image-app) - This app gets image data by using Node.js from GIPHY API (gifs) and PIXABAY API (images) and renders them by using React.js It's designed with mobile first approach and created by Furkan Mutlu and you
@@ -1317,6 +1317,7 @@
 
 ## TypeScript 
 
+- [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [developersdigest/ai-consulting](https://github.com/developersdigest/ai-consulting) - 
 - [nikandr-surkov/Notcoin-Telegram-Mini-App-Clone](https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone) - A clone of the popular Telegram mini app Notcoin (clicker game), built with Vite, TypeScript, and Tailwind CSS
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.

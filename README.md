@@ -80,6 +80,7 @@
 
 ## C 
 
+- [ZoidTechnology/PCIce](https://github.com/ZoidTechnology/PCIce) - A PCI Express card with an inbuilt PWM fan controller and mounting points for an 80mm fan.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -439,7 +440,7 @@
 - [action-pack/send-mail](https://github.com/action-pack/send-mail) - Action to send an email.
 - [dessant/lock-threads](https://github.com/dessant/lock-threads) - GitHub Action that locks closed issues, pull requests and discussions after a period of inactivity
 - [pmndrs/gltf-react-three](https://github.com/pmndrs/gltf-react-three) - Convert GLTF files to React Three Fiber Components
-- [skyportlabs/panel](https://github.com/skyportlabs/panel) - Skyport is an open source panel for managing and operating game servers and applications built using Node.js with Express and Dockerode.
+- [skyportlabs/panel](https://github.com/skyportlabs/panel) - Skyport is an open source panel for managing and operating game servers and applications built using Node.js with Express and Dockerode. SSB0aGluayBJJ3ZlIG1hZGUgbXkgY2hvaWNlCkknbSBhIGRlY2Vhc2VkIHBsYXl
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [donmccurdy/three-to-cannon](https://github.com/donmccurdy/three-to-cannon) - Convert a THREE.Mesh to a CANNON.Shape.
 - [BestGamersH/Multipurpose-Discord-Bot](https://github.com/BestGamersH/Multipurpose-Discord-Bot) - The bot that has everything! - Leveling • Music • Memes • Moderation • nsfw • Logging • Tickets • Reaction Roles • Fun • Anime • Applications • Much More
@@ -1322,6 +1323,7 @@
 
 ## TypeScript 
 
+- [di-sukharev/forks](https://github.com/di-sukharev/forks) - Forks are the open-source AI-powered code editors in the one open-source AI-powered code editor. A fork of VSCode and BlueberryAI and PearAI and Continue.
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [developersdigest/ai-consulting](https://github.com/developersdigest/ai-consulting) - 
 - [nikandr-surkov/Notcoin-Telegram-Mini-App-Clone](https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone) - A clone of the popular Telegram mini app Notcoin (clicker game), built with Vite, TypeScript, and Tailwind CSS

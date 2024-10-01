@@ -118,7 +118,6 @@
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2)
 - [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL) - Clash of SL Server (CSS) that is the fully free open source clash of clans private server and it is not affiliated to "Supercell , Oy " .
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [TheHellTower/Hex-Virtualization](https://github.com/TheHellTower/Hex-Virtualization) - 
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [Jdbye/Telefang-2-English-Translation-Project](https://github.com/Jdbye/Telefang-2-English-Translation-Project) - A translation project for translating the Japanese GBA game Telefang 2 into English by making use of the bootleg English translation as well as further modifications.
@@ -890,7 +889,6 @@
 - [adrianhajdin/docs](https://github.com/adrianhajdin/docs) - 
 - [InfinityBotList/Documentation](https://github.com/InfinityBotList/Documentation) - Documentation Site for Infinity Bot List
 - [Androz2091/blog.androz2091.fr](https://github.com/Androz2091/blog.androz2091.fr) - ✏️ My personal blog, built with Gatsby 2
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
 ## Makefile 
 
@@ -1049,6 +1047,7 @@
 
 ## Python 
 
+- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [jawikas/memefi-bot](https://github.com/jawikas/memefi-bot) - memefi bot automation for memefi miniapp t.me/memefi_coin_bot which has quite complete features, made more concise and readable for development, taken from the original repository owned by adearmanwij
 - [jawikas/goats-bot](https://github.com/jawikas/goats-bot) - GoatsBot is an automation script for completing missions, checking in, and spinning the slot machine on the Real Goats Bot Telegram. This script handles multiple accounts, automates login, mission com
 - [jawikas/hamsterkombat](https://github.com/jawikas/hamsterkombat) - This is a bot that can help you to run hamsterkombat telegram bot which has quite complete features with auto upgrade (3 methods), auto complete combo & auto complete daily cipher/morse.
@@ -1323,7 +1322,7 @@
 
 ## TypeScript 
 
-- [di-sukharev/forks](https://github.com/di-sukharev/forks) - Forks are the open-source AI-powered code editors in the one open-source AI-powered code editor. A fork of VSCode and BlueberryAI and PearAI and Continue.
+- [di-sukharev/forks](https://github.com/di-sukharev/forks) - Forks are the open-source AI-powered code editors in the one open-source AI-powered code editor. A fork of VSCode and BlueberryAI and PearAI and Continue and every other shi ai slop IDE fork.
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [developersdigest/ai-consulting](https://github.com/developersdigest/ai-consulting) - 
 - [nikandr-surkov/Notcoin-Telegram-Mini-App-Clone](https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone) - A clone of the popular Telegram mini app Notcoin (clicker game), built with Vite, TypeScript, and Tailwind CSS
@@ -1672,6 +1671,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [jeremybarbet/react-native-jsi-base-coder](https://github.com/jeremybarbet/react-native-jsi-base-coder) - Base64/32/16 encoding/decoding for React Native written in C/C++ and JSI.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [web3ui/web3uikit](https://github.com/web3ui/web3uikit) - Lightweight reusable Web3 UI components for dapps.

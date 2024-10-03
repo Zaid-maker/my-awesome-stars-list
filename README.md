@@ -419,6 +419,7 @@
 
 ## JavaScript 
 
+- [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
 - [adrianhajdin/xora](https://github.com/adrianhajdin/xora) - Learn how to build and deploy a SaaS landing page with modern UI and mobile-first principles while strengthening your React.js and Tailwind CSS skills.
 - [hkithub-official/no-plaintext-passwords](https://github.com/hkithub-official/no-plaintext-passwords) - 
 - [Tazhys/ecomping-nue](https://github.com/Tazhys/ecomping-nue) - A replica of contabo's ecomping-nue/ping api.
@@ -1429,7 +1430,7 @@
 - [unjs/automd](https://github.com/unjs/automd) - 🤖 Automated markdown maintainer
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
 - [Zaid-maker/jotion-next13](https://github.com/Zaid-maker/jotion-next13) - 
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [DanBot-Hosting/DBH-Bot-API](https://github.com/DanBot-Hosting/DBH-Bot-API) - A simple bot API for DanBot Hosting. Heavily under development.

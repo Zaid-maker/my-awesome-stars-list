@@ -213,7 +213,6 @@
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
 - [ManucrackYT/LapsusClient](https://github.com/ManucrackYT/LapsusClient) - ✨ Lapsus Client, the most modern and customizable Pterodactyl Client Area for your hosting.
-- [honojs/website](https://github.com/honojs/website) - Repository for hono.dev
 - [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner) - Simply setup banner for websites to show support for Palestinians.
 - [get-convex/convex-tour-chat](https://github.com/get-convex/convex-tour-chat) - Chat app for use during Convex tutorial (found at https://convex.dev/start)
 - [AsmrProg-YT/Modern-Login](https://github.com/AsmrProg-YT/Modern-Login) - AsmrProg Youtube Channel Modern Login Design Source Code
@@ -419,6 +418,7 @@
 
 ## JavaScript 
 
+- [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box) - 
 - [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
 - [adrianhajdin/xora](https://github.com/adrianhajdin/xora) - Learn how to build and deploy a SaaS landing page with modern UI and mobile-first principles while strengthening your React.js and Tailwind CSS skills.
 - [hkithub-official/no-plaintext-passwords](https://github.com/hkithub-official/no-plaintext-passwords) - 
@@ -1364,6 +1364,7 @@
 - [abizek/kloc](https://github.com/abizek/kloc) - Shareable stopwatch and timer
 - [SukkaW/react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack) - The webpack/rspack loader for React Compiler
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
+- [honojs/website](https://github.com/honojs/website) - Repository for hono.dev
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [eps1lon/actions-label-merge-conflict](https://github.com/eps1lon/actions-label-merge-conflict) - GitHub action that adds a label once a PR has merge conflicts

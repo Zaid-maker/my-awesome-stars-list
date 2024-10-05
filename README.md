@@ -76,7 +76,6 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## C 
 
@@ -418,6 +417,7 @@
 
 ## JavaScript 
 
+- [Freddywhest/MemeFiBot-New](https://github.com/Freddywhest/MemeFiBot-New) - Made by Alfred Nti. Node.js bot for farming MemeFi telegram bot.
 - [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box) - 
 - [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
 - [adrianhajdin/xora](https://github.com/adrianhajdin/xora) - Learn how to build and deploy a SaaS landing page with modern UI and mobile-first principles while strengthening your React.js and Tailwind CSS skills.
@@ -1043,6 +1043,7 @@
 - [actions/node-versions](https://github.com/actions/node-versions) - Node builds for Actions Runner Images
 - [actions/go-versions](https://github.com/actions/go-versions) - Go releases for Actions Runner Images
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with
 - [pabumake/windowToolboxMalware-Removal](https://github.com/pabumake/windowToolboxMalware-Removal) - wTM-Removal searches and removes malicous files regarding the bad github repo
 

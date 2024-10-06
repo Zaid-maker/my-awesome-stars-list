@@ -285,7 +285,7 @@
 
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
@@ -417,6 +417,7 @@
 
 ## JavaScript 
 
+- [Freddywhest/VertusBot](https://github.com/Freddywhest/VertusBot) - About Made by Alfred Nti. Node.js bot for farming Vertus telegram bot.
 - [Freddywhest/MemeFiBot-New](https://github.com/Freddywhest/MemeFiBot-New) - Made by Alfred Nti. Node.js bot for farming MemeFi telegram bot.
 - [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box) - 
 - [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
@@ -1049,6 +1050,12 @@
 
 ## Python 
 
+- [Wokzy/TurboBattleCity](https://github.com/Wokzy/TurboBattleCity) - Battle City PC impl
+- [hokireceh/tomarket](https://github.com/hokireceh/tomarket) - Tomarket Auto Farm & Claim
+- [GravelFire/Tomarket](https://github.com/GravelFire/Tomarket) - Made by Hidden Code. Python bot for Tomarket 🍅 telegram bot
+- [YarmolenkoD/boinkers](https://github.com/YarmolenkoD/boinkers) - Boinkers is a Telegram automation tool designed to help you manage and interact with boinker_bot. This bot can create sessions, gather statistics, and automate tasks for your accounts.
+- [YarmolenkoD/moonbix](https://github.com/YarmolenkoD/moonbix) - Python bot for telegram moonbix bot. (Auto refs, auto games, auto tasks, multithreading, proxy, pyrogram sessions)
+- [aDarkDev/NotPixel](https://github.com/aDarkDev/NotPixel) - NotPixel automatic claim and paint bot، easy to use without extras.
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [jawikas/memefi-bot](https://github.com/jawikas/memefi-bot) - memefi bot automation for memefi miniapp t.me/memefi_coin_bot which has quite complete features, made more concise and readable for development, taken from the original repository owned by adearmanwij
 - [jawikas/goats-bot](https://github.com/jawikas/goats-bot) - GoatsBot is an automation script for completing missions, checking in, and spinning the slot machine on the Real Goats Bot Telegram. This script handles multiple accounts, automates login, mission com
@@ -1432,7 +1439,7 @@
 - [unjs/automd](https://github.com/unjs/automd) - 🤖 Automated markdown maintainer
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
 - [Zaid-maker/jotion-next13](https://github.com/Zaid-maker/jotion-next13) - 
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [DanBot-Hosting/DBH-Bot-API](https://github.com/DanBot-Hosting/DBH-Bot-API) - A simple bot API for DanBot Hosting. Heavily under development.

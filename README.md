@@ -417,6 +417,7 @@
 
 ## JavaScript 
 
+- [Galkurta/BabyDoge-BOT](https://github.com/Galkurta/BabyDoge-BOT) - 
 - [Freddywhest/VertusBot](https://github.com/Freddywhest/VertusBot) - About Made by Alfred Nti. Node.js bot for farming Vertus telegram bot.
 - [Freddywhest/MemeFiBot-New](https://github.com/Freddywhest/MemeFiBot-New) - Made by Alfred Nti. Node.js bot for farming MemeFi telegram bot.
 - [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box) - 
@@ -701,7 +702,6 @@
 - [rivest-oss/discord.js-v13-modals](https://github.com/rivest-oss/discord.js-v13-modals) - 
 - [danielpmc/statusmonitor-server](https://github.com/danielpmc/statusmonitor-server) - 
 - [adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website) - Tutorial created by Enyel Sequeira, taught by JavaScript Mastery
-- [RileCraft/ExpressAPI-Handler](https://github.com/RileCraft/ExpressAPI-Handler) - A Handler for APIs made in Express.
 - [CleverProgrammers/tiktok-clone](https://github.com/CleverProgrammers/tiktok-clone) - A clone of TikTok built by Sonny & Qazi 👉 https://tik-tok-clone-eb635.web.app/
 - [CleverProgrammers/spotify-clone](https://github.com/CleverProgrammers/spotify-clone) - 
 - [Zaid-maker/opensea](https://github.com/Zaid-maker/opensea) - 
@@ -1051,6 +1051,7 @@
 
 ## Python 
 
+- [sizifart/SeedCoinBot](https://github.com/sizifart/SeedCoinBot) - SeedCoinBot App AutoClicker
 - [Wokzy/TurboBattleCity](https://github.com/Wokzy/TurboBattleCity) - Battle City PC impl
 - [hokireceh/tomarket](https://github.com/hokireceh/tomarket) - Tomarket Auto Farm & Claim
 - [GravelFire/Tomarket](https://github.com/GravelFire/Tomarket) - Made by Hidden Code. Python bot for Tomarket 🍅 telegram bot
@@ -1058,10 +1059,6 @@
 - [YarmolenkoD/moonbix](https://github.com/YarmolenkoD/moonbix) - Python bot for telegram moonbix bot. (Auto refs, auto games, auto tasks, multithreading, proxy, pyrogram sessions)
 - [aDarkDev/NotPixel](https://github.com/aDarkDev/NotPixel) - NotPixel automatic claim and paint bot، easy to use without extras.
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
-- [jawikas/memefi-bot](https://github.com/jawikas/memefi-bot) - memefi bot automation for memefi miniapp t.me/memefi_coin_bot which has quite complete features, made more concise and readable for development, taken from the original repository owned by adearmanwij
-- [jawikas/goats-bot](https://github.com/jawikas/goats-bot) - GoatsBot is an automation script for completing missions, checking in, and spinning the slot machine on the Real Goats Bot Telegram. This script handles multiple accounts, automates login, mission com
-- [jawikas/hamsterkombat](https://github.com/jawikas/hamsterkombat) - This is a bot that can help you to run hamsterkombat telegram bot which has quite complete features with auto upgrade (3 methods), auto complete combo & auto complete daily cipher/morse.
-- [jawikas/major-bot](https://github.com/jawikas/major-bot) - A Python bot for interacting with the Major Telegram Bot API. This bot can perform various tasks such as checking in, managing tasks, holding coins, spinning, and retrieving user information.
 - [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
@@ -1332,6 +1329,7 @@
 
 ## TypeScript 
 
+- [ariflogs/RetroUI](https://github.com/ariflogs/RetroUI) - A retro-styled Tailwind CSS component library for modern web apps.
 - [di-sukharev/forks](https://github.com/di-sukharev/forks) - Forks are the open-source AI-powered code editors in the one open-source AI-powered code editor. A fork of VSCode and BlueberryAI and PearAI and Continue and every other shi ai slop IDE fork.
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [developersdigest/ai-consulting](https://github.com/developersdigest/ai-consulting) - 

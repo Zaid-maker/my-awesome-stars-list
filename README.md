@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
 - [livinamuk/Hell2024](https://github.com/livinamuk/Hell2024) - 
@@ -285,7 +286,7 @@
 
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
@@ -920,6 +921,7 @@
 
 ## Others 
 
+- [reactwg/react-compiler](https://github.com/reactwg/react-compiler) - Working group for using React Compiler in production
 - [Azure/github-models](https://github.com/Azure/github-models) - GitHub model catalog
 - [jdrouet/action-git-metrics](https://github.com/jdrouet/action-git-metrics) - Github action for git-metrics
 - [Visnalize/win7-simu](https://github.com/Visnalize/win7-simu) - 📝 Win7 Simu repo for issue reports and tracking
@@ -1056,7 +1058,7 @@
 - [hokireceh/tomarket](https://github.com/hokireceh/tomarket) - Tomarket Auto Farm & Claim
 - [GravelFire/Tomarket](https://github.com/GravelFire/Tomarket) - Made by Hidden Code. Python bot for Tomarket 🍅 telegram bot
 - [YarmolenkoD/boinkers](https://github.com/YarmolenkoD/boinkers) - Boinkers is a Telegram automation tool designed to help you manage and interact with boinker_bot. This bot can create sessions, gather statistics, and automate tasks for your accounts.
-- [YarmolenkoD/moonbix](https://github.com/YarmolenkoD/moonbix) - Python bot for telegram moonbix bot. (Auto refs, auto games, auto tasks, multithreading, proxy, pyrogram sessions)
+- [YarmolenkoD/moonbix](https://github.com/YarmolenkoD/moonbix) - [NO SUPPORTED FOR NOW] Python bot for telegram moonbix bot. (Auto refs, auto games, auto tasks, multithreading, proxy, pyrogram sessions)
 - [aDarkDev/NotPixel](https://github.com/aDarkDev/NotPixel) - NotPixel automatic claim and paint bot، easy to use without extras.
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w

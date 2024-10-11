@@ -1025,7 +1025,6 @@
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel Dashboard Preset Based on Tabler HTML Template + Vite. https://tablar.ebuz.xyz/docs
-- [louislam/louislam-crud](https://github.com/louislam/louislam-crud) - An easy-to-use CRUD library for you to create a back-end system or RESTful API in a few minutes.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 10x + Laravel Sanctum that comes with an excellent user and role management API out of the box
 - [todaydevs/nigatedev](https://github.com/todaydevs/nigatedev) - Nigatedev PHP framework for saving time
@@ -1057,7 +1056,6 @@
 - [sizifart/SeedCoinBot](https://github.com/sizifart/SeedCoinBot) - SeedCoinBot App AutoClicker
 - [Wokzy/TurboBattleCity](https://github.com/Wokzy/TurboBattleCity) - Battle City PC impl
 - [hokireceh/tomarket](https://github.com/hokireceh/tomarket) - Tomarket Auto Farm & Claim
-- [GravelFire/Tomarket](https://github.com/GravelFire/Tomarket) - Made by Hidden Code. Python bot for Tomarket 🍅 telegram bot
 - [YarmolenkoD/boinkers](https://github.com/YarmolenkoD/boinkers) - Boinkers is a Telegram automation tool designed to help you manage and interact with boinker_bot. This bot can create sessions, gather statistics, and automate tasks for your accounts.
 - [YarmolenkoD/moonbix](https://github.com/YarmolenkoD/moonbix) - [NO SUPPORTED FOR NOW] Python bot for telegram moonbix bot. (Auto refs, auto games, auto tasks, multithreading, proxy, pyrogram sessions)
 - [aDarkDev/NotPixel](https://github.com/aDarkDev/NotPixel) - NotPixel automatic claim and paint bot، easy to use without extras.
@@ -1332,6 +1330,7 @@
 
 ## TypeScript 
 
+- [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [ariflogs/RetroUI](https://github.com/ariflogs/RetroUI) - A retro-styled Tailwind CSS component library for modern web apps.
 - [di-sukharev/forks](https://github.com/di-sukharev/forks) - Forks are the open-source AI-powered code editors in the one open-source AI-powered code editor. A fork of VSCode and BlueberryAI and PearAI and Continue and every other shi ai slop IDE fork.
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment

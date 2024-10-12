@@ -1331,7 +1331,7 @@
 ## TypeScript 
 
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
-- [ariflogs/RetroUI](https://github.com/ariflogs/RetroUI) - A retro-styled Tailwind CSS component library for modern web apps.
+- [Logging-Stuff/RetroUI](https://github.com/Logging-Stuff/RetroUI) - A retro-styled UI library for modern web applications.
 - [di-sukharev/forks](https://github.com/di-sukharev/forks) - Forks are the open-source AI-powered code editors in the one open-source AI-powered code editor. A fork of VSCode and BlueberryAI and PearAI and Continue and every other shi ai slop IDE fork.
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [developersdigest/ai-consulting](https://github.com/developersdigest/ai-consulting) - 

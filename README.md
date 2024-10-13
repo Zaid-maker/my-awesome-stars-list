@@ -1052,6 +1052,7 @@
 
 ## Python 
 
+- [nadirasaid8/HMSTR-S2](https://github.com/nadirasaid8/HMSTR-S2) - This is a bot that can help you to run 'HMSTR Season 2' telegram bot!
 - [nadirasaid8/majohub](https://github.com/nadirasaid8/majohub) - A Python bot for interacting with the M*jor Telegram Bot API. This bot can perform various tasks such as checking in, managing tasks, holding coins, spinning, and retrieving user information.
 - [sizifart/SeedCoinBot](https://github.com/sizifart/SeedCoinBot) - SeedCoinBot App AutoClicker
 - [Wokzy/TurboBattleCity](https://github.com/Wokzy/TurboBattleCity) - Battle City PC impl

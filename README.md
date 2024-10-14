@@ -1018,6 +1018,7 @@
 
 ## PHP 
 
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
 - [server-status-project/server-status](https://github.com/server-status-project/server-status) - Simple, modern looking server status page with administration and some nice features, that can run even on shared webhosting
 - [louislam/uptime-kuma-website](https://github.com/louislam/uptime-kuma-website) - 
@@ -1052,6 +1053,7 @@
 
 ## Python 
 
+- [0x9900/sunbot](https://github.com/0x9900/sunbot) - Sun activity and propagation bot for telegram.
 - [nadirasaid8/HMSTR-S2](https://github.com/nadirasaid8/HMSTR-S2) - This is a bot that can help you to run 'HMSTR Season 2' telegram bot!
 - [nadirasaid8/majohub](https://github.com/nadirasaid8/majohub) - A Python bot for interacting with the M*jor Telegram Bot API. This bot can perform various tasks such as checking in, managing tasks, holding coins, spinning, and retrieving user information.
 - [sizifart/SeedCoinBot](https://github.com/sizifart/SeedCoinBot) - SeedCoinBot App AutoClicker

@@ -141,13 +141,12 @@
 - [HaveIBeenPwned/PwnedPasswordsSpeedChallenge](https://github.com/HaveIBeenPwned/PwnedPasswordsSpeedChallenge) - 
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 - [PolyMarsDev/Minecraft-Skin-Grabber](https://github.com/PolyMarsDev/Minecraft-Skin-Grabber) - Minecraft skin-grabbing tool made with Unity and minotar.net
 
 ## C++ 
 
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
 - [livinamuk/Hell2024](https://github.com/livinamuk/Hell2024) - 
@@ -419,6 +418,8 @@
 
 ## JavaScript 
 
+- [Freddywhest/NotPixel](https://github.com/Freddywhest/NotPixel) - Made by Alfred Nti. Node.js bot for farming NotPixel telegram bot.
+- [Freddywhest/ToMarketBot](https://github.com/Freddywhest/ToMarketBot) - About Made by Alfred Nti. Node.js bot for farming ToMarket telegram bot.
 - [Galkurta/BabyDoge-BOT](https://github.com/Galkurta/BabyDoge-BOT) - 
 - [Freddywhest/VertusBot](https://github.com/Freddywhest/VertusBot) - About Made by Alfred Nti. Node.js bot for farming Vertus telegram bot.
 - [Freddywhest/MemeFiBot-New](https://github.com/Freddywhest/MemeFiBot-New) - Made by Alfred Nti. Node.js bot for farming MemeFi telegram bot.
@@ -1333,6 +1334,7 @@
 
 ## TypeScript 
 
+- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [Logging-Stuff/RetroUI](https://github.com/Logging-Stuff/RetroUI) - A retro-styled UI library for modern web applications.
 - [di-sukharev/forks](https://github.com/di-sukharev/forks) - Forks are the open-source AI-powered code editors in the one open-source AI-powered code editor. A fork of VSCode and BlueberryAI and PearAI and Continue and every other shi ai slop IDE fork.

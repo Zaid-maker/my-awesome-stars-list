@@ -79,6 +79,7 @@
 
 ## C 
 
+- [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer) - 
 - [ZoidTechnology/PCIce](https://github.com/ZoidTechnology/PCIce) - A PCI Express card with an inbuilt PWM fan controller and mounting points for an 80mm fan.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
@@ -1150,7 +1151,7 @@
 - [aadhithya/rajiniPP](https://github.com/aadhithya/rajiniPP) - Programming language based on Iconic dialogues of Rajinikanth. 🤘🏽
 - [ZephrFish/F5-CVE-2022-1388-Exploit](https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit) - Exploit and Check Script for CVE 2022-1388
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [useragents/Snapchat-Snapscore-Botter](https://github.com/useragents/Snapchat-Snapscore-Botter) - 🌟 Get MILLIONS of snapscore
 - [useragents/Proxyless-TikTok-Username-Checker](https://github.com/useragents/Proxyless-TikTok-Username-Checker) - Loops through a list of usernames to check if they are available or unavailable
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using ADS-B data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and res

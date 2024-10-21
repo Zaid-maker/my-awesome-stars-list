@@ -286,6 +286,7 @@
 
 ## Go 
 
+- [BrunoCiccarino/GopherLight](https://github.com/BrunoCiccarino/GopherLight) - 🚂 An web micro-framework based on express-js
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.

@@ -9,6 +9,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
+- [Bicep](#bicep)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -77,6 +78,10 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+## Bicep 
+
+- [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)
 
 ## C 
 
@@ -248,6 +253,7 @@
 
 ## Dart 
 
+- [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app) - The Flutter app for the ION ecosystem.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [Hemsara/welink](https://github.com/Hemsara/welink) - An advanced full-stack bio link app built with flutter, python and javascript
 - [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) - freeCodeCamp's open-source mobile app made with Flutter
@@ -1817,7 +1823,6 @@
 
 - [Visnalize/win7-ui](https://github.com/Visnalize/win7-ui) - 📚 Vue2 component library for recreating Windows 7 UI
 - [bufferhead-code/onthisday](https://github.com/bufferhead-code/onthisday) - History Weather Data for the current day powered by SQLite
-- [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)
 - [Sank6/Dijkstras-3D](https://github.com/Sank6/Dijkstras-3D) - 
 - [WongSaang/chatgpt-ui](https://github.com/WongSaang/chatgpt-ui) - A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts.
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) - 

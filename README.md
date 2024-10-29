@@ -294,7 +294,7 @@
 
 ## Go 
 
-- [BrunoCiccarino/GopherLight](https://github.com/BrunoCiccarino/GopherLight) - 🚂 An web micro-framework based on express-js
+- [BrunoCiccarino/GopherLight](https://github.com/BrunoCiccarino/GopherLight) - 🚂 An web framework based on express-js
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
@@ -427,8 +427,8 @@
 
 ## JavaScript 
 
+- [Freddywhest/WallectConnector](https://github.com/Freddywhest/WallectConnector) - Made by Alfred Nti. Node.js bot for connecting wallets to telegram mini games.
 - [Freddywhest/BlumBot](https://github.com/Freddywhest/BlumBot) - Made by Alfred Nti. Python bot for farming Blum telegram bot.
-- [Freddywhest/WuykzEas0LDTwIhjYNYES5v7yZcQcK0B](https://github.com/Freddywhest/WuykzEas0LDTwIhjYNYES5v7yZcQcK0B) - 
 - [Freddywhest/NotPixel](https://github.com/Freddywhest/NotPixel) - Made by Alfred Nti. Node.js bot for farming NotPixel telegram bot.
 - [Freddywhest/ToMarketBot](https://github.com/Freddywhest/ToMarketBot) - About Made by Alfred Nti. Node.js bot for farming ToMarket telegram bot.
 - [Galkurta/BabyDoge-BOT](https://github.com/Galkurta/BabyDoge-BOT) - 
@@ -928,7 +928,6 @@
 
 ## Others 
 
-- [Freddywhest/WallectConnector](https://github.com/Freddywhest/WallectConnector) - Made by Alfred Nti. Node.js bot for connecting wallets to telegram mini games.
 - [AnLoMinus/X-Portal](https://github.com/AnLoMinus/X-Portal) - X-Portal
 - [reactwg/react-compiler](https://github.com/reactwg/react-compiler) - Working group for using React Compiler in production
 - [Azure/github-models](https://github.com/Azure/github-models) - GitHub model catalog

@@ -37,6 +37,7 @@
 - [Markdown](#markdown)
 - [Move](#move)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -417,6 +418,7 @@
 
 ## Java 
 
+- [bddicken/languages](https://github.com/bddicken/languages) - Compare languages
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -436,6 +438,7 @@
 
 ## JavaScript 
 
+- [petercunha/tts](https://github.com/petercunha/tts) - :pencil: :sound: A simple text-to-speech tool. Converts your text to speech with any of StreamElements voices. Frontend built with Gatsby.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [Freddywhest/PawsBot](https://github.com/Freddywhest/PawsBot) - Made by Alfred Nti. Node.js bot for farming Paws telegram bot.
@@ -643,7 +646,6 @@
 - [MainSilent/Discord-Screenshare](https://github.com/MainSilent/Discord-Screenshare) - First ever discord video screenshare SELFBOT
 - [adrianhajdin/project_web3_uniswap](https://github.com/adrianhajdin/project_web3_uniswap) - Master Web3 development by building a Uniswap dApp React application with metamask pairing, live smart contract data fetching, and most importantly, the ability to create your own ERC20 tokens, swap t
 - [Zaid-maker/uniswap-clone-2.0](https://github.com/Zaid-maker/uniswap-clone-2.0) - 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [catdad/electronmon](https://github.com/catdad/electronmon) - 🖥 run, watch, and restart electron apps using magic
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [adrianhajdin/project_music_player](https://github.com/adrianhajdin/project_music_player) - Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around yo
@@ -874,7 +876,6 @@
 ## Jupyter Notebook 
 
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [github/codespaces-jupyter](https://github.com/github/codespaces-jupyter) - Explore machine learning and data science with Codespaces
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -938,6 +939,10 @@
 ## Nim 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
+
+## Nix 
+
+- [mrjones2014/opnix](https://github.com/mrjones2014/opnix) - ❄️ Native secret management for NixOS using 1Password.
 
 ## Others 
 
@@ -1148,6 +1153,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [WeblateOrg/translation-finder](https://github.com/WeblateOrg/translation-finder) - Translation files finder
 - [Peppershade/uptimekuma-migrator](https://github.com/Peppershade/uptimekuma-migrator) - Simple migrator from UptimeRobot to UptimeKuma
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [198808xc/Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - An official implementation of Pangu-Weather
 - [SealedSaucer/Voicecord](https://github.com/SealedSaucer/Voicecord) - Make Your Discord Account 24/7 On Voice Channels!
 - [ISS-Mimic/Mimic](https://github.com/ISS-Mimic/Mimic) - We use the actual live data from the International Space Station to control a 3D-printed model that moves the solar arrays and radiators to track the real ISS in real time for STEM outreach purposes! 
@@ -1702,6 +1708,7 @@
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [beemobot/sugar](https://github.com/beemobot/sugar) - As of 2023 MAR 26, sugar has been archived and moved to the mono-repo at https://github.com/beemobot/cafe
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [stuyy/money-transfer-api](https://github.com/stuyy/money-transfer-api) - Money Transfer API using Nest.js
 - [WebDevSimplified/react-multistep-form](https://github.com/WebDevSimplified/react-multistep-form) - 
 - [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code

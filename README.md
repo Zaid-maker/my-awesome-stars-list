@@ -503,7 +503,7 @@
 - [wikimedia/analytics-wikistats2](https://github.com/wikimedia/analytics-wikistats2) - Mirror from https://gerrit.wikimedia.org/g/analytics/wikistats2
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here!
-- [open-vsx/publish-extensions](https://github.com/open-vsx/publish-extensions) - Scripts for publishing VS Code extensions to open-vsx.org
+- [EclipseFdn/publish-extensions](https://github.com/EclipseFdn/publish-extensions) - Scripts for publishing VS Code extensions to open-vsx.org
 - [jsdelivr/data.jsdelivr.com](https://github.com/jsdelivr/data.jsdelivr.com) - The public jsDelivr API. Get npm packages, files, versions, entry points, as well as their CDN URLs and download stats.
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
@@ -1080,6 +1080,7 @@
 
 ## Python 
 
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [TinyTalkHQ/POC](https://github.com/TinyTalkHQ/POC) - 
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 - [PrefectHQ/compat-tests](https://github.com/PrefectHQ/compat-tests) - Compatibility testing suite between OSS and Cloud

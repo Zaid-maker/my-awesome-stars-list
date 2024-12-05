@@ -1080,6 +1080,7 @@
 
 ## Python 
 
+- [vanhbakaa/Fabrika-Friends-Factory](https://github.com/vanhbakaa/Fabrika-Friends-Factory) - Python bot for Fabrika (Friends Factory) telegram bot. The bot that automated every single things in this mini app. Join here:
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [TinyTalkHQ/POC](https://github.com/TinyTalkHQ/POC) - 
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
@@ -1107,7 +1108,7 @@
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [claytonjhamilton/claytonjhamilton](https://github.com/claytonjhamilton/claytonjhamilton) - My profile README repo. Share some love with a :star:!
 - [TechForPalestine/boycott-israeli-consumer-goods-dataset](https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset) - golden source for combining boycott data + alternatives
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - Supports MCP
 - [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 - [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions) - Update your README.md file with the weather of a city
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
@@ -1385,6 +1386,7 @@
 
 ## TypeScript 
 
+- [vercel/postgres-next-starter](https://github.com/vercel/postgres-next-starter) - Get started quickly with a Postgres database and a Next.js App Router application.
 - [zaidhafeeez/DefinitelyTyped](https://github.com/zaidhafeeez/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)

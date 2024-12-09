@@ -121,6 +121,7 @@
 
 ## C# # 
 
+- [glad-tidings/TimeFarmBot](https://github.com/glad-tidings/TimeFarmBot) - TimeFarmBot Auto Farm
 - [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6) - A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia
 - [ThioJoe/Edit-Clipboard-Contents](https://github.com/ThioJoe/Edit-Clipboard-Contents) - Allows viewing, editing, and even deleting individual items within the Windows clipboard
 - [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
@@ -1081,6 +1082,7 @@
 
 ## Python 
 
+- [microsoft/Trace](https://github.com/microsoft/Trace) - End-to-end Generative Optimization for AI Agents
 - [vanhbakaa/Fabrika-Friends-Factory](https://github.com/vanhbakaa/Fabrika-Friends-Factory) - Python bot for Fabrika (Friends Factory) telegram bot. The bot that automated every single things in this mini app. Join here:
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [TinyTalkHQ/POC](https://github.com/TinyTalkHQ/POC) - 
@@ -1109,7 +1111,7 @@
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [claytonjhamilton/claytonjhamilton](https://github.com/claytonjhamilton/claytonjhamilton) - My profile README repo. Share some love with a :star:!
 - [TechForPalestine/boycott-israeli-consumer-goods-dataset](https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset) - golden source for combining boycott data + alternatives
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - Supports MCP
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
 - [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 - [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions) - Update your README.md file with the weather of a city
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file

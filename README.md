@@ -1246,6 +1246,7 @@
 
 ## Rust 
 
+- [nexus-xyz/network-api](https://github.com/nexus-xyz/network-api) - High-performance interface for supplying compute to the Nexus network.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [Rapptz/sub-tools](https://github.com/Rapptz/sub-tools) - 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL.
@@ -1388,6 +1389,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/ai-facts](https://github.com/vercel-labs/ai-facts) - 
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [vercel/postgres-next-starter](https://github.com/vercel/postgres-next-starter) - Get started quickly with a Postgres database and a Next.js App Router application.
 - [zaidhafeeez/DefinitelyTyped](https://github.com/zaidhafeeez/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -1395,7 +1397,7 @@
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 - [Zaid-maker/neural-network-training-sim](https://github.com/Zaid-maker/neural-network-training-sim) - 
-- [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, right from CI/CD. Talk to our dev team to become a customer!
+- [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, for web & mobile, right from CI/CD.
 - [CordXApp/lintydeps](https://github.com/CordXApp/lintydeps) - LintyDeps is a tool designed to find and report missing or unused dependencies and dev dependencies in your project.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think

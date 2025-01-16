@@ -1136,7 +1136,7 @@
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [claytonjhamilton/claytonjhamilton](https://github.com/claytonjhamilton/claytonjhamilton) - My profile README repo. Share some love with a :star:!
 - [TechForPalestine/boycott-israeli-consumer-goods-dataset](https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset) - golden source for combining boycott data + alternatives
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - MCP-supported AI agent framework for digital workers and vertical AI agents
 - [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 - [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions) - Update your README.md file with the weather of a city
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
@@ -1754,6 +1754,7 @@
 - [peterthehan/discord-audit-log-bot](https://github.com/peterthehan/discord-audit-log-bot) - A Discord bot that extends Discord's native Audit Log.
 - [discord/react-native-webview](https://github.com/discord/react-native-webview) - React Native Cross-Platform WebView
 - [upptime/uptime-monitor](https://github.com/upptime/uptime-monitor) - ⬆️📈 Uptime monitor powered by GitHub Actions
+- [Infinity-Development/Website](https://github.com/Infinity-Development/Website) - Portfolio Site for the Infinity Development Team.
 - [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
@@ -1924,7 +1925,6 @@
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) - 
 - [domin-mnd/todo-tracker](https://github.com/domin-mnd/todo-tracker) - ✅ Todo tracker built with Vue & Tailwind CSS.
 - [Sank6/YouTube-Wrapped](https://github.com/Sank6/YouTube-Wrapped) - Spotify Wrapped but for YouTube (Because Rewind sucked).
-- [Infinity-Development/Website](https://github.com/Infinity-Development/Website) - Portfolio Site for the Infinity Development Team.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [nuxt/website-v2](https://github.com/nuxt/website-v2) - Nuxt 2 Documentation Website
 - [Androz2091/slash-commands-gui](https://github.com/Androz2091/slash-commands-gui) - GUI tool to explore Slash Commands of your bot, built on Vue 3 and TailwindCSS 🚀

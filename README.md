@@ -1136,7 +1136,7 @@
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [claytonjhamilton/claytonjhamilton](https://github.com/claytonjhamilton/claytonjhamilton) - My profile README repo. Share some love with a :star:!
 - [TechForPalestine/boycott-israeli-consumer-goods-dataset](https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset) - golden source for combining boycott data + alternatives
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - MCP-supported AI agent framework for digital workers and vertical AI agents
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - We dont have any Crypto Project, they are totaly SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
 - [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 - [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions) - Update your README.md file with the weather of a city
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
@@ -1419,6 +1419,7 @@
 
 ## TypeScript 
 
+- [advaith1/statusbadges](https://github.com/advaith1/statusbadges) - Shields-style badges showing what you're doing, powered by Discord
 - [adrianhajdin/university-library-jsm](https://github.com/adrianhajdin/university-library-jsm) - Learn to build a production-grade University Library Management System with industry-standard practices; from rate-limiting, DDoS protection, caching, optimizations, multi-media uploads, complex db qu
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
@@ -1445,7 +1446,7 @@
 - [ice-blockchain/mobile-app](https://github.com/ice-blockchain/mobile-app) - React Native App for the mining of ice coins.
 - [nextjs/deploy-render](https://github.com/nextjs/deploy-render) - Next.js template to deploy to Render as a Node.js server.
 - [mendsalbert/http3](https://github.com/mendsalbert/http3) - 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes [In Beta]
 - [microsoft/beachball](https://github.com/microsoft/beachball) - The Sunniest Semantic Version Bumper
 - [kdimitrov997/my-jira-clone](https://github.com/kdimitrov997/my-jira-clone) - 
 - [nicitaacom/19_spotify-clone](https://github.com/nicitaacom/19_spotify-clone) - YouTube - code with Antonio - spotify clone

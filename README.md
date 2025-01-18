@@ -276,6 +276,7 @@
 
 ## Dockerfile 
 
+- [louislam/simple-docker-github-actions-runner](https://github.com/louislam/simple-docker-github-actions-runner) - 
 - [BlueprintFramework/docker](https://github.com/BlueprintFramework/docker) - Blueprint's extension ecosystem you know and love, in Docker. Install, manage and develop Pterodactyl modifications like never before.
 - [nhaef/devcontainer-bun](https://github.com/nhaef/devcontainer-bun) - The Bun Dev Container provides a pre-configured development environment through Visual Studio Code's Dev Containers, simplifying JavaScript and TypeScript project development with Bun. 🚀
 - [linuxserver/docker-syncthing](https://github.com/linuxserver/docker-syncthing) - 
@@ -450,6 +451,7 @@
 
 ## JavaScript 
 
+- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react) - Demos and tutorials for getting started with Appwrite + React JS
 - [Zaid-maker/tiny-deep-clone](https://github.com/Zaid-maker/tiny-deep-clone) - 
 - [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action) - 
@@ -1136,7 +1138,7 @@
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [claytonjhamilton/claytonjhamilton](https://github.com/claytonjhamilton/claytonjhamilton) - My profile README repo. Share some love with a :star:!
 - [TechForPalestine/boycott-israeli-consumer-goods-dataset](https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset) - golden source for combining boycott data + alternatives
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - We dont have any Crypto Project, they are totaly SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
 - [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 - [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions) - Update your README.md file with the weather of a city
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file

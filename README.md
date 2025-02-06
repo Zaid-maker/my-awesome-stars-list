@@ -368,6 +368,7 @@
 
 ## HTML 
 
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty) - 
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list) - A list of free and available public lavalink. Feel free to make a pull request!
@@ -454,6 +455,7 @@
 
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [eps1lon/types-react-codemod](https://github.com/eps1lon/types-react-codemod) - Collection of transforms for jscodeshift related to `@types/react`
+- [zaidhafeeez/ideal-bassoon](https://github.com/zaidhafeeez/ideal-bassoon) - 
 - [reactjs/react-tabs](https://github.com/reactjs/react-tabs) - An accessible and easy tab component for ReactJS.
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react) - Demos and tutorials for getting started with Appwrite + React JS
@@ -1367,7 +1369,6 @@
 
 ## Shell 
 
-- [zaidhafeeez/ideal-bassoon](https://github.com/zaidhafeeez/ideal-bassoon) - 
 - [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
 - [tj-actions/verify-changed-files](https://github.com/tj-actions/verify-changed-files) - :octocat: Github action to verify file changes that occur during the workflow execution.
 - [pyupio/safety-action](https://github.com/pyupio/safety-action) - Runs the Safety CLI dependency scanner against your project
@@ -1431,7 +1432,7 @@
 ## TypeScript 
 
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included.
-- [nizzyabi/mail](https://github.com/nizzyabi/mail) - open source gmail alternative
+- [nizzyabi/Mail0](https://github.com/nizzyabi/Mail0) - open source gmail alternative (coming soon)
 - [Magmastream-NPM/magmastream_basics_bot](https://github.com/Magmastream-NPM/magmastream_basics_bot) - An example of how Magmastream can be implemented.
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.

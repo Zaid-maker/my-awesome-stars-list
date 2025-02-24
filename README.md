@@ -37,6 +37,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Move](#move)
+- [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Others](#others)
@@ -976,6 +977,10 @@
 
 - [pontem-network/pontem](https://github.com/pontem-network/pontem) - 🚀 Pontem Parachain node with Move VM onboard.
 
+## Mustache 
+
+- [coredns/helm](https://github.com/coredns/helm) - Helm Charts for CoreDNS
+
 ## Nim 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -1461,7 +1466,7 @@
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) - 
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included.
-- [Mail-0/Mail-0](https://github.com/Mail-0/Mail-0) - open source gmail alternative (coming soon). join the discord: discord.gg/0email
+- [Mail-0/Mail-0](https://github.com/Mail-0/Mail-0) - open source gmail alternative (coming soon). join the discord: https://discord.gg/0email
 - [Magmastream-NPM/magmastream_basics_bot](https://github.com/Magmastream-NPM/magmastream_basics_bot) - An example of how Magmastream can be implemented.
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.

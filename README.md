@@ -470,6 +470,7 @@
 
 ## JavaScript 
 
+- [getcouped/eslint-plugin-react-google-translate](https://github.com/getcouped/eslint-plugin-react-google-translate) - ESlint plugin for highlighting React patterns which can potentially cause browser exceptions while Google Translate is in use.
 - [hotheadhacker/youtube-player](https://github.com/hotheadhacker/youtube-player) - youtube-player
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site) - 
@@ -996,6 +997,7 @@
 
 ## Others 
 
+- [jakelmg/easy-lancache-server](https://github.com/jakelmg/easy-lancache-server) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - 
 - [ThePrimeagen/chussy](https://github.com/ThePrimeagen/chussy) - 
 - [Zaid-maker/react-mirror](https://github.com/Zaid-maker/react-mirror) - Mission to preserve React History LOL
@@ -1999,6 +2001,7 @@
 
 ## Vue 
 
+- [AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) - 🔗 Share links for songs, places, podcasts, and more
 - [Visnalize/win7-ui](https://github.com/Visnalize/win7-ui) - 📚 Vue2 component library for recreating Windows 7 UI
 - [bufferhead-code/onthisday](https://github.com/bufferhead-code/onthisday) - History Weather Data for the current day powered by SQLite
 - [Sank6/Dijkstras-3D](https://github.com/Sank6/Dijkstras-3D) - 

@@ -385,6 +385,7 @@
 
 ## HTML 
 
+- [nasa/opera-sds](https://github.com/nasa/opera-sds) - 
 - [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty) - 
@@ -1141,7 +1142,6 @@
 ## Python 
 
 - [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) - Solve Visual Understanding with Reinforced VLMs
-- [nasa/opera-sds](https://github.com/nasa/opera-sds) - 
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [khuramgill/Gen-AI-With-Deep-Seek-R1](https://github.com/khuramgill/Gen-AI-With-Deep-Seek-R1) - 
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)

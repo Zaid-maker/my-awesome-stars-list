@@ -95,6 +95,7 @@
 
 ## C 
 
+- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [gregkh/linux](https://github.com/gregkh/linux) - Linux kernel stable tree mirror
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 - [subsurface/libdc](https://github.com/subsurface/libdc) - Subsurface version of libdivecomputer, upstream at github.com/libdivecomputer/libdivecomputer

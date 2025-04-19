@@ -668,7 +668,7 @@
 - [Darker-Ink/Nginx-Proxy-Manger-API](https://github.com/Darker-Ink/Nginx-Proxy-Manger-API) - 
 - [KSoft-Si/ksoft.js](https://github.com/KSoft-Si/ksoft.js) - Official API Wrapper for KSoft.Si API, written in Node.js
 - [louislam/uptime-kuma-real-browsers-plugin](https://github.com/louislam/uptime-kuma-real-browsers-plugin) - An Uptime Kuma plugin that add ability to monitor your website with real browsers such as Chrome and Firefox
-- [LinusPotocnik/ExampleBot](https://github.com/LinusPotocnik/ExampleBot) - A simple Discord bot using Discord.js v14 and ES6 modules. Feel free to clone it and build your own bot on top of it or just understand the library a bit better!
+- [LinusPotocnik/ExampleBot](https://github.com/LinusPotocnik/ExampleBot) - A simple Discord bot using Discord.js v14 and ES6 modules.
 - [InfinityBotList/SupportBot](https://github.com/InfinityBotList/SupportBot) - Support Bot/Manager for Infinity Bot List
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [Zaid-maker/cyclone-bot-list-reborn](https://github.com/Zaid-maker/cyclone-bot-list-reborn) - 
@@ -1157,6 +1157,7 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models

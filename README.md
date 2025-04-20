@@ -1016,7 +1016,7 @@
 - [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects
 - [shahzaneer/Interview-Prep-Fresh-Grads](https://github.com/shahzaneer/Interview-Prep-Fresh-Grads) - A repository that combines all the resources for a CS Graduate before going in Technical Interview
 - [jakelmg/easy-lancache-server](https://github.com/jakelmg/easy-lancache-server) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin & Replit Agent System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent & Windsurf Agent System Prompts, Tools & AI Models.
 - [ThePrimeagen/chussy](https://github.com/ThePrimeagen/chussy) - 
 - [Zaid-maker/react-mirror](https://github.com/Zaid-maker/react-mirror) - Mission to preserve React History LOL
 - [jakelmg/easy-tailscale-server](https://github.com/jakelmg/easy-tailscale-server) - 

@@ -1032,7 +1032,7 @@
 - [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects
 - [shahzaneer/Interview-Prep-Fresh-Grads](https://github.com/shahzaneer/Interview-Prep-Fresh-Grads) - A repository that combines all the resources for a CS Graduate before going in Technical Interview
 - [jakelmg/easy-lancache-server](https://github.com/jakelmg/easy-lancache-server) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 - [ThePrimeagen/chussy](https://github.com/ThePrimeagen/chussy) - 
 - [Zaid-maker/react-mirror](https://github.com/Zaid-maker/react-mirror) - Mission to preserve React History LOL
 - [jakelmg/easy-tailscale-server](https://github.com/jakelmg/easy-tailscale-server) - 
@@ -1683,7 +1683,7 @@
 - [Geacko/redis-client](https://github.com/Geacko/redis-client) - Simple cross-platform Redis client (RESPv2/v3)
 - [polynomial115/polynomial-server](https://github.com/polynomial115/polynomial-server) - 
 - [advaith1/canvas-poster](https://github.com/advaith1/canvas-poster) - Crosspost Canvas announcements to Discord
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [TrigenSoftware/nanoviews](https://github.com/TrigenSoftware/nanoviews) - A small Direct DOM library for creating user interfaces.
 - [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom) - Zoom clone in Nextjs 14
 - [adrianhajdin/zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
@@ -1974,7 +1974,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [jeremybarbet/react-native-jsi-base-coder](https://github.com/jeremybarbet/react-native-jsi-base-coder) - Base64/32/16 encoding/decoding for React Native written in C/C++ and JSI.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [web3ui/web3uikit](https://github.com/web3ui/web3uikit) - Lightweight reusable Web3 UI components for dapps.

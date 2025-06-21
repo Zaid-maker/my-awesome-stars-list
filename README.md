@@ -407,7 +407,6 @@
 
 ## HTML 
 
-- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices
 - [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Gro
 - [nasa/opera-sds](https://github.com/nasa/opera-sds) - 
@@ -495,6 +494,7 @@
 
 ## JavaScript 
 
+- [mazeincoding/YT-shorts-blocker](https://github.com/mazeincoding/YT-shorts-blocker) - A chrome extensions that prevents you from scrolling YouTube shorts.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [ybouane/aPulse](https://github.com/ybouane/aPulse) - A One-File Nodejs Server Status Monitoring Tool.
 - [reactjs/translations.react.dev](https://github.com/reactjs/translations.react.dev) - Nexus of resources and tools for translating the React docs.
@@ -1042,6 +1042,7 @@
 
 ## Others 
 
+- [nodejs/mikeal](https://github.com/nodejs/mikeal) - In light of the the contributions that Mikeal made to Node.js and the larger ecosystem and his recent passing this repository will provide a place for people to contribute their condolences and memori
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [CVEProject/cvelist](https://github.com/CVEProject/cvelist) - Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023
 - [AnandChowdhary/chat](https://github.com/AnandChowdhary/chat) - 💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)
@@ -1195,6 +1196,7 @@
 - [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) - Formatting support for Python using the Black formatter
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -1547,6 +1549,8 @@
 
 ## TypeScript 
 
+- [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot) - The official community Telegram bot extension for Unthread support ticketing software. Integrate Telegram to your Unthread dashboard. ✨
+- [OscarMayReal/AIChat](https://github.com/OscarMayReal/AIChat) - 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype

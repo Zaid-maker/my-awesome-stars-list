@@ -94,7 +94,6 @@
 
 ## Blade 
 
-- [affan-ch/Mobile-Shop-POS](https://github.com/affan-ch/Mobile-Shop-POS) - Mobile shop management system built using Laravel with roles for cashiers, admins, and super admins.
 - [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel blade starter kit Based on Tabler HTML Template + Vite. https://tablar.ebuz.xyz/docs
 
 ## C 
@@ -250,6 +249,7 @@
 
 ## CSS 
 
+- [affan-ch/Mobile-Shop-POS](https://github.com/affan-ch/Mobile-Shop-POS) - Mobile shop management system built using Laravel with roles for cashiers, admins, and super admins.
 - [peter-evans/blog](https://github.com/peter-evans/blog) - The blog of Peter Evans
 - [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [Kos-M/groqreceptor](https://github.com/Kos-M/groqreceptor) - 
@@ -1550,6 +1550,7 @@
 
 ## TypeScript 
 
+- [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
 - [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow) - A platform for open source project discovery, collaboration, and growth - connecting project owners with contributors.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -2058,7 +2059,7 @@
 - [Zaid-maker/discord.js-lava](https://github.com/Zaid-maker/discord.js-lava) - A lavalink library for discord.js using Lavacord
 - [MenuDocs/erela.js](https://github.com/MenuDocs/erela.js) - An easy-to-use Lavalink client for NodeJS.
 - [lavacord/discord.js](https://github.com/lavacord/discord.js) - A lavalink library for discord.js using Lavacord
-- [lavacord/Lavacord](https://github.com/lavacord/Lavacord) - A easy to use Lavalink client that can be used with any discord api wrapper
+- [lavacord/Lavacord](https://github.com/lavacord/Lavacord) - Lightweight Lavalink client for Node.js with TypeScript, ESM/CommonJS support and multiple Discord library compatibility
 - [nitzanhen/agrippa](https://github.com/nitzanhen/agrippa) - The CLI for frontend component generation
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.

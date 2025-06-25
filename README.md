@@ -408,6 +408,7 @@
 
 ## HTML 
 
+- [R44VC0RP/inbound](https://github.com/R44VC0RP/inbound) - email infrastructure for agent and indie devs
 - [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices
 - [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Gro
 - [nasa/opera-sds](https://github.com/nasa/opera-sds) - 
@@ -481,6 +482,7 @@
 - [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [wanam/YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
+- [heroku/cnb-builder-images](https://github.com/heroku/cnb-builder-images) - Recipes for building Heroku's Cloud Native Buildpacks builder images
 - [openskynetwork/opensky-api](https://github.com/openskynetwork/opensky-api) - Python and Java bindings for the OpenSky Network REST API
 - [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [KSoft-Si/KSoft4J](https://github.com/KSoft-Si/KSoft4J) - Official Java wrapper for the KSoft API
@@ -528,7 +530,6 @@
 - [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react) - Demos and tutorials for getting started with Appwrite + React JS
 - [Zaid-maker/tiny-deep-clone](https://github.com/Zaid-maker/tiny-deep-clone) - 
 - [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action) - 
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [petercunha/tts](https://github.com/petercunha/tts) - :pencil: :sound: A simple text-to-speech tool. Converts your text to speech with any of StreamElements voices. Frontend built with Gatsby.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -1053,7 +1054,7 @@
 - [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects
 - [shahzaneer/Interview-Prep-Fresh-Grads](https://github.com/shahzaneer/Interview-Prep-Fresh-Grads) - A repository that combines all the resources for a CS Graduate before going in Technical Interview
 - [jakelmg/easy-lancache-server](https://github.com/jakelmg/easy-lancache-server) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [ThePrimeagen/chussy](https://github.com/ThePrimeagen/chussy) - 
 - [Zaid-maker/react-mirror](https://github.com/Zaid-maker/react-mirror) - Mission to preserve React History LOL
 - [jakelmg/easy-tailscale-server](https://github.com/jakelmg/easy-tailscale-server) - 
@@ -1225,6 +1226,7 @@
 - [microsoft/Trace](https://github.com/microsoft/Trace) - End-to-end Generative Optimization for AI Agents
 - [vanhbakaa/Fabrika-Friends-Factory](https://github.com/vanhbakaa/Fabrika-Friends-Factory) - Python bot for Fabrika (Friends Factory) telegram bot. The bot that automated every single things in this mini app. Join here:
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [PrefectHQ/compat-tests](https://github.com/PrefectHQ/compat-tests) - Compatibility testing suite between OSS and Cloud
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [JSv4/OpenContracts](https://github.com/JSv4/OpenContracts) - Enterprise-grade and API-first LLM workspace for unstructured documents, including data extraction, redaction, rights management, prompt playground, and more!
@@ -1503,7 +1505,6 @@
 - [WeblateOrg/docker-compose](https://github.com/WeblateOrg/docker-compose) - Docker compose for Weblate
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
-- [heroku/cnb-builder-images](https://github.com/heroku/cnb-builder-images) - Recipes for building Heroku's Cloud Native Buildpacks builder images
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [elementar/docker-s3-volume](https://github.com/elementar/docker-s3-volume) - Docker container with a data volume from s3.
 - [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻
@@ -1550,6 +1551,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
 - [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow) - A platform for open source project discovery, collaboration, and growth - connecting project owners with contributors.

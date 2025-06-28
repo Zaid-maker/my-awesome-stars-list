@@ -71,7 +71,7 @@
 
 ## Adblock Filter List 
 
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 - [brave/adblock-lists](https://github.com/brave/adblock-lists) - Maintains adblock lists that Brave uses
 
 ## Assembly 
@@ -177,6 +177,7 @@
 
 ## C++ 
 
+- [DucktapeEngine/Ducktape](https://github.com/DucktapeEngine/Ducktape) - Ducktape - An open source 3d C++ game engine.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [isledecomp/isle](https://github.com/isledecomp/isle) - A decompilation of LEGO Island (1997)
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
@@ -408,7 +409,6 @@
 
 ## HTML 
 
-- [R44VC0RP/inbound](https://github.com/R44VC0RP/inbound) - email infrastructure for agent and indie devs
 - [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices
 - [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Gro
 - [nasa/opera-sds](https://github.com/nasa/opera-sds) - 
@@ -1379,6 +1379,7 @@
 
 ## Ruby 
 
+- [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - 
 - [dependabot/demo](https://github.com/dependabot/demo) - 🤖 Fork me to try out Dependabot
@@ -1551,7 +1552,11 @@
 
 ## TypeScript 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [ripgrim/bounty.new](https://github.com/ripgrim/bounty.new) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [R44VC0RP/inbound](https://github.com/R44VC0RP/inbound) - email infrastructure for agent and indie devs
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
 - [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow) - A platform for open source project discovery, collaboration, and growth - connecting project owners with contributors.

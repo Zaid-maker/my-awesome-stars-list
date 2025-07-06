@@ -898,7 +898,6 @@
 - [Zaid-maker/ping-pong-beta](https://github.com/Zaid-maker/ping-pong-beta) - Beta Testing for pingpongbot.
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc
 - [Sparker-99/string-progressbar](https://github.com/Sparker-99/string-progressbar) - A simple and customizable progress bar generator
-- [Ricky-JS/Nodrani](https://github.com/Ricky-JS/Nodrani) - 5/13/2020 - 1/3/2021
 - [RichardPompeo/GroveBot](https://github.com/RichardPompeo/GroveBot) - Grove - Discord Music Bot powered by Lavalink
 - [Androz2091/discord-giveaways](https://github.com/Androz2091/discord-giveaways) - 🎉 Complete framework to facilitate the creation of giveaways using discord.js
 - [DanBot-Hosting/DanBotHostingStats](https://github.com/DanBot-Hosting/DanBotHostingStats) - DBH's Discord bot which integrates with the Pterodactyl API.
@@ -1200,6 +1199,7 @@
 
 ## Python 
 
+- [praetorian-inc/GitPhish](https://github.com/praetorian-inc/GitPhish) - 
 - [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) - Formatting support for Python using the Black formatter
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.

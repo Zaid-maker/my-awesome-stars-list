@@ -93,6 +93,7 @@
 
 ## C 
 
+- [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [gregkh/linux](https://github.com/gregkh/linux) - Linux kernel stable tree mirror
@@ -331,6 +332,7 @@
 
 ## Go 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
@@ -1196,6 +1198,7 @@
 
 ## Python 
 
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [praetorian-inc/GitPhish](https://github.com/praetorian-inc/GitPhish) - 
 - [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) - Formatting support for Python using the Black formatter
@@ -1219,7 +1222,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [zaidhafeeez/open_wiki](https://github.com/zaidhafeeez/open_wiki) - 
@@ -1547,7 +1550,7 @@
 
 ## Swift 
 
-- [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) - bluetooth mesh chat, IRC vibes
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [affan-ch/Nitro-Downloader-Mac](https://github.com/affan-ch/Nitro-Downloader-Mac) - A modern macOS download manager built with Swift and SwiftUI. Supports video, torrent, and bulk downloads using yt-dlp, aria2c, and ffmpeg.
 - [brycebostwick/AnimatedAppIcons](https://github.com/brycebostwick/AnimatedAppIcons) - Trick iOS Into Animating App Icons
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -1581,7 +1584,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [StartITBot/discord.builders](https://github.com/StartITBot/discord.builders) - Use new Discord components in messages for free and stylize your server however your want
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [elitan/luma](https://github.com/elitan/luma) - Ship Docker Anywhere
+- [elitan/lightform](https://github.com/elitan/lightform) - Ship Docker Anywhere
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc.
 - [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions.
@@ -1680,7 +1683,7 @@
 - [ice-blockchain/mobile-app](https://github.com/ice-blockchain/mobile-app) - React Native App for the mining of ice coins.
 - [nextjs/deploy-render](https://github.com/nextjs/deploy-render) - Next.js template to deploy to Render as a Node.js server.
 - [mendsalbert/http3](https://github.com/mendsalbert/http3) - 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 No Code Web Data Extraction Platform • Open-Source Alternative To Octoparse, ParseHub 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 No Code Web Data Extraction Platform. Open Source Alternative To Octoparse 🔥
 - [microsoft/beachball](https://github.com/microsoft/beachball) - The Sunniest Semantic Version Bumper
 - [kdimitrov997/my-jira-clone](https://github.com/kdimitrov997/my-jira-clone) - 
 - [nicitaacom/19_spotify-clone](https://github.com/nicitaacom/19_spotify-clone) - YouTube - code with Antonio - spotify clone

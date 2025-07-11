@@ -409,6 +409,7 @@
 
 ## HTML 
 
+- [zaidhafeezvu/zaidhafeezvu.github.io](https://github.com/zaidhafeezvu/zaidhafeezvu.github.io) - 
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices
 - [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Gro
@@ -969,6 +970,7 @@
 
 ## Kotlin 
 
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [affan-ch/Connectify-Android](https://github.com/affan-ch/Connectify-Android) - Connectify Android is a powerful app written in Kotlin and Jetpack Compose that syncs your mobile device with your PC.
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [louislam/whatsadd](https://github.com/louislam/whatsadd) - 
@@ -1385,7 +1387,7 @@
 
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) - 
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 - [dependabot/demo](https://github.com/dependabot/demo) - 🤖 Fork me to try out Dependabot
 - [devhub-forums/archibus](https://github.com/devhub-forums/archibus) - 
 - [devhub-forums/chirpy-client](https://github.com/devhub-forums/chirpy-client) - Plugin that adds additional introductions for staff members to the Dev Hub Chirpy Client.
@@ -1494,6 +1496,7 @@
 
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
 - [tj-actions/verify-changed-files](https://github.com/tj-actions/verify-changed-files) - :octocat: Github action to verify file changes that occur during the workflow execution.
 - [pyupio/safety-action](https://github.com/pyupio/safety-action) - Runs the Safety CLI dependency scanner against your project
 - [Zaid-maker/repos](https://github.com/Zaid-maker/repos) - 
@@ -1557,6 +1560,7 @@
 
 ## TypeScript 
 
+- [ahmetskilinc/www](https://github.com/ahmetskilinc/www) - um its my portfolio?
 - [Zaid-maker/Mail3](https://github.com/Zaid-maker/Mail3) - Experience email the way you want with MailThree – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
 - [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai) - 
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
@@ -1584,7 +1588,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [StartITBot/discord.builders](https://github.com/StartITBot/discord.builders) - Use new Discord components in messages for free and stylize your server however your want
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [elitan/lightform](https://github.com/elitan/lightform) - Ship Docker Anywhere
+- [elitan/lightform](https://github.com/elitan/lightform) - Deploy your Docker app to any server
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc.
 - [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions.
@@ -1714,7 +1718,6 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.
 - [Zaid-maker/evently](https://github.com/Zaid-maker/evently) - Event organization web app like Eventbrite or Meetup
-- [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
 - [adrianhajdin/event_platform](https://github.com/adrianhajdin/event_platform) - Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React
 - [wormhole-foundation/wormhole](https://github.com/wormhole-foundation/wormhole) - A reference implementation for the Wormhole blockchain interoperability protocol.
 - [andreizanik/cookies-next](https://github.com/andreizanik/cookies-next) - Getting, setting and removing cookies on both client and server with next.js

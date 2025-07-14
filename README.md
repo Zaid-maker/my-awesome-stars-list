@@ -499,6 +499,7 @@
 
 ## JavaScript 
 
+- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - Build. Ship. Profit.
 - [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js
 - [mazeincoding/YT-shorts-blocker](https://github.com/mazeincoding/YT-shorts-blocker) - A chrome extensions that prevents you from scrolling YouTube shorts.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -1190,6 +1191,7 @@
 
 ## PowerShell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [actions/versions-package-tools](https://github.com/actions/versions-package-tools) - Libs and tools used to build all *-version tools for GitHub Actions
 - [actions/node-versions](https://github.com/actions/node-versions) - Node builds for Actions Runner Images
 - [actions/go-versions](https://github.com/actions/go-versions) - Go releases for Actions Runner Images
@@ -1236,7 +1238,7 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [PrefectHQ/compat-tests](https://github.com/PrefectHQ/compat-tests) - Compatibility testing suite between OSS and Cloud
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [JSv4/OpenContracts](https://github.com/JSv4/OpenContracts) - Enterprise-grade and API-first LLM workspace for unstructured documents, including data extraction, redaction, rights management, prompt playground, and more!
+- [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Enterprise-grade and API-first LLM workspace for unstructured documents, including data extraction, redaction, rights management, prompt playground, and more!
 - [paveL1boyko/MuskEmpireBot](https://github.com/paveL1boyko/MuskEmpireBot) - XEmpire Bot
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [AnLoMinus/X-AI-Chat](https://github.com/AnLoMinus/X-AI-Chat) - X-AI-Chat

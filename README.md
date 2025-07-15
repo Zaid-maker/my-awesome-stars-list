@@ -499,7 +499,7 @@
 
 ## JavaScript 
 
-- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - Build. Ship. Profit.
+- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - Build. Ship. Scale.
 - [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js
 - [mazeincoding/YT-shorts-blocker](https://github.com/mazeincoding/YT-shorts-blocker) - A chrome extensions that prevents you from scrolling YouTube shorts.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -1563,6 +1563,7 @@
 
 ## TypeScript 
 
+- [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 - [ahmetskilinc/www](https://github.com/ahmetskilinc/www) - um its my portfolio?
 - [Zaid-maker/Mail3](https://github.com/Zaid-maker/Mail3) - Experience email the way you want with MailThree – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
 - [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai) - 

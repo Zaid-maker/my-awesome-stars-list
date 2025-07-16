@@ -370,7 +370,7 @@
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [coder/code-marketplace](https://github.com/coder/code-marketplace) - Open source extension marketplace for VS Code.
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
@@ -1048,6 +1048,7 @@
 
 ## Others 
 
+- [jcyuan06/Kcalbeloh-System](https://github.com/jcyuan06/Kcalbeloh-System) - A planet mod for Kerbal Space Program adding a black hole system.
 - [batuhan/dotfiles](https://github.com/batuhan/dotfiles) - my configuration files
 - [tinybirdco/tinybird-otel-template](https://github.com/tinybirdco/tinybird-otel-template) - A Tinybird project template for OpenTelemetry-based instrumentation
 - [nodejs/mikeal](https://github.com/nodejs/mikeal) - In light of the the contributions that Mikeal made to Node.js and the larger ecosystem and his recent passing this repository will provide a place for people to contribute their condolences and memori
@@ -1060,7 +1061,7 @@
 - [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects
 - [shahzaneer/Interview-Prep-Fresh-Grads](https://github.com/shahzaneer/Interview-Prep-Fresh-Grads) - A repository that combines all the resources for a CS Graduate before going in Technical Interview
 - [jakelmg/easy-lancache-server](https://github.com/jakelmg/easy-lancache-server) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [ThePrimeagen/chussy](https://github.com/ThePrimeagen/chussy) - 
 - [Zaid-maker/react-mirror](https://github.com/Zaid-maker/react-mirror) - Mission to preserve React History LOL
 - [jakelmg/easy-tailscale-server](https://github.com/jakelmg/easy-tailscale-server) - 
@@ -1070,7 +1071,7 @@
 - [HorizonEmuTeam/Horizon-Emu](https://github.com/HorizonEmuTeam/Horizon-Emu) - 
 - [TinyTalkHQ/.github](https://github.com/TinyTalkHQ/.github) - 
 - [Mashhood-Rehman/Mashhood-Rehman](https://github.com/Mashhood-Rehman/Mashhood-Rehman) - 
-- [uptime-industries/compute-blade](https://github.com/uptime-industries/compute-blade) - Feature rich enterprise-level carrier board for the Raspberry Pi Compute Module 4. From Homelabs to advanced AI clusters at scale.
+- [Uptime-Lab/compute-blade](https://github.com/Uptime-Lab/compute-blade) - Feature rich enterprise-level carrier board for the Raspberry Pi Compute Module 4. From Homelabs to advanced AI clusters at scale.
 - [mezotv/discord-badges](https://github.com/mezotv/discord-badges) - A collection of all the Discord badges and how to get your hands on them! Including the new discord guild clans and the new Discord Nitro Badge..
 - [AnLoMinus/X-Portal](https://github.com/AnLoMinus/X-Portal) - X-Portal
 - [reactwg/react-compiler](https://github.com/reactwg/react-compiler) - Working group for using React Compiler in production
@@ -1202,6 +1203,7 @@
 
 ## Python 
 
+- [Pipelex/cocode](https://github.com/Pipelex/cocode) - Cocode is the friend of your code, it is a powerful command-line tool for analyzing and processing code repositories. It converts repository structures and contents into text formats, extracts code in
 - [Merubokkusu/Discord-S.C.U.M](https://github.com/Merubokkusu/Discord-S.C.U.M) - A Discord API Wrapper for Userbots/Selfbots written in Python.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
@@ -1563,6 +1565,7 @@
 
 ## TypeScript 
 
+- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 - [ahmetskilinc/www](https://github.com/ahmetskilinc/www) - um its my portfolio?
 - [Zaid-maker/Mail3](https://github.com/Zaid-maker/Mail3) - Experience email the way you want with MailThree – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
@@ -1594,7 +1597,7 @@
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [elitan/lightform](https://github.com/elitan/lightform) - Deploy your Docker app to any server
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
-- [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc.
+- [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - The future of file storage
 - [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
@@ -1676,7 +1679,7 @@
 - [zaidhafeeez/DefinitelyTyped](https://github.com/zaidhafeeez/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Zaid-maker/neural-network-training-sim](https://github.com/Zaid-maker/neural-network-training-sim) - 
 - [Zaid-maker/storeit](https://github.com/Zaid-maker/storeit) - 
@@ -2044,7 +2047,7 @@
 - [ItzDerock/youtube-downloader-website](https://github.com/ItzDerock/youtube-downloader-website) - backup your youtube videos with ease using a simple webapp.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [yessGlory17/programmer-browser](https://github.com/yessGlory17/programmer-browser) - A fast-searching and space-saving browser specially designed for programmers.
-- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
+- [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) - A Browser Extension for faster reading on ANY website!
 - [mwood23/preact-island](https://github.com/mwood23/preact-island) - 🏝 Create your own slice of paradise on any website.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.

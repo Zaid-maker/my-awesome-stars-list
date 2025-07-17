@@ -312,7 +312,7 @@
 ## EJS 
 
 - [Astra-Development/Discord-Bot-List-v3](https://github.com/Astra-Development/Discord-Bot-List-v3) - Free Discord Bot List Server List Website
-- [Infinity-Development/iblv3](https://github.com/Infinity-Development/iblv3) - Source code for the older versions of our website made using discord.js express and mongoose.
+- [InfinityEOL/iblv3](https://github.com/InfinityEOL/iblv3) - Source code for the older versions of our website made using discord.js express and mongoose.
 - [Magnimont/Nexus](https://github.com/Magnimont/Nexus) - Nexus is an open-source chatting app inspired by Discord, designed with a focus on modern features and community collaboration. It offers a seamless and intuitive chat experience while embracing the p
 - [cheraphp/vcodes](https://github.com/cheraphp/vcodes) - It is a Discord-based, open-source website. Titles it contains; code sharing, server list, Bot list, uptime system.
 - [VoidDevsorg/discord-bot-list](https://github.com/VoidDevsorg/discord-bot-list) - It is a Discord-based, open-source website. Titles it contains; code sharing, server list, Bot list, uptime system.
@@ -384,14 +384,14 @@
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [InfinityBotList/Popplio](https://github.com/InfinityBotList/Popplio) - REST API for V3 and core backend for v4
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [Infinity-Development/Mongo-2-Postgres](https://github.com/Infinity-Development/Mongo-2-Postgres) - Simple cli used to backup and migrate data from Mongoose to Postgres on a Rotating/Rolling basis.
+- [InfinityEOL/Mongo-2-Postgres](https://github.com/InfinityEOL/Mongo-2-Postgres) - Simple cli used to backup and migrate data from Mongoose to Postgres on a Rotating/Rolling basis.
 - [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo) - Discord Nitro sniper and Giveaway joiner in Go (Faster than Python and Javascript) (UPDATED Free 24/7 w/ Heroku)
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [ayoisaiah/focus](https://github.com/ayoisaiah/focus) - A fully featured productivity timer for the command line, based on the Pomodoro Technique. Supports Linux, Windows, and macOS.
 - [LeeBrotherston/badflare](https://github.com/LeeBrotherston/badflare) - OSINT tool for discovering the real IP addresses of services which are behind Cloudflare but not properly locked down
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
-- [Infinity-Development/mongodup](https://github.com/Infinity-Development/mongodup) - GO based CLI for handling duplicate collections in mongoose
+- [InfinityEOL/mongodup](https://github.com/InfinityEOL/mongodup) - GO based CLI for handling duplicate collections in mongoose
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [wiredlush/easy-gate](https://github.com/wiredlush/easy-gate) - A gate to your self hosted infrastructure
 - [cloudflarearchive/odoh-server-go](https://github.com/cloudflarearchive/odoh-server-go) - Oblivious DoH server in Go
@@ -499,7 +499,6 @@
 
 ## JavaScript 
 
-- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - Build. Ship. Scale.
 - [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js
 - [mazeincoding/YT-shorts-blocker](https://github.com/mazeincoding/YT-shorts-blocker) - A chrome extensions that prevents you from scrolling YouTube shorts.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -1151,7 +1150,7 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-- [Infinity-Development/GitHub-Bot-Info](https://github.com/Infinity-Development/GitHub-Bot-Info) - Information for our GitHub Updates Bot
+- [InfinityEOL/GitHub-Bot-Info](https://github.com/InfinityEOL/GitHub-Bot-Info) - Information for our GitHub Updates Bot
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 - [TannerReynolds/ShareM](https://github.com/TannerReynolds/ShareM) - My mobile version of ShareX supporting both IOS and Android. Made for uploading files & text to custom uploaders like ShareS. Made in Dart/Flutter
 - [top-gg/issues](https://github.com/top-gg/issues) - Report bugs related to Top.gg. For feature requests: https://feedback.top.gg
@@ -1567,6 +1566,7 @@
 
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
+- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - Build. Ship. Scale.
 - [ahmetskilinc/www](https://github.com/ahmetskilinc/www) - um its my portfolio?
 - [Zaid-maker/Mail3](https://github.com/Zaid-maker/Mail3) - Experience email the way you want with MailThree – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
 - [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai) - 
@@ -1583,7 +1583,7 @@
 - [R44VC0RP/inbound](https://github.com/R44VC0RP/inbound) - email infrastructure for agent and indie devs
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
-- [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow) - A platform for open source project discovery, collaboration, and growth - connecting project owners with contributors.
+- [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow) - Platform to connect with open source maintainers and contributors
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot) - Turn private Telegram groups into real-time support ticket hubs — powered by Unthread.io. 🎫🤖
@@ -1660,7 +1660,7 @@
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) - 
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included.
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [Magmastream-NPM/magmastream_basics_bot](https://github.com/Magmastream-NPM/magmastream_basics_bot) - An example of how Magmastream can be implemented.
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -1989,7 +1989,7 @@
 - [domin-mnd/cvet-cli](https://github.com/domin-mnd/cvet-cli) - An effecient color tool CLI for your projects
 - [Zaid-maker/react-admin-dashboard](https://github.com/Zaid-maker/react-admin-dashboard) - 
 - [lukef7fywmrp/apple-redesign-yt](https://github.com/lukef7fywmrp/apple-redesign-yt) - 
-- [Infinity-Development/CheatSheet](https://github.com/Infinity-Development/CheatSheet) - Pre-Configured list of Templates and Approval/Denial Reasons that is free for any Bot List or Bot List Staff to use!
+- [InfinityEOL/CheatSheet](https://github.com/InfinityEOL/CheatSheet) - Pre-Configured list of Templates and Approval/Denial Reasons that is free for any Bot List or Bot List Staff to use!
 - [thirdweb-dev/built-on-thirdweb](https://github.com/thirdweb-dev/built-on-thirdweb) - 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [lydiahallie/byof-demo](https://github.com/lydiahallie/byof-demo) - WIP Demo
@@ -2007,7 +2007,7 @@
 - [peterthehan/discord-audit-log-bot](https://github.com/peterthehan/discord-audit-log-bot) - A Discord bot that extends Discord's native Audit Log.
 - [discord/react-native-webview](https://github.com/discord/react-native-webview) - React Native Cross-Platform WebView
 - [upptime/uptime-monitor](https://github.com/upptime/uptime-monitor) - ⬆️📈 Uptime monitor powered by GitHub Actions
-- [Infinity-Development/Website](https://github.com/Infinity-Development/Website) - Portfolio Site for the Infinity Development Team.
+- [InfinityEOL/Website](https://github.com/InfinityEOL/Website) - Portfolio Site for the Infinity Development Team.
 - [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!

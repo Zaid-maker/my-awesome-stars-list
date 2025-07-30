@@ -332,6 +332,7 @@
 
 ## Go 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [Altinity/clickhouse-backup](https://github.com/Altinity/clickhouse-backup) - Tool for easy backup and restore for ClickHouse® using object storage for backup files.
 - [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -495,13 +496,14 @@
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [PolyMarsDev/Sokobot](https://github.com/PolyMarsDev/Sokobot) - A Discord bot that lets you play Sokoban
 - [Mr-LegitHD/NightSky](https://github.com/Mr-LegitHD/NightSky) - Public Discord Bot made with JDA. This Bot is one of my first bigger coding projects
 
 ## JavaScript 
 
 - [herin7/gitforme](https://github.com/herin7/gitforme) - AI-powered GitHub code explorer — understand any repo in minutes, not days.
+- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents Collection
 - [Jackywine/Bella](https://github.com/Jackywine/Bella) - Bella is best
 - [zaidhafeezvu/zaidhafeezvu.github.io](https://github.com/zaidhafeezvu/zaidhafeezvu.github.io) - 
 - [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js
@@ -962,6 +964,7 @@
 
 ## Jupyter Notebook 
 
+- [neo4j-contrib/grape](https://github.com/neo4j-contrib/grape) - Graph Retriever Analysis and Performance Evaluation
 - [rungalileo/agent-leaderboard](https://github.com/rungalileo/agent-leaderboard) - Ranking LLMs on agentic tasks
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [faisalsayed10/no-ghibli](https://github.com/faisalsayed10/no-ghibli) - No Ghibli on Twitter
@@ -1054,8 +1057,8 @@
 
 ## Others 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
 - [kn1026/cc](https://github.com/kn1026/cc) - claude code system prompt
-- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents Collection
 - [OpenCut-app/ffmpeg-rust](https://github.com/OpenCut-app/ffmpeg-rust) - ffmpeg-rust
 - [jcyuan06/Kcalbeloh-System](https://github.com/jcyuan06/Kcalbeloh-System) - A planet mod for Kerbal Space Program adding a black hole system.
 - [batuhan/dotfiles](https://github.com/batuhan/dotfiles) - my configuration files
@@ -1576,6 +1579,8 @@
 
 ## TypeScript 
 
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) - claude code leaderboard
 - [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) - An open-source OpusClip alternative
 - [adrianhajdin/saas-template](https://github.com/adrianhajdin/saas-template) - SaaS Starter Template built with Next.js, Supabase & Clerk. Includes seamless auth, manage subscriptions and payments out of the box, and scale faster with a clean, reusable codebase — everything you 
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.

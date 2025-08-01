@@ -502,8 +502,8 @@
 
 ## JavaScript 
 
+- [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map & crawl.
 - [herin7/gitforme](https://github.com/herin7/gitforme) - AI-powered GitHub code explorer — understand any repo in minutes, not days.
-- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents Collection
 - [Jackywine/Bella](https://github.com/Jackywine/Bella) - Bella is best
 - [zaidhafeezvu/zaidhafeezvu.github.io](https://github.com/zaidhafeezvu/zaidhafeezvu.github.io) - 
 - [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js
@@ -1579,10 +1579,12 @@
 
 ## TypeScript 
 
+- [athasdev/athas](https://github.com/athasdev/athas) - A lightweight code editor
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) - claude code leaderboard
 - [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) - An open-source OpusClip alternative
 - [adrianhajdin/saas-template](https://github.com/adrianhajdin/saas-template) - SaaS Starter Template built with Next.js, Supabase & Clerk. Includes seamless auth, manage subscriptions and payments out of the box, and scale faster with a clean, reusable codebase — everything you 
+- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents & Commands Collection
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ Convert any site to clean markdown & llms.txt. Boost your site's AI discoverability or generate LLM context for a project you're working with.
 - [Anshkaran7/git-aura](https://github.com/Anshkaran7/git-aura) - A modern web app to visualize and share GitHub user profiles and contribution activity. Enter any GitHub username to view a beautiful, themeable profile card with contribution heatmap, follower stats,
@@ -1693,7 +1695,7 @@
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Syrup, a Honey alternative
 - [gabriel-pineda/git-wrapped-api](https://github.com/gabriel-pineda/git-wrapped-api) - 
-- [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
+- [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
 - [vercel-labs/ai-facts](https://github.com/vercel-labs/ai-facts) - Real-time fact checking on spoken statements with the AI SDK, Perplexity and DeepGram
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [vercel/postgres-next-starter](https://github.com/vercel/postgres-next-starter) - Get started quickly with a Postgres database and a Next.js App Router application.

@@ -1600,6 +1600,7 @@
 
 ## TypeScript 
 
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [JavaScript-Mastery-Pro/e-commerce](https://github.com/JavaScript-Mastery-Pro/e-commerce) - Nike-style eCommerce built with Devin AI, Next.js, TS, Tailwind, and Better Auth. Features product pages, cart, and checkout integrated with Stripe payments and a Neon PostgreSQL/Drizzle backend.Nike 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.

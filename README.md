@@ -1228,7 +1228,6 @@
 ## Python 
 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
@@ -1271,7 +1270,6 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [PrefectHQ/compat-tests](https://github.com/PrefectHQ/compat-tests) - Compatibility testing suite between OSS and Cloud
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Enterprise-grade and API-first LLM workspace for unstructured documents, including data extraction, redaction, rights management, prompt playground, and more!
 - [paveL1boyko/MuskEmpireBot](https://github.com/paveL1boyko/MuskEmpireBot) - XEmpire Bot
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [AnLoMinus/X-AI-Chat](https://github.com/AnLoMinus/X-AI-Chat) - X-AI-Chat
@@ -1435,6 +1433,7 @@
 
 ## Rust 
 
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render your React components to images. Available for Rust, Node.js, and WebAssembly.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [Zillowe/Zoi](https://github.com/Zillowe/Zoi) - Universal Package Manager & Environment Setup Tool, GitLab Mirror
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -1533,6 +1532,7 @@
 
 ## Shell 
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
 - [bddicken/languages](https://github.com/bddicken/languages) - Compare languages
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
@@ -1600,13 +1600,15 @@
 
 ## TypeScript 
 
+- [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of personal access tokens (PAT), use temporary GitHub Application access tokens instead!
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [JavaScript-Mastery-Pro/e-commerce](https://github.com/JavaScript-Mastery-Pro/e-commerce) - Nike-style eCommerce built with Devin AI, Next.js, TS, Tailwind, and Better Auth. Features product pages, cart, and checkout integrated with Stripe payments and a Neon PostgreSQL/Drizzle backend.Nike 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-- [growchief/growchief](https://github.com/growchief/growchief) - All-in Social media outreach tool
-- [NiladriHazra/Open-Fiesta](https://github.com/NiladriHazra/Open-Fiesta) - An open-source version of  Dhruv Rathee's  AI startup.  Even with more models :)
+- [growchief/growchief](https://github.com/growchief/growchief) - All-in Social media automation (outreach) tool 🤖
+- [NiladriHazra/Open-Fiesta](https://github.com/NiladriHazra/Open-Fiesta) - An open-source version to use all the Models for free
 - [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature) - keyboard-based digital signatures
+- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [ishaan1013/shadow](https://github.com/ishaan1013/shadow) - Background coding agent and real-time web interface
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
@@ -1751,6 +1753,7 @@
 - [yc-oss/api](https://github.com/yc-oss/api) - 📎 Public API for companies funded by Y Combinator
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution) - 
+- [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Enterprise-grade and API-first LLM workspace for unstructured documents, including data extraction, redaction, rights management, prompt playground, and more!
 - [ice-blockchain/mobile-app](https://github.com/ice-blockchain/mobile-app) - React Native App for the mining of ice coins.
 - [nextjs/deploy-render](https://github.com/nextjs/deploy-render) - Next.js template to deploy to Render as a Node.js server.
 - [mendsalbert/http3](https://github.com/mendsalbert/http3) - 
@@ -1821,7 +1824,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [conaticus/search-engine-crawler](https://github.com/conaticus/search-engine-crawler) - 
 - [conaticus/search-engine-client](https://github.com/conaticus/search-engine-client) - 
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [toolwind/signals](https://github.com/toolwind/signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
 - [Geacko/redis-client](https://github.com/Geacko/redis-client) - Simple cross-platform Redis client (RESPv2/v3)
 - [polynomial115/polynomial-server](https://github.com/polynomial115/polynomial-server) - 
@@ -2234,6 +2237,7 @@
 
 ## Vue 
 
+- [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Zaid-maker/test-nuxt-hub](https://github.com/Zaid-maker/test-nuxt-hub) - 
 - [CVEProject/cve-website](https://github.com/CVEProject/cve-website) - The CVE.ORG website

@@ -96,6 +96,7 @@
 ## C 
 
 - [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [gregkh/linux](https://github.com/gregkh/linux) - Linux kernel stable tree mirror
@@ -1605,7 +1606,6 @@
 
 ## Swift 
 
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [affan-ch/Nitro-Downloader-Mac](https://github.com/affan-ch/Nitro-Downloader-Mac) - A modern macOS download manager built with Swift and SwiftUI. Supports video, torrent, and bulk downloads using yt-dlp, aria2c, and ffmpeg.
 - [brycebostwick/AnimatedAppIcons](https://github.com/brycebostwick/AnimatedAppIcons) - Trick iOS Into Animating App Icons
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar

@@ -1655,7 +1655,7 @@
 - [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai) - 
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [databuddy-analytics/better-analytics](https://github.com/databuddy-analytics/better-analytics) - Track logs, errors, and 404 pages in minutes, not hours. AI-Native design, an agent with full context on your errors to help you debug and solve them, all made within 3 days for CustomHack hackathon
-- [sadmann7/diceui](https://github.com/sadmann7/diceui) - A collection of composable, unstyled UI primitives for building accessible web applications.
+- [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [mezotv/portfolio](https://github.com/mezotv/portfolio) - My Portfolio
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript

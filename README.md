@@ -2081,7 +2081,7 @@
 - [ohayouarmaan/ramen](https://github.com/ohayouarmaan/ramen) - 
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
+- [julianYaman/discord-bot-dashboard](https://github.com/julianYaman/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [shadowrunners/Evelyn](https://github.com/shadowrunners/Evelyn) - Unleash the full potential of your server.
 - [thirdweb-dev/js](https://github.com/thirdweb-dev/js) - Best in class web3 SDKs for Browser, Node and Mobile apps
 - [Ashanime/Ashanime-Web-App](https://github.com/Ashanime/Ashanime-Web-App) - Watch media ad free through a beautiful UI. Don't forget to 🌟 this repo for updates!

@@ -1030,6 +1030,7 @@
 
 ## MDX 
 
+- [mazeincoding/docs](https://github.com/mazeincoding/docs) - 
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [maplibre/maplibre.github.io](https://github.com/maplibre/maplibre.github.io) - 
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1620,6 +1621,7 @@
 
 ## TypeScript 
 
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - 
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [h3js/starter](https://github.com/h3js/starter) - H3 Starter Template

@@ -206,6 +206,7 @@
 - [Endermanch/XPKeygen](https://github.com/Endermanch/XPKeygen) - Windows XP Keygen
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
 - [google-deepmind/code_contests](https://github.com/google-deepmind/code_contests) - 
 - [mitchkoko/ModernSmartHomeUI](https://github.com/mitchkoko/ModernSmartHomeUI) - 
@@ -426,7 +427,6 @@
 
 - [tc39/proposal-async-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript
 - [eps1lon/repro-chrome-performance-measure-crash-name](https://github.com/eps1lon/repro-chrome-performance-measure-crash-name) - 
-- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [brave/cookiecrumbler](https://github.com/brave/cookiecrumbler) - Automatically detect cookie consent notices
 - [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Gro
 - [nasa/opera-sds](https://github.com/nasa/opera-sds) - 
@@ -453,7 +453,6 @@
 - [devcontainers/devcontainers.github.io](https://github.com/devcontainers/devcontainers.github.io) - Web content for the development containers specification.
 - [O-MG/O.MG-Firmware](https://github.com/O-MG/O.MG-Firmware) - 
 - [pawelgrzybek/pawelgrzybek.com](https://github.com/pawelgrzybek/pawelgrzybek.com) - My Hugo based website
-- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [louislam/uptime-kuma-wiki](https://github.com/louislam/uptime-kuma-wiki) - 
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -1261,6 +1260,7 @@
 - [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) - Formatting support for Python using the Black formatter
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
@@ -1724,7 +1724,7 @@
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [maticzav/nookies](https://github.com/maticzav/nookies) - 🍪 A set of cookie helpers for Next.js
 - [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG's to 3D models.
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 4.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 - [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 15 , Next.js 14 and React.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.

@@ -86,6 +86,7 @@
 
 ## Batchfile 
 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
 - [R-YaTian/LTSC-Add-MicrosoftStore-2021_2024](https://github.com/R-YaTian/LTSC-Add-MicrosoftStore-2021_2024) - Add Windows Store for LTSC2021/2024
 - [adavak/Win_ISO_Patching_Scripts](https://github.com/adavak/Win_ISO_Patching_Scripts) - Win_ISO_Patching_Scripts
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -176,6 +177,7 @@
 
 ## C++ 
 
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [kavan010/black_hole](https://github.com/kavan010/black_hole) - Black hole simulation project:
 - [gbdev/rgbds](https://github.com/gbdev/rgbds) - Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy and Game Boy Color
 - [aryanbaburajan/Ducktape](https://github.com/aryanbaburajan/Ducktape) - 
@@ -574,7 +576,7 @@
 - [Freddywhest/VertusBot](https://github.com/Freddywhest/VertusBot) - About Made by Alfred Nti. Node.js bot for farming Vertus telegram bot.
 - [Freddywhest/MemeFiBot-New](https://github.com/Freddywhest/MemeFiBot-New) - Made by Alfred Nti. Node.js bot for farming MemeFi telegram bot.
 - [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box) - 
-- [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
+- [fineanmol/Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️
 - [adrianhajdin/xora](https://github.com/adrianhajdin/xora) - Learn how to build and deploy a SaaS landing page with modern UI and mobile-first principles while strengthening your React.js and Tailwind CSS skills.
 - [hkithub-official/no-plaintext-passwords](https://github.com/hkithub-official/no-plaintext-passwords) - 
 - [Tazhys/ecomping-nue](https://github.com/Tazhys/ecomping-nue) - A replica of contabo's ecomping-nue/ping api.
@@ -947,7 +949,7 @@
 - [davidrakosi/fb-mern-starter-project](https://github.com/davidrakosi/fb-mern-starter-project) - 
 - [fireship-io/react-firebase-chat](https://github.com/fireship-io/react-firebase-chat) - 
 - [ZerioDev/ShardBot-discord.js](https://github.com/ZerioDev/ShardBot-discord.js) - A short example to set up the shards on your discord bot !
-- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
+- [discordjs/guide](https://github.com/discordjs/guide) - A prior iteration of the guide for discord.js, created and maintained by core members of its community.
 - [WebDevSimplified/Whatsapp-Clone](https://github.com/WebDevSimplified/Whatsapp-Clone) - 
 - [shshaw/Splitting](https://github.com/shshaw/Splitting) - JavaScript microlibrary to split an element by words, characters, children and more, populated with CSS variables!
 - [Zaid-maker/joke-bot](https://github.com/Zaid-maker/joke-bot) - LOL
@@ -1624,6 +1626,7 @@
 
 ## TypeScript 
 
+- [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS) - 
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system

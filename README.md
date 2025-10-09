@@ -517,6 +517,7 @@
 
 ## JavaScript 
 
+- [tayyabadev/PassportScannerDesign](https://github.com/tayyabadev/PassportScannerDesign) - 
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 - [gayanvoice/test-app](https://github.com/gayanvoice/test-app) - 
@@ -849,7 +850,7 @@
 - [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [cheraphp/code](https://github.com/cheraphp/code) - 
-- [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
+- [webpack/mini-css-extract-plugin](https://github.com/webpack/mini-css-extract-plugin) - Lightweight CSS extraction plugin
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
 - [Team-IC/Pro-Bot](https://github.com/Team-IC/Pro-Bot) - Pro
 - [Disbotsxyz/Disbots-api](https://github.com/Disbotsxyz/Disbots-api) - A official api disbots
@@ -1776,7 +1777,7 @@
 - [vercel/postgres-next-starter](https://github.com/vercel/postgres-next-starter) - Get started quickly with a Postgres database and a Next.js App Router application.
 - [zaidhafeeez/DefinitelyTyped](https://github.com/zaidhafeeez/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Zaid-maker/neural-network-training-sim](https://github.com/Zaid-maker/neural-network-training-sim) - 

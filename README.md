@@ -345,6 +345,7 @@
 ## Go 
 
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient LLM Inference
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [Zillowe/GCT](https://github.com/Zillowe/GCT) - Smart, interactive Git tool powered by AI, GitLab mirror
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -373,7 +374,7 @@
 - [ice-blockchain/eskimo](https://github.com/ice-blockchain/eskimo) - Eskimo is a Golang service that handles User Account Management on the ice network.
 - [ice-blockchain/santa](https://github.com/ice-blockchain/santa) - Santa brings presents to people. The ice owners get special presents based on how good they've been all year.
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
-- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes
@@ -550,7 +551,7 @@
 - [face-hh/fextify](https://github.com/face-hh/fextify) - A simple text editor written in Rust using Tauri, inspired by Obsidian.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
+- [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [rxliuli/tsgo-npm-release](https://github.com/rxliuli/tsgo-npm-release) - Unofficial tsgo npm release, no need to clone and compile to test tsgo's performance.
 - [getcouped/eslint-plugin-react-google-translate](https://github.com/getcouped/eslint-plugin-react-google-translate) - ESlint plugin for highlighting React patterns which can potentially cause browser exceptions while Google Translate is in use.
 - [hotheadhacker/youtube-player](https://github.com/hotheadhacker/youtube-player) - youtube-player
@@ -1249,7 +1250,6 @@
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [twiggy-tools/Twiggy](https://github.com/twiggy-tools/Twiggy) - Real-time directory structure for Cursor AI. Your AI always knows your codebase's structure 🌿
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient LLM Inference
 - [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - A simple yet powerful agent framework that delivers with open-source models
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
@@ -1460,7 +1460,7 @@
 
 ## Rust 
 
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render your React component to images, satori but with more features.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render your React component to images, satori + resvg but with more features.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [Zillowe/Zoi](https://github.com/Zillowe/Zoi) - Universal Package Manager & Environment Setup Tool, GitLab Mirror
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience

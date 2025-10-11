@@ -344,6 +344,7 @@
 
 ## Go 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient LLM Inference
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
@@ -1020,6 +1021,7 @@
 
 ## Lua 
 
+- [Mordoria/unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2) - The Release of Mordoria
 - [fffonion/lua-resty-acme](https://github.com/fffonion/lua-resty-acme) - Automatic Let's Encrypt certificate serving and Lua implementation of ACMEv2 procotol
 - [ThePrimeagen/vim-guys](https://github.com/ThePrimeagen/vim-guys) - 
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
@@ -1256,6 +1258,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
+- [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) - An open-source OpusClip alternative
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [Pipelex/cocode](https://github.com/Pipelex/cocode) - Cocode is the friend of your code, it is a powerful command-line tool for analyzing and processing code repositories. It converts repository structures and contents into text formats, extracts code in
@@ -1460,6 +1463,7 @@
 
 ## Rust 
 
+- [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
 - [kane50613/takumi](https://github.com/kane50613/takumi) - Render your React component to images, satori + resvg but with more features.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [Zillowe/Zoi](https://github.com/Zillowe/Zoi) - Universal Package Manager & Environment Setup Tool, GitLab Mirror
@@ -1628,6 +1632,7 @@
 
 ## TypeScript 
 
+- [githyperplexed/clock-of-clocks](https://github.com/githyperplexed/clock-of-clocks) - A recreation of u/EntropyReversed's CodePen called "Clock made of clocks"
 - [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS) - 
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
@@ -1661,7 +1666,6 @@
 - [athasdev/athas](https://github.com/athasdev/athas) - A lightweight code editor.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) - claude code leaderboard
-- [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) - An open-source OpusClip alternative
 - [adrianhajdin/saas-template](https://github.com/adrianhajdin/saas-template) - SaaS Starter Template built with Next.js, Supabase & Clerk. Includes seamless auth, manage subscriptions and payments out of the box, and scale faster with a clean, reusable codebase — everything you 
 - [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents & Commands Collection + CLI Tool
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.

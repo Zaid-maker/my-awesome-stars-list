@@ -1642,6 +1642,7 @@
 
 ## TypeScript 
 
+- [manolo-in/better-auth-instagram](https://github.com/manolo-in/better-auth-instagram) - Instagram OAuth Provider for Better-Auth
 - [discord-userdoccers/discord-protos](https://github.com/discord-userdoccers/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs
 - [Darker-Ink/discord-protos](https://github.com/Darker-Ink/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs
 - [githyperplexed/clock-of-clocks](https://github.com/githyperplexed/clock-of-clocks) - A recreation of u/EntropyReversed's CodePen called "Clock made of clocks"

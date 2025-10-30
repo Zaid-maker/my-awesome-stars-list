@@ -994,6 +994,7 @@
 
 ## Jupyter Notebook 
 
+- [ShahxHussain/VizAI-DataInsights-Visualization-Assistant](https://github.com/ShahxHussain/VizAI-DataInsights-Visualization-Assistant) - AI-powered tool that enables users to upload datasets and generate insightful visualizations through natural language queries.
 - [neo4j-contrib/grape](https://github.com/neo4j-contrib/grape) - Graph Retriever Analysis and Performance Evaluation
 - [rungalileo/agent-leaderboard](https://github.com/rungalileo/agent-leaderboard) - Ranking LLMs on agentic tasks
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
@@ -1949,7 +1950,7 @@
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [Zaid-maker/Gamehub](https://github.com/Zaid-maker/Gamehub) - 
 - [vercel/speed-insights](https://github.com/vercel/speed-insights) - Vercel Speed Insights package
 - [whoisseth/country-info-app-yt](https://github.com/whoisseth/country-info-app-yt) - 

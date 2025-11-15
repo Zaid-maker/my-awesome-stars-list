@@ -464,7 +464,6 @@
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [louislam/uptime-kuma-wiki](https://github.com/louislam/uptime-kuma-wiki) - 
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [pearOS-archlinux/iso](https://github.com/pearOS-archlinux/iso) - 
 - [Zaid-maker/todo-app-in-svelte](https://github.com/Zaid-maker/todo-app-in-svelte) - 
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [fireship-io/threejs-scroll-animation-demo](https://github.com/fireship-io/threejs-scroll-animation-demo) - 3D Scrolling Portfolio Website with Three.js
@@ -1263,6 +1262,7 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [twiggy-tools/Twiggy](https://github.com/twiggy-tools/Twiggy) - Real-time directory structure for Cursor AI. Your AI always knows your codebase's structure 🌿
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - A simple yet powerful agent framework that delivers with open-source models
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
@@ -1576,7 +1576,6 @@
 ## Shell 
 
 - [limxuan/dotfiles-omarchy](https://github.com/limxuan/dotfiles-omarchy) - omarchy dot files with gnu stow
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
@@ -1605,6 +1604,7 @@
 - [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻
 - [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [Awan/nix](https://github.com/Awan/nix) - My NixOS dotfiles managed by Home-Manager
+- [pearOS-archlinux/iso](https://github.com/pearOS-archlinux/iso) - 
 - [theNetworkChuck/NetworkChuck](https://github.com/theNetworkChuck/NetworkChuck) - 
 - [AnLoMinus/PenTest](https://github.com/AnLoMinus/PenTest) - PenTest - Penetration Testing Tools Downloader
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1647,7 +1647,7 @@
 
 ## TypeScript 
 
-- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using GPT
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [manolo-in/better-auth-instagram](https://github.com/manolo-in/better-auth-instagram) - Instagram OAuth Provider for Better-Auth
 - [discord-userdoccers/discord-protos](https://github.com/discord-userdoccers/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs
 - [Darker-Ink/discord-protos](https://github.com/Darker-Ink/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs
@@ -1817,7 +1817,7 @@
 - [ice-blockchain/mobile-app](https://github.com/ice-blockchain/mobile-app) - React Native App for the mining of ice coins.
 - [nextjs/deploy-render](https://github.com/nextjs/deploy-render) - Next.js template to deploy to Render as a Node.js server.
 - [mendsalbert/http3](https://github.com/mendsalbert/http3) - 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [microsoft/beachball](https://github.com/microsoft/beachball) - The Sunniest Semantic Version Bumper
 - [kdimitrov997/my-jira-clone](https://github.com/kdimitrov997/my-jira-clone) - 
 - [nicitaacom/19_spotify-clone](https://github.com/nicitaacom/19_spotify-clone) - YouTube - code with Antonio - spotify clone

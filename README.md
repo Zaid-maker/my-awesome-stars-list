@@ -294,7 +294,7 @@
 
 ## Dart 
 
-- [KomodoPlatform/komodo-wallet](https://github.com/KomodoPlatform/komodo-wallet) - Komodo Wallet
+- [GLEECBTC/gleec-wallet](https://github.com/GLEECBTC/gleec-wallet) - Gleec Wallet
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [ice-blockchain/ion-framework](https://github.com/ice-blockchain/ion-framework) - The ION Framework, built using Flutter, which allows anyone to create and deploy cross-platform DApps easily.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
@@ -350,6 +350,7 @@
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [Zillowe/GCT](https://github.com/Zillowe/GCT) - Smart, interactive Git tool powered by AI, GitLab mirror
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -672,6 +673,7 @@
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [Zaid-maker/silver-guide](https://github.com/Zaid-maker/silver-guide) - 
+- [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels.
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 - [npm/statusboard](https://github.com/npm/statusboard) - Public monitor/status/health board for @npm/cli-team's maintained projects
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -887,7 +889,6 @@
 - [excepti0ns/modmail.js](https://github.com/excepti0ns/modmail.js) - Modmail is a discord bot designed to enable server members to contact staffs easily.
 - [townlist-xyz/townlist-xyz-js](https://github.com/townlist-xyz/townlist-xyz-js) - 
 - [Munz1211-Project/DISCORD-JS-V14-TEMPLATE](https://github.com/Munz1211-Project/DISCORD-JS-V14-TEMPLATE) - DISCORD JS V14 UPDATE TEMPLATE :3
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [DanBot-Hosting/DBH-Manage](https://github.com/DanBot-Hosting/DBH-Manage) - This project is no longer maintained nor should be used under any condition. It will remain publicly available but will not receive any updates.
 - [icelikespy/Socket](https://github.com/icelikespy/Socket) - Discord Bot build solely for developers of all types and languages.
 - [Desixred-byte/api-townlist-xyz](https://github.com/Desixred-byte/api-townlist-xyz) - 
@@ -1482,7 +1483,6 @@
 ## Rust 
 
 - [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
 - [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image. Faster aternative to satori + resvg plus variable fonts, RTL, inline layout, WOFF2, WebP output support.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [Zillowe/Zoi](https://github.com/Zillowe/Zoi) - Universal Package Manager & Environment Setup Tool, GitLab Mirror
@@ -2019,7 +2019,6 @@
 - [Zaid-maker/discord-clone](https://github.com/Zaid-maker/discord-clone) - Discord clone in nextjs 13
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [swc-project/swc-playground](https://github.com/swc-project/swc-playground) - The SWC playground.
 - [DanBot-Hosting/auth-frontend](https://github.com/DanBot-Hosting/auth-frontend) - 👤 Frontend for Website Authentication. WIP
@@ -2221,6 +2220,7 @@
 - [MenuDocs/erela.js](https://github.com/MenuDocs/erela.js) - An easy-to-use Lavalink client for NodeJS.
 - [lavacord/Lavacord](https://github.com/lavacord/Lavacord) - Lightweight Lavalink client for Node.js with TypeScript, ESM/CommonJS support and multiple Discord library compatibility
 - [nitzanhen/agrippa](https://github.com/nitzanhen/agrippa) - The CLI for frontend component generation
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.

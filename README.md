@@ -1697,7 +1697,7 @@
 - [adrianhajdin/saas-template](https://github.com/adrianhajdin/saas-template) - SaaS Starter Template built with Next.js, Supabase & Clerk. Includes seamless auth, manage subscriptions and payments out of the box, and scale faster with a clean, reusable codebase — everything you 
 - [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents & Commands Collection + CLI Tool
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ Convert any site to clean markdown & llms.txt. Boost your site's AI discoverability or generate LLM context for a project you're working with.
+- [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ The fastest markdown to HTML streamer built with JavaScript. Optimized for LLM input.
 - [Anshkaran7/git-aura](https://github.com/Anshkaran7/git-aura) - A modern web app to visualize and share GitHub user profiles and contribution activity. Enter any GitHub username to view a beautiful, themeable profile card with contribution heatmap, follower stats,
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
@@ -1824,7 +1824,7 @@
 - [ice-blockchain/mobile-app](https://github.com/ice-blockchain/mobile-app) - React Native App for the mining of ice coins.
 - [nextjs/deploy-render](https://github.com/nextjs/deploy-render) - Next.js template to deploy to Render as a Node.js server.
 - [mendsalbert/http3](https://github.com/mendsalbert/http3) - 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website to data pipelines, APIs & spreadsheets in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
 - [microsoft/beachball](https://github.com/microsoft/beachball) - The Sunniest Semantic Version Bumper
 - [kdimitrov997/my-jira-clone](https://github.com/kdimitrov997/my-jira-clone) - 
 - [nicitaacom/19_spotify-clone](https://github.com/nicitaacom/19_spotify-clone) - YouTube - code with Antonio - spotify clone
@@ -2072,7 +2072,7 @@
 - [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) - 🈹 Better icons for languages, because flags just don't cut it
 - [AnandChowdhary/a11yisimportant](https://github.com/AnandChowdhary/a11yisimportant) - 🐦 Twitter bot for @a11yisimportant × #a11y
 - [AnandChowdhary/readme-repos-list](https://github.com/AnandChowdhary/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README
-- [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time
+- [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time for over 10 years in this repo
 - [elninotech/uppload](https://github.com/elninotech/uppload) - 📁 JavaScript image uploader and editor, no backend required
 - [AnandChowdhary/anandchowdhary.com](https://github.com/AnandChowdhary/anandchowdhary.com) - 🌐 Anand Chowdhary's personal website, blog, and portfolio
 - [Zaid-maker/react-flight-tracker](https://github.com/Zaid-maker/react-flight-tracker) - ✈️ An open-source real-time flight tracker with React, TypeScript, Mapbox and data from the OpenSky Network API.

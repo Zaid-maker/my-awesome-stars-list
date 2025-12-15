@@ -192,7 +192,6 @@
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
 - [ThirteenAG/WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 - [CrowCpp/Crow](https://github.com/CrowCpp/Crow) - A Fast and Easy to use microframework for the web.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
 - [livinamuk/Hell2025](https://github.com/livinamuk/Hell2025) - 
@@ -522,6 +521,8 @@
 
 ## JavaScript 
 
+- [zaidhafeezvu/railway-ticket-management-system](https://github.com/zaidhafeezvu/railway-ticket-management-system) - 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
 - [AnandChowdhary/github-stars-contributions-mcp](https://github.com/AnandChowdhary/github-stars-contributions-mcp) - 💽 MCP server to update your GitHub Stars contributions
 - [Zaid-maker/booking-app](https://github.com/Zaid-maker/booking-app) - 
@@ -593,6 +594,7 @@
 - [hkithub-official/no-plaintext-passwords](https://github.com/hkithub-official/no-plaintext-passwords) - 
 - [Tazhys/ecomping-nue](https://github.com/Tazhys/ecomping-nue) - A replica of contabo's ecomping-nue/ping api.
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [HirziDevs/PteroStats](https://github.com/HirziDevs/PteroStats) - PteroStats is a Discord App/Bot designed to check Pterodactyl or Pelican Panel stats and post it to your Discord server.
 - [adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website

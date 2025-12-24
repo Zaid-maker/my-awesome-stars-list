@@ -1259,7 +1259,7 @@
 
 ## Python 
 
-- [MineDojo/NitroGen](https://github.com/MineDojo/NitroGen) - 
+- [MineDojo/NitroGen](https://github.com/MineDojo/NitroGen) - A Foundation Model for Generalist Gaming Agents
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [aiming-lab/Agent0](https://github.com/aiming-lab/Agent0) - Agent0 Series: Self-Evolving Agents from Zero Data
 - [microsoft/fara](https://github.com/microsoft/fara) - Fara-7B: An Efficient Agentic Model for Computer Use

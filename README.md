@@ -348,7 +348,7 @@
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [Zillowe/GCT](https://github.com/Zillowe/GCT) - Smart, interactive Git tool powered by AI, GitLab mirror
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -535,7 +535,6 @@
 - [tayyabadev/PassportScannerDesign](https://github.com/tayyabadev/PassportScannerDesign) - 
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
-- [gayanvoice/test-app](https://github.com/gayanvoice/test-app) - 
 - [AbhiVarde/Idea-tracker](https://github.com/AbhiVarde/Idea-tracker) - Professional idea management for developers.
 - [sindresorhus/multicast-stream](https://github.com/sindresorhus/multicast-stream) - Create a multicast stream that lets multiple consumers independently read the same data
 - [reactjs/react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
@@ -635,6 +634,7 @@
 - [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots.
 - [Sank6/Nickel](https://github.com/Sank6/Nickel) - Cipher analyser and auto solver for the Vigenere, Affine Shift and Caeser Shift
 - [adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave) - Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and
+- [vidavidorra/renovate](https://github.com/vidavidorra/renovate) - Self-hosted Renovate using the Renovate GitHub Action
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -1156,7 +1156,6 @@
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [DanBot-Hosting/Pterodactyl-Eggs](https://github.com/DanBot-Hosting/Pterodactyl-Eggs) - Repository of all the Pterodactyl eggs and docker images we (DanBot Hosting) have created for use.
 - [widgetbot-io/locales](https://github.com/widgetbot-io/locales) - 
-- [vidavidorra/renovate](https://github.com/vidavidorra/renovate) - Self-hosted Renovate using the Renovate GitHub Action
 - [nodejs/web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
 - [nodejs/next-10](https://github.com/nodejs/next-10) - Repository for discussion on strategic directions for next 10 years of Node.js

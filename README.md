@@ -1489,7 +1489,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
-- [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image. Faster next/og aternative plus variable fonts, RTL, inline layout, WOFF2, WebP output support.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image. Faster next/og & satori alternative plus variable fonts, RTL, inline layout, WOFF2, WebP output support.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [Zillowe/Zoi](https://github.com/Zillowe/Zoi) - Universal Package Manager & Environment Setup Tool, GitLab Mirror
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -1561,7 +1561,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [adamchalmers/dingo](https://github.com/adamchalmers/dingo) - Command-line DNS client using bitvec, nom and RFC 1035
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Milo123459/scrooge](https://github.com/Milo123459/scrooge) - 😎 Run scripts in the command line automatically. No more copy pasting, just scrooge run!
 - [Milo123459/glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
@@ -1661,6 +1661,7 @@
 
 ## TypeScript 
 
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter) - 
 - [f1shy-dev/distracted](https://github.com/f1shy-dev/distracted) - blocks distracting websites! annoy you to get back on them...
 - [nikandr-surkov/tolk-jetton-blueprint](https://github.com/nikandr-surkov/tolk-jetton-blueprint) - Tolk Jetton (Minter + Wallet) template for TON Blueprint with tests.
@@ -1704,7 +1705,7 @@
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) - claude code leaderboard
 - [adrianhajdin/saas-template](https://github.com/adrianhajdin/saas-template) - SaaS Starter Template built with Next.js, Supabase & Clerk. Includes seamless auth, manage subscriptions and payments out of the box, and scale faster with a clean, reusable codebase — everything you 
-- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents & Commands Collection + CLI Tool
+- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - Claude Code Subagents & Commands Collection + CLI Tool
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ The fastest markdown to HTML streamer built with JavaScript. Optimized for LLM input.

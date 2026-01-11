@@ -98,6 +98,7 @@
 
 ## C 
 
+- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
 - [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -345,12 +346,13 @@
 
 ## Go 
 
+- [wesm/roborev](https://github.com/wesm/roborev) - Background agent to review your git commits autonomously with CLI agents while you work, with CLI and TUI support
 - [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) - Send and receive SMS messages using your Android phone programmatically via a simple HTTP API
 - [openpcc/openpcc](https://github.com/openpcc/openpcc) - An open-source framework for verifiably private AI inference
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models at Cloud, Enterprise and Edge
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [Zillowe/GCT](https://github.com/Zillowe/GCT) - Smart, interactive Git tool powered by AI, GitLab mirror
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -1290,7 +1292,6 @@
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 - [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) - An open-source OpusClip alternative
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
-- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code
 - [Pipelex/cocode](https://github.com/Pipelex/cocode) - Cocode is the friend of your code, it is a powerful command-line tool for analyzing and processing code repositories. It converts repository structures and contents into text formats, extracts code in
 - [Merubokkusu/Discord-S.C.U.M](https://github.com/Merubokkusu/Discord-S.C.U.M) - A Discord API Wrapper for Userbots/Selfbots written in Python.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -1670,6 +1671,7 @@
 
 ## TypeScript 
 
+- [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
 - [akinloluwami/gh-chat](https://github.com/akinloluwami/gh-chat) - 
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [vercel-labs/ralph-loop-agent](https://github.com/vercel-labs/ralph-loop-agent) - Continuous Autonomy for the AI SDK
@@ -1719,6 +1721,7 @@
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) - claude code leaderboard
 - [adrianhajdin/saas-template](https://github.com/adrianhajdin/saas-template) - SaaS Starter Template built with Next.js, Supabase & Clerk. Includes seamless auth, manage subscriptions and payments out of the box, and scale faster with a clean, reusable codebase — everything you 
+- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ The fastest HTML to markdown convertor built with JavaScript. Optimized for LLMs and supports streaming.
@@ -1877,7 +1880,7 @@
 - [mendsalbert/auditra](https://github.com/mendsalbert/auditra) - 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mendsalbert/identiFi](https://github.com/mendsalbert/identiFi) - 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.
 - [Zaid-maker/evently](https://github.com/Zaid-maker/evently) - Event organization web app like Eventbrite or Meetup

@@ -821,7 +821,6 @@
 - [WebDevSimplified/file-sharing-node-js](https://github.com/WebDevSimplified/file-sharing-node-js) - 
 - [Freshman-tech/unsplash-search-starter-files](https://github.com/Freshman-tech/unsplash-search-starter-files) - Starter files for the Unsplash Search app built with Svelte 3
 - [Jimbly/jsjam22](https://github.com/Jimbly/jsjam22) - Entry for Gamedev.js Jam 2022
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [leaky-forms/leak-inspector](https://github.com/leaky-forms/leak-inspector) - LeakInspector: an add-on that warns and protects against personal data exfiltration
 - [CleverProgrammers/tiktok-clone-youtube](https://github.com/CleverProgrammers/tiktok-clone-youtube) - 
@@ -1214,6 +1213,7 @@
 - [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter) - 
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -1676,6 +1676,7 @@
 
 ## TypeScript 
 
+- [akinloluwami/envii](https://github.com/akinloluwami/envii) - Backup and restore environment variables across machines in seconds
 - [code-with-antonio/polaris](https://github.com/code-with-antonio/polaris) - 
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
@@ -1767,7 +1768,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [StartITBot/discord.builders](https://github.com/StartITBot/discord.builders) - Use new Discord components in messages for free and stylize your server however your want
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [elitan/frost](https://github.com/elitan/frost) - Open source Railway alternative
+- [elitan/frost](https://github.com/elitan/frost) - Deploy Docker apps. Simply.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - The future of file storage
 - [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions.
@@ -2222,7 +2223,7 @@
 - [jeremybarbet/react-native-jsi-base-coder](https://github.com/jeremybarbet/react-native-jsi-base-coder) - Base64/32/16 encoding/decoding for React Native written in C/C++ and JSI.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [web3ui/web3uikit](https://github.com/web3ui/web3uikit) - Lightweight reusable Web3 UI components for dapps.
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL

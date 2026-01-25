@@ -1767,7 +1767,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [StartITBot/discord.builders](https://github.com/StartITBot/discord.builders) - Use new Discord components in messages for free and stylize your server however your want
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [elitan/frost](https://github.com/elitan/frost) - Deploy Docker apps. Simply.
+- [elitan/frost](https://github.com/elitan/frost) - Get your app online, for the AI coding era.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - The future of file storage
 - [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions.
@@ -2339,7 +2339,7 @@
 
 ## Vue 
 
-- [louislam/its-mytabs](https://github.com/louislam/its-mytabs) - Open source, web based, self hostable guitar/bass tab viewer and player, similar to Songsterr.
+- [louislam/its-mytabs](https://github.com/louislam/its-mytabs) - Open source, web based, self hostable guitar/bass tab (tablature) viewer and player, similar to Songsterr.
 - [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Zaid-maker/test-nuxt-hub](https://github.com/Zaid-maker/test-nuxt-hub) - 

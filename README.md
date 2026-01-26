@@ -2000,7 +2000,7 @@
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [Zaid-maker/Gamehub](https://github.com/Zaid-maker/Gamehub) - 
 - [vercel/speed-insights](https://github.com/vercel/speed-insights) - Vercel Speed Insights package
 - [whoisseth/country-info-app-yt](https://github.com/whoisseth/country-info-app-yt) - 

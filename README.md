@@ -1392,7 +1392,6 @@
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [PaulLockett/LangServe-Railway](https://github.com/PaulLockett/LangServe-Railway) - LangServe Template for Railway one click deployments
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -1442,7 +1441,7 @@
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [useragents/Snapchat-Snapscore-Botter](https://github.com/useragents/Snapchat-Snapscore-Botter) - 🌟 Get MILLIONS of snapscore
 - [useragents/Proxyless-TikTok-Username-Checker](https://github.com/useragents/Proxyless-TikTok-Username-Checker) - Loops through a list of usernames to check if they are available or unavailable
-- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output to Twitter, Discord, Mastodon, and Telegram.
+- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
@@ -2011,6 +2010,7 @@
 - [affan-ch/Linko](https://github.com/affan-ch/Linko) - Linko is an open-source Link Management platform that offers a variety of features, including URL shortener, tracking capabilities, QR code generator, Bio pages and more.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [actions/go-dependency-submission](https://github.com/actions/go-dependency-submission) - Calculates dependencies for a Go build-target and submits the list to the Dependency Submission API
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go

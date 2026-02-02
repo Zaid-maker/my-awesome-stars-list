@@ -162,7 +162,7 @@
 - [louislam/rdp-portal](https://github.com/louislam/rdp-portal) - A slightly smarter and simple Remote Desktop manager for Windows.
 - [DigiWorm0/LevelImposter](https://github.com/DigiWorm0/LevelImposter) - Custom Among Us Mapping Studio (BepInEx Mod)
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
 - [SebLague/Chess-Coding-Adventure](https://github.com/SebLague/Chess-Coding-Adventure) - A work-in-progress chess bot written in C#
 - [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
@@ -499,7 +499,6 @@
 ## JSON 
 
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - Browser compatibility data for Web technologies as displayed on MDN
-- [AnandChowdhary/featured](https://github.com/AnandChowdhary/featured) - ✨ A list of @AnandChowdhary's featured open source projects
 - [AnandChowdhary/everything](https://github.com/AnandChowdhary/everything) - ⏳ Everything Everywhere All at Once
 - [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status) - 📈 Uptime monitor and status page for DevMirza-Blog, powered by @upptime
 - [AnandChowdhary/okrs](https://github.com/AnandChowdhary/okrs) - 🧭 My personal Objectives and Key Results (OKRs), tracked on GitHub
@@ -690,6 +689,7 @@
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [DevMirza-Blog/uptime](https://github.com/DevMirza-Blog/uptime) - Fork of devmirza official repo
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [AnandChowdhary/featured](https://github.com/AnandChowdhary/featured) - ✨ A list of @AnandChowdhary's featured open source projects
 - [aprilaili/aprilaili](https://github.com/aprilaili/aprilaili) - 
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us

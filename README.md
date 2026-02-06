@@ -119,7 +119,7 @@
 - [EpicGames/ThirdParty](https://github.com/EpicGames/ThirdParty) - Modifications to third party software used by UE4
 - [nlgxzef/NFSU2Unlimiter](https://github.com/nlgxzef/NFSU2Unlimiter) - Need for Speed Underground 2 Unlimiter
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 - [ipmitool/ipmitool](https://github.com/ipmitool/ipmitool) - An open-source tool for controlling IPMI-enabled systems
 - [tarantino07/cube.c](https://github.com/tarantino07/cube.c) - https://youtu.be/p09i_hoFdd0
@@ -1863,7 +1863,7 @@
 - [ice-blockchain/mobile-app](https://github.com/ice-blockchain/mobile-app) - React Native App for the mining of ice coins.
 - [nextjs/deploy-render](https://github.com/nextjs/deploy-render) - Next.js template to deploy to Render as a Node.js server.
 - [mendsalbert/http3](https://github.com/mendsalbert/http3) - 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨
 - [microsoft/beachball](https://github.com/microsoft/beachball) - The Sunniest Semantic Version Bumper
 - [kdimitrov997/my-jira-clone](https://github.com/kdimitrov997/my-jira-clone) - 
 - [nicitaacom/19_spotify-clone](https://github.com/nicitaacom/19_spotify-clone) - YouTube - code with Antonio - spotify clone

@@ -24,6 +24,7 @@
 - [F#](#f#)
 - [GDScript](#gdscript)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Hack](#hack)
@@ -55,7 +56,6 @@
 - [SVG](#svg)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Solidity](#solidity)
 - [Starlark](#starlark)
 - [Svelte](#svelte)
@@ -259,7 +259,7 @@
 
 ## CSS 
 
-- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB
+- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
 - [affan-ch/Mobile-Shop-POS](https://github.com/affan-ch/Mobile-Shop-POS) - Mobile shop management system built using Laravel with roles for cashiers, admins, and super admins.
 - [peter-evans/blog](https://github.com/peter-evans/blog) - The blog of Peter Evans
 - [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
@@ -432,6 +432,10 @@
 - [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 - [danielpmc/wings](https://github.com/danielpmc/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+
+## Go Template 
+
+- [dirsigler/uptime-kuma-helm](https://github.com/dirsigler/uptime-kuma-helm) - This Helm Chart installs Uptime-Kuma from @louislam to your Kubernetes Cluster.
 
 ## Groovy 
 
@@ -1337,7 +1341,7 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [PrefectHQ/compat-tests](https://github.com/PrefectHQ/compat-tests) - Compatibility testing suite between OSS and Cloud
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Enterprise-grade and API-first LLM workspace for unstructured documents, including data extraction, redaction, rights management, prompt playground, and more!
+- [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.
 - [paveL1boyko/MuskEmpireBot](https://github.com/paveL1boyko/MuskEmpireBot) - XEmpire Bot
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [AnLoMinus/X-AI-Chat](https://github.com/AnLoMinus/X-AI-Chat) - X-AI-Chat
@@ -1639,10 +1643,6 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [DottoXD/StatusMonitor-Server](https://github.com/DottoXD/StatusMonitor-Server) - 
 
-## Smarty 
-
-- [dirsigler/uptime-kuma-helm](https://github.com/dirsigler/uptime-kuma-helm) - This Helm Chart installs Uptime-Kuma from @louislam to your Kubernetes Cluster.
-
 ## Solidity 
 
 - [ProjectOpenSea/seaport](https://github.com/ProjectOpenSea/seaport) - Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.
@@ -1719,7 +1719,7 @@
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [JavaScript-Mastery-Pro/e-commerce](https://github.com/JavaScript-Mastery-Pro/e-commerce) - Nike-style eCommerce built with Devin AI, Next.js, TS, Tailwind, and Better Auth. Features product pages, cart, and checkout integrated with Stripe payments and a Neon PostgreSQL/Drizzle backend.Nike 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [growchief/growchief](https://github.com/growchief/growchief) - The Ultimate all-in social media automation (outreach) tool 🤖
 - [NiladriHazra/Open-Fiesta](https://github.com/NiladriHazra/Open-Fiesta) - An open-source version to use all the Models for free
 - [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature) - ⌨️ keyboard-based digital signatures
@@ -1982,7 +1982,7 @@
 - [unjs/automd](https://github.com/unjs/automd) - 🤖 Automated markdown maintainer
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [Zaid-maker/jotion-next13](https://github.com/Zaid-maker/jotion-next13) - 
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [DanBot-Hosting/DBH-Bot-API](https://github.com/DanBot-Hosting/DBH-Bot-API) - A simple bot API for DanBot Hosting. Heavily under development.

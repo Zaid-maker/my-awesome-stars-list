@@ -221,7 +221,7 @@
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [CarloWood/linuxviewer](https://github.com/CarloWood/linuxviewer) - A Vulkan Engine for the GNU/Linux operating system.
 - [misyltoad/VPhysics-Jolt](https://github.com/misyltoad/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
-- [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
+- [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that turns Grand Theft Auto: San Andreas into networked multiplayer.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -1774,7 +1774,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [StartITBot/discord.builders](https://github.com/StartITBot/discord.builders) - Use new Discord components in messages for free and stylize your server however your want
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [elitan/frost](https://github.com/elitan/frost) - Vercel experience. VPS pricing.
+- [elitan/frost](https://github.com/elitan/frost) - Open Source Alternative to Vercel, Netlify, Railway and Render.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - The future of file storage
 - [adrianhajdin/saas-app](https://github.com/adrianhajdin/saas-app) - LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions.

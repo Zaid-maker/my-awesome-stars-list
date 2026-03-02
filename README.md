@@ -1279,7 +1279,7 @@
 
 ## Python 
 
-- [doramirdor/NadirClaw](https://github.com/doramirdor/NadirClaw) - Smart LLM router that cuts AI costs by ~40%. Routes simple prompts to cheap/local models, complex ones to premium. Works with Claude Code, OpenClaw, Cursor. OpenAI-compatible proxy, runs locally.
+- [doramirdor/NadirClaw](https://github.com/doramirdor/NadirClaw) - Open-source LLM router & AI cost optimizer. Routes simple prompts to cheap/local models, complex ones to premium — automatically. Drop-in OpenAI-compatible proxy for Claude Code, Codex, Cursor, OpenCl
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [spullara/models](https://github.com/spullara/models) - 
 - [mourad-ghafiri/youtube-mcp-server](https://github.com/mourad-ghafiri/youtube-mcp-server) - A powerful Model Context Protocol (MCP) server for YouTube video transcription and metadata extraction.
@@ -1451,7 +1451,7 @@
 - [aadhithya/rajiniPP](https://github.com/aadhithya/rajiniPP) - Programming language based on Iconic dialogues of Rajinikanth. 🤘🏽
 - [ZephrFish/F5-CVE-2022-1388-Exploit](https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit) - Exploit and Check Script for CVE 2022-1388
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [useragents/Snapchat-Snapscore-Botter](https://github.com/useragents/Snapchat-Snapscore-Botter) - 🌟 Get MILLIONS of snapscore
 - [useragents/Proxyless-TikTok-Username-Checker](https://github.com/useragents/Proxyless-TikTok-Username-Checker) - Loops through a list of usernames to check if they are available or unavailable
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
@@ -2031,7 +2031,7 @@
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [strapi/design-system](https://github.com/strapi/design-system) - Strapi.io's design system :rocket:
 - [appwrite/sdk-for-web](https://github.com/appwrite/sdk-for-web) - [READ-ONLY] Official Appwrite Web SDK 🧡
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
 - [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - A flexible, modern and blazingly fast ☄️ status page
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) - The official Next.js library for Axiom.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web

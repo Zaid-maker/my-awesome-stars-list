@@ -1278,6 +1278,7 @@
 
 ## Python 
 
+- [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - obliterate the chains that bind you
 - [doramirdor/NadirClaw](https://github.com/doramirdor/NadirClaw) - Open-source LLM router & AI cost optimizer. Routes simple prompts to cheap/local models, complex ones to premium — automatically. Drop-in OpenAI-compatible proxy for Claude Code, Codex, Cursor, OpenCl
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [spullara/models](https://github.com/spullara/models) - 
@@ -1408,7 +1409,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Zerka30/KumaCompanion](https://github.com/Zerka30/KumaCompanion) - KumaCompanion is a CLI to manage uptime-kuma
 - [github-community-projects/contributors](https://github.com/github-community-projects/contributors) - GitHub Action that given an organization or repository, produces information about the contributors over the specified time period.
-- [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
+- [github-community-projects/issue-metrics](https://github.com/github-community-projects/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [WeblateOrg/translation-finder](https://github.com/WeblateOrg/translation-finder) - Translation files finder
 - [Peppershade/uptimekuma-migrator](https://github.com/Peppershade/uptimekuma-migrator) - Simple migrator from UptimeRobot to UptimeKuma
@@ -1511,7 +1512,6 @@
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [Zillowe/Zoi](https://github.com/Zillowe/Zoi) - Universal Package Manager & Environment Setup Tool, GitLab Mirror
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
@@ -1702,7 +1702,7 @@
 - [f1shy-dev/distracted](https://github.com/f1shy-dev/distracted) - blocks distracting websites! annoy you to get back on them...
 - [nikandr-surkov/tolk-jetton-blueprint](https://github.com/nikandr-surkov/tolk-jetton-blueprint) - Tolk Jetton (Minter + Wallet) template for TON Blueprint with tests.
 - [RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser) - 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [kevinslin/safe-npm](https://github.com/kevinslin/safe-npm) - Safely install NPM packages
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
@@ -1767,6 +1767,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot) - Turn private Telegram groups into real-time support ticket hubs — powered by Unthread.io. 🎫🤖
 - [OscarMayReal/AIChat](https://github.com/OscarMayReal/AIChat) - 

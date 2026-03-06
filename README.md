@@ -336,6 +336,7 @@
 
 ## Elixir 
 
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler.
 - [Sank6/Journal-App](https://github.com/Sank6/Journal-App) - A self-hosted journal web app using the Phoenix framework and a PostgreSQL database.
 

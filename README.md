@@ -907,7 +907,6 @@
 - [excepti0ns/modmail.js](https://github.com/excepti0ns/modmail.js) - Modmail is a discord bot designed to enable server members to contact staffs easily.
 - [townlist-xyz/townlist-xyz-js](https://github.com/townlist-xyz/townlist-xyz-js) - 
 - [Munz1211-Project/DISCORD-JS-V14-TEMPLATE](https://github.com/Munz1211-Project/DISCORD-JS-V14-TEMPLATE) - DISCORD JS V14 UPDATE TEMPLATE :3
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [DanBot-Hosting/DBH-Manage](https://github.com/DanBot-Hosting/DBH-Manage) - This project is no longer maintained nor should be used under any condition. It will remain publicly available but will not receive any updates.
 - [icelikespy/Socket](https://github.com/icelikespy/Socket) - Discord Bot build solely for developers of all types and languages.
 - [Desixred-byte/api-townlist-xyz](https://github.com/Desixred-byte/api-townlist-xyz) - 
@@ -1071,7 +1070,7 @@
 - [adrianhajdin/docs](https://github.com/adrianhajdin/docs) - 
 - [InfinityBotList/Documentation](https://github.com/InfinityBotList/Documentation) - Documentation Site for Infinity Bot List
 - [Androz2091/blog.androz2091.fr](https://github.com/Androz2091/blog.androz2091.fr) - ✏️ My personal blog, built with Gatsby 2
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord Developer Docs
 
 ## Makefile 
 
@@ -1509,7 +1508,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
-- [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image, GIFs or Video
+- [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image, GIFs or Video.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [Zillowe/Zoi](https://github.com/Zillowe/Zoi) - Universal Package Manager & Environment Setup Tool, GitLab Mirror
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -1681,6 +1680,7 @@
 
 ## TypeScript 
 
+- [nokodo-labs/os1](https://github.com/nokodo-labs/os1) - the next-gen open source AI platform
 - [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org) - Source of open-vsx.org
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [ahmadawais/ramadan-cli](https://github.com/ahmadawais/ramadan-cli) - CLI to check Sehar and Iftar times in Ramadan anywhere in the world.
@@ -2269,6 +2269,7 @@
 - [MenuDocs/erela.js](https://github.com/MenuDocs/erela.js) - An easy-to-use Lavalink client for NodeJS.
 - [lavacord/Lavacord](https://github.com/lavacord/Lavacord) - Lightweight Lavalink client for Node.js with TypeScript, ESM/CommonJS support and multiple Discord library compatibility
 - [nitzanhen/agrippa](https://github.com/nitzanhen/agrippa) - The CLI for frontend component generation
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.

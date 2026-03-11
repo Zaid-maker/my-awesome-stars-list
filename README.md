@@ -908,6 +908,7 @@
 - [excepti0ns/modmail.js](https://github.com/excepti0ns/modmail.js) - Modmail is a discord bot designed to enable server members to contact staffs easily.
 - [townlist-xyz/townlist-xyz-js](https://github.com/townlist-xyz/townlist-xyz-js) - 
 - [Munz1211-Project/DISCORD-JS-V14-TEMPLATE](https://github.com/Munz1211-Project/DISCORD-JS-V14-TEMPLATE) - DISCORD JS V14 UPDATE TEMPLATE :3
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [DanBot-Hosting/DBH-Manage](https://github.com/DanBot-Hosting/DBH-Manage) - This project is no longer maintained nor should be used under any condition. It will remain publicly available but will not receive any updates.
 - [icelikespy/Socket](https://github.com/icelikespy/Socket) - Discord Bot build solely for developers of all types and languages.
 - [Desixred-byte/api-townlist-xyz](https://github.com/Desixred-byte/api-townlist-xyz) - 
@@ -1320,7 +1321,7 @@
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -1708,7 +1709,7 @@
 - [f1shy-dev/distracted](https://github.com/f1shy-dev/distracted) - blocks distracting websites! annoy you to get back on them...
 - [nikandr-surkov/tolk-jetton-blueprint](https://github.com/nikandr-surkov/tolk-jetton-blueprint) - Tolk Jetton (Minter + Wallet) template for TON Blueprint with tests.
 - [RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser) - 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [kevinslin/safe-npm](https://github.com/kevinslin/safe-npm) - Safely install NPM packages
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
@@ -1769,7 +1770,7 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-- [bountydotnew/bounty.new](https://github.com/bountydotnew/bounty.new) - 
+- [bountydotnew/bounty.new](https://github.com/bountydotnew/bounty.new) - human fixes for the ai era
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
@@ -2271,7 +2272,6 @@
 - [MenuDocs/erela.js](https://github.com/MenuDocs/erela.js) - An easy-to-use Lavalink client for NodeJS.
 - [lavacord/Lavacord](https://github.com/lavacord/Lavacord) - Lightweight Lavalink client for Node.js with TypeScript, ESM/CommonJS support and multiple Discord library compatibility
 - [nitzanhen/agrippa](https://github.com/nitzanhen/agrippa) - The CLI for frontend component generation
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.

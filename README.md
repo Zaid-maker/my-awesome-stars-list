@@ -521,7 +521,6 @@
 - [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [wanam/YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
-- [openskynetwork/opensky-api](https://github.com/openskynetwork/opensky-api) - Python and Java bindings for the OpenSky Network REST API
 - [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [KSoft-Si/KSoft4J](https://github.com/KSoft-Si/KSoft4J) - Official Java wrapper for the KSoft API
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -1024,7 +1023,7 @@
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [github/codespaces-jupyter](https://github.com/github/codespaces-jupyter) - Explore machine learning and data science with Codespaces
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+- [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
@@ -1115,6 +1114,7 @@
 
 ## Others 
 
+- [Zaid-maker/HawkTUI](https://github.com/Zaid-maker/HawkTUI) - 
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 - [AbdullahGhanem/quran-database](https://github.com/AbdullahGhanem/quran-database) - quran mysql database
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
@@ -1428,6 +1428,7 @@
 - [lucasheld/uptime-kuma-api](https://github.com/lucasheld/uptime-kuma-api) - A Python wrapper for the Uptime Kuma Socket.IO API
 - [pi-apps/pi-python](https://github.com/pi-apps/pi-python) - Pi Python App2User Payment library
 - [MedAziz11/Uptime-Kuma-Web-API](https://github.com/MedAziz11/Uptime-Kuma-Web-API) - Uptime Kuma REST API
+- [openskynetwork/opensky-api](https://github.com/openskynetwork/opensky-api) - Python and Java bindings for the OpenSky Network REST API
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [Soheab/somerandomapi.py](https://github.com/Soheab/somerandomapi.py) - A maintained Python wrapper for the Somerandomapi API.
 - [vb100/openai-test-api](https://github.com/vb100/openai-test-api) - Test OpenAI API: text completion, code completion with Codex, and image generation with DALLE-E
@@ -1691,7 +1692,7 @@
 - [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org) - Source of open-vsx.org
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [ahmadawais/ramadan-cli](https://github.com/ahmadawais/ramadan-cli) - CLI to check Sehar and Iftar times in Ramadan anywhere in the world.
-- [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company.
+- [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [blendi-remade/sprite-sheet-creator](https://github.com/blendi-remade/sprite-sheet-creator) - Create your own playable 2D characters and maps, powered by fal.ai
 - [davideast/stitch-mcp](https://github.com/davideast/stitch-mcp) - A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow.
@@ -1754,7 +1755,7 @@
 - [adrianhajdin/saas-template](https://github.com/adrianhajdin/saas-template) - SaaS Starter Template built with Next.js, Supabase & Clerk. Includes seamless auth, manage subscriptions and payments out of the box, and scale faster with a clean, reusable codebase — everything you 
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-- [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ The fastest HTML to markdown convertor. Optimized for LLMs and supports streaming.
+- [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ The fastest HTML to markdown convertor on GitHub. Optimized for LLMs and supports streaming.
 - [Anshkaran7/git-aura](https://github.com/Anshkaran7/git-aura) - A modern web app to visualize and share GitHub user profiles and contribution activity. Enter any GitHub username to view a beautiful, themeable profile card with contribution heatmap, follower stats,
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs

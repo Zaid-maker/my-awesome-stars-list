@@ -885,7 +885,6 @@
 - [Disbotsxyz/Disbots-api](https://github.com/Disbotsxyz/Disbots-api) - A official api disbots
 - [freddierick/Discord-Ticket-Manager](https://github.com/freddierick/Discord-Ticket-Manager) - 
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
-- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [CTK-WARRIOR/Discord-Link-Mod](https://github.com/CTK-WARRIOR/Discord-Link-Mod) - Discord Custom Vanity URL
 - [CTK-WARRIOR/Discord-Modmail-Bot](https://github.com/CTK-WARRIOR/Discord-Modmail-Bot) - This is Basic Modmail bot in JS created by me xD
 - [JeanVydes/dashboard-discord-ejs](https://github.com/JeanVydes/dashboard-discord-ejs) - Dashboard for Discord bots, Using EJS, Express and MongoDB (include bot)
@@ -1374,7 +1373,7 @@
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
 - [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [ScrapeGraphAI/Scrapegraph-demo](https://github.com/ScrapeGraphAI/Scrapegraph-demo) - Streamlit demo of Scrapegraph-ai for GPT4-hackaton
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1462,6 +1461,7 @@
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [judev1/discordspy](https://github.com/judev1/discordspy) - A basic API wrapper for Discords.com
 - [ZeroTwo36/infinipy](https://github.com/ZeroTwo36/infinipy) - Pythonic Wrapper around InfinityBotList's API
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [DuckHunt-discord/DHV4](https://github.com/DuckHunt-discord/DHV4) - What if Duckhunt had yet another rewrite ?
 - [SilentJungle399/lofi-bot](https://github.com/SilentJungle399/lofi-bot) - 
 - [DankMemer/imgen](https://github.com/DankMemer/imgen) - API server for image manipulation, focused on Dank Memer (discord bot)
@@ -2264,7 +2264,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [Sigma-Production/PteroFreeStuffinstaller](https://github.com/Sigma-Production/PteroFreeStuffinstaller) - Free themes and handy Addons on 1 place
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js

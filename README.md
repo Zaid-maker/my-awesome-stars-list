@@ -885,6 +885,7 @@
 - [Disbotsxyz/Disbots-api](https://github.com/Disbotsxyz/Disbots-api) - A official api disbots
 - [freddierick/Discord-Ticket-Manager](https://github.com/freddierick/Discord-Ticket-Manager) - 
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [CTK-WARRIOR/Discord-Link-Mod](https://github.com/CTK-WARRIOR/Discord-Link-Mod) - Discord Custom Vanity URL
 - [CTK-WARRIOR/Discord-Modmail-Bot](https://github.com/CTK-WARRIOR/Discord-Modmail-Bot) - This is Basic Modmail bot in JS created by me xD
 - [JeanVydes/dashboard-discord-ejs](https://github.com/JeanVydes/dashboard-discord-ejs) - Dashboard for Discord bots, Using EJS, Express and MongoDB (include bot)
@@ -1278,7 +1279,7 @@
 
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
-- [doramirdor/NadirClaw](https://github.com/doramirdor/NadirClaw) - Open-source LLM router & AI cost optimizer. Routes simple prompts to cheap/local models, complex ones to premium — automatically. Drop-in OpenAI-compatible proxy for Claude Code, Codex, Cursor, OpenCl
+- [NadirRouter/NadirClaw](https://github.com/NadirRouter/NadirClaw) - Open-source LLM router & AI cost optimizer. Routes simple prompts to cheap/local models, complex ones to premium — automatically. Drop-in OpenAI-compatible proxy for Claude Code, Codex, Cursor, OpenCl
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [spullara/models](https://github.com/spullara/models) - 
 - [mourad-ghafiri/youtube-mcp-server](https://github.com/mourad-ghafiri/youtube-mcp-server) - A powerful Model Context Protocol (MCP) server for YouTube video transcription and metadata extraction.
@@ -1292,7 +1293,7 @@
 - [gensyn-ai/codeassist](https://github.com/gensyn-ai/codeassist) - A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -1461,7 +1462,6 @@
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [judev1/discordspy](https://github.com/judev1/discordspy) - A basic API wrapper for Discords.com
 - [ZeroTwo36/infinipy](https://github.com/ZeroTwo36/infinipy) - Pythonic Wrapper around InfinityBotList's API
-- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [DuckHunt-discord/DHV4](https://github.com/DuckHunt-discord/DHV4) - What if Duckhunt had yet another rewrite ?
 - [SilentJungle399/lofi-bot](https://github.com/SilentJungle399/lofi-bot) - 
 - [DankMemer/imgen](https://github.com/DankMemer/imgen) - API server for image manipulation, focused on Dank Memer (discord bot)

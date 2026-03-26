@@ -898,7 +898,7 @@
 - [17teen/Discord-Presser-Server-Nuker](https://github.com/17teen/Discord-Presser-Server-Nuker) - Nuke Discord Bot in Js (Beta has arrived)
 - [UnbelievaBoat/unb-api](https://github.com/UnbelievaBoat/unb-api) - API wrapper for UnbelievaBoat Discord Bot API
 - [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template) - A boilerplate / template for discord.js v14 bots with 100% coverage of Discord API, command handler, error handler based on https://discordjs.guide/
-- [WillTDA/Discord.js-Akinator](https://github.com/WillTDA/Discord.js-Akinator) - Create an Akinator Command for Your Discord Bot within Seconds of Installation.
+- [diamonddigitaldev/Discord.js-Akinator](https://github.com/diamonddigitaldev/Discord.js-Akinator) - Create an Akinator Command for Your Discord Bot within Seconds of Installation.
 - [CTK-WARRIOR/Discord-Bot-For-Starters](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters) - This is the tutorial bot :)
 - [DankMemer/sniper](https://github.com/DankMemer/sniper) - An easy to run simple bot that lets you snipe messages in your Discord server
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1693,7 +1693,7 @@
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [ahmadawais/ramadan-cli](https://github.com/ahmadawais/ramadan-cli) - CLI to check Sehar and Iftar times in Ramadan anywhere in the world.
 - [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [blendi-remade/sprite-sheet-creator](https://github.com/blendi-remade/sprite-sheet-creator) - Create your own playable 2D characters and maps, powered by fal.ai
 - [davideast/stitch-mcp](https://github.com/davideast/stitch-mcp) - A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow.
 - [akinloluwami/envii](https://github.com/akinloluwami/envii) - Backup and restore environment variables across machines in seconds

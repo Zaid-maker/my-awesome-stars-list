@@ -218,7 +218,7 @@
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
 - [google-deepmind/code_contests](https://github.com/google-deepmind/code_contests) - 
-- [mitchkoko/ModernSmartHomeUI](https://github.com/mitchkoko/ModernSmartHomeUI) - 
+- [mitchkoko/ModernSmartHomeUI](https://github.com/mitchkoko/ModernSmartHomeUI) - Modern smart home UI built with Flutter
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [CarloWood/linuxviewer](https://github.com/CarloWood/linuxviewer) - A Vulkan Engine for the GNU/Linux operating system.
 - [misyltoad/VPhysics-Jolt](https://github.com/misyltoad/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
@@ -1508,12 +1508,11 @@
 ## Rust 
 
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [clockworklabs/BitCraftPublic](https://github.com/clockworklabs/BitCraftPublic) - The open source server code for the BitCraft MMORPG
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render image, GIF or video from JSX-like syntax.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Rust-powered image renderer for JSX. Drop-in replacement for next/og.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [Zillowe/Zoi](https://github.com/Zillowe/Zoi) - Universal Package Manager & Environment Setup Tool, GitLab Mirror
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -2192,7 +2191,7 @@
 - [upptime/uptime-monitor](https://github.com/upptime/uptime-monitor) - ⬆️📈 Uptime monitor powered by GitHub Actions
 - [InfinityEOL/Website](https://github.com/InfinityEOL/Website) - Portfolio Site for the Infinity Development Team.
 - [VGLoic/metamask-react](https://github.com/VGLoic/metamask-react) - A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [beemobot/sugar](https://github.com/beemobot/sugar) - As of 2023 MAR 26, sugar has been archived and moved to the mono-repo at https://github.com/beemobot/cafe
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -2251,7 +2250,7 @@
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [anatoliygatt/numeric-stepper](https://github.com/anatoliygatt/numeric-stepper) - 🎛 A numeric stepper component for React.
 - [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard) - thirdweb.com and the thirdweb dashboard
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called "Ethereum Boilerplate" it works with any EVM
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [OhMyGuus/BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - Free, open, Among Us Proximity Chat

@@ -1374,7 +1374,7 @@
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file
 - [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [ScrapeGraphAI/Scrapegraph-demo](https://github.com/ScrapeGraphAI/Scrapegraph-demo) - Streamlit demo of Scrapegraph-ai for GPT4-hackaton
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1613,6 +1613,7 @@
 
 ## Shell 
 
+- [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -1715,7 +1716,7 @@
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [kevinslin/safe-npm](https://github.com/kevinslin/safe-npm) - Safely install NPM packages
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
-- [manolo-in/better-auth-instagram](https://github.com/manolo-in/better-auth-instagram) - Instagram OAuth Provider for Better-Auth
+- [manolo-in/better-auth-instagram](https://github.com/manolo-in/better-auth-instagram) - Instagram OAuth Provider for @Better-Auth
 - [discord-userdoccers/discord-protos](https://github.com/discord-userdoccers/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs
 - [githyperplexed/clock-of-clocks](https://github.com/githyperplexed/clock-of-clocks) - A recreation of u/EntropyReversed's CodePen called "Clock made of clocks"
 - [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS) - 

@@ -753,6 +753,7 @@
 - [Zaid-maker/chrome-extension](https://github.com/Zaid-maker/chrome-extension) - 
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [novuhq/json-to-typescript-chatgpt](https://github.com/novuhq/json-to-typescript-chatgpt) - 
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [TheHellTower/Discord-Bot-List](https://github.com/TheHellTower/Discord-Bot-List) - Live Version: https://dbl.ovh
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [Darker-Ink/Pterodactyl-Bot](https://github.com/Darker-Ink/Pterodactyl-Bot) - Pterodactyl Bot Is a Simple Discord bot for Managing your Pterodactyl panel
@@ -2166,7 +2167,6 @@
 - [Zaid-maker/my-blog-nextjs](https://github.com/Zaid-maker/my-blog-nextjs) - 
 - [louislam/demo-kuma](https://github.com/louislam/demo-kuma) - 
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [yuvalsuede/ai-component-generator](https://github.com/yuvalsuede/ai-component-generator) - 
 - [RaydanOMGr/slova](https://github.com/RaydanOMGr/slova) - 📝 Generate pronounceable strings.
 - [dominnya/portfolio](https://github.com/dominnya/portfolio) - 💼 A portfolio built with Next.js, Three.js & Mantine.

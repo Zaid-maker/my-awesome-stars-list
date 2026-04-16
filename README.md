@@ -898,7 +898,7 @@
 - [17teen/Discord-Presser-Server-Nuker](https://github.com/17teen/Discord-Presser-Server-Nuker) - Nuke Discord Bot in Js (Beta has arrived)
 - [UnbelievaBoat/unb-api](https://github.com/UnbelievaBoat/unb-api) - API wrapper for UnbelievaBoat Discord Bot API
 - [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template) - A boilerplate / template for discord.js v14 bots with 100% coverage of Discord API, command handler, error handler based on https://discordjs.guide/
-- [diamonddigitaldev/Discord.js-Akinator](https://github.com/diamonddigitaldev/Discord.js-Akinator) - Create an Akinator Command for Your Discord Bot within Seconds of Installation.
+- [diamonddigitaldev/Discord.js-Akinator](https://github.com/diamonddigitaldev/Discord.js-Akinator) - [DISCONTINUED] Create an Akinator Command for Your Discord Bot within Seconds of Installation.
 - [CTK-WARRIOR/Discord-Bot-For-Starters](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters) - This is the tutorial bot :)
 - [DankMemer/sniper](https://github.com/DankMemer/sniper) - An easy to run simple bot that lets you snipe messages in your Discord server
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1001,6 +1001,7 @@
 - [Zaid-maker/dis-giveaway-bot](https://github.com/Zaid-maker/dis-giveaway-bot) - DisGiveawaysBot allows you to conduct giveaways in your discord server with lightning fast speed and now the bot supports slash commands.
 - [Androz2091/scratch-for-discord](https://github.com/Androz2091/scratch-for-discord) - 🐱Create your own Discord Bot easily using Scratch-styled blocks! Made with Vue.js
 - [TannerGabriel/discord-bot](https://github.com/TannerGabriel/discord-bot) - Simple discord bot to play music and manage your server
+- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [3eif/CoronaCord](https://github.com/3eif/CoronaCord) - Discord bot that displays the latest coronavirus statistics. Currently serving over 5,000 communities on Discord.
 - [Shadowv7/LogsBot](https://github.com/Shadowv7/LogsBot) - 
 - [stuyy/image-uploading-service](https://github.com/stuyy/image-uploading-service) - 
@@ -1876,7 +1877,7 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Zaid-maker/neural-network-training-sim](https://github.com/Zaid-maker/neural-network-training-sim) - 
 - [Zaid-maker/storeit](https://github.com/Zaid-maker/storeit) - 
-- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.
 - [CordXApp/lintydeps](https://github.com/CordXApp/lintydeps) - LintyDeps is a tool designed to find and report missing or unused dependencies and dev dependencies in your project.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
@@ -2342,7 +2343,6 @@
 - [stuyy/Katana](https://github.com/stuyy/Katana) - Deno Discord API primarily based on Discord.JS ▬▬ι═══════ﺤ
 - [mongodb-js/vscode](https://github.com/mongodb-js/vscode) - Connect to MongoDB and Atlas and directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
 - [stuyy/slappey](https://github.com/stuyy/slappey) - Discord Bot Project Generator
-- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [Top-gg-Community/node-sdk](https://github.com/Top-gg-Community/node-sdk) - An official module for interacting with the Top.gg API
 - [Androz2091/discord-logs](https://github.com/Androz2091/discord-logs) - 📝Framework that simplify the usage of advanced Discord logs
 - [Nerixyz/ig-discord-bridge](https://github.com/Nerixyz/ig-discord-bridge) - A Discord bot mirroring threads from Instagram using discord.js, instagram-private-api and instagram_mqtt

@@ -1115,6 +1115,7 @@
 
 ## Others 
 
+- [MysteryNBS/mysty-social-public](https://github.com/MysteryNBS/mysty-social-public) - 
 - [Zaid-maker/HawkTUI](https://github.com/Zaid-maker/HawkTUI) - 
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 - [AbdullahGhanem/quran-database](https://github.com/AbdullahGhanem/quran-database) - quran mysql database
@@ -1511,6 +1512,7 @@
 
 ## Rust 
 
+- [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [clockworklabs/BitCraftPublic](https://github.com/clockworklabs/BitCraftPublic) - The open source server code for the BitCraft MMORPG
@@ -1691,6 +1693,7 @@
 
 ## TypeScript 
 
+- [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [ice-blockchain/core-v2](https://github.com/ice-blockchain/core-v2) - 
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
@@ -1733,7 +1736,7 @@
 - [h3js/starter](https://github.com/h3js/starter) - H3 Starter Template
 - [github/ai-moderator](https://github.com/github/ai-moderator) - An AI-powered GitHub Action that detects and tags spam in your repository
 - [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, Hyperdrive, KV, R2, and geolocation services. CLI for project generation, automated resource provisioning on Cloudflare, and database migr
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 - [adrianhajdin/signalist_stock-tracker-app](https://github.com/adrianhajdin/signalist_stock-tracker-app) - Stock Market app built with Next.js, Shadcn, Better Auth, and Inngest. Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.
@@ -1966,7 +1969,7 @@
 - [adrianhajdin/zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 - [Rahuletto/pomobud](https://github.com/Rahuletto/pomobud) - Pomobud is a normal, simple yet minimal pomodoro timer (or) Tomato timer so you can focus and break that procrastination.
 - [Claradev32/real-time-with-signalR](https://github.com/Claradev32/real-time-with-signalR) - 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types
 - [keyurparalkar/render-million-rows](https://github.com/keyurparalkar/render-million-rows) - A project to demonstrate rendering 1 million rows in React
 - [Darker-Ink/anti-polls](https://github.com/Darker-Ink/anti-polls) - Punish users who post polls in your server

@@ -534,6 +534,7 @@
 
 ## JavaScript 
 
+- [Sudo-Ali-Dev/Rankistan](https://github.com/Sudo-Ali-Dev/Rankistan) - The definitive index of Pakistani open source developers. Auto-updated daily via GitHub Actions.
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [Zaid-maker/PopIndex](https://github.com/Zaid-maker/PopIndex) - 
 - [SteamTracking/SteamTracking](https://github.com/SteamTracking/SteamTracking) - 🕵 Tracking things, so you don't have to
@@ -1441,7 +1442,7 @@
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [kogorman/sdclone](https://github.com/kogorman/sdclone) - Backup/restore tool for entire drives, using partclone for most copies and zstd for compression
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [koyeb/example-flask](https://github.com/koyeb/example-flask) - Example to deploy a Flask application on Koyeb
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Terminal-based toolkit for GitHub data analysis.
@@ -1773,7 +1774,7 @@
 - [ahmetskilinc/www](https://github.com/ahmetskilinc/www) - um its my portfolio?
 - [Zaid-maker/Mail3](https://github.com/Zaid-maker/Mail3) - Experience email the way you want with MailThree – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
 - [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai) - 
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [databuddy-analytics/better-analytics](https://github.com/databuddy-analytics/better-analytics) - Track logs, errors, and 404 pages in minutes, not hours. AI-Native design, an agent with full context on your errors to help you debug and solve them, all made within 3 days for CustomHack hackathon
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code

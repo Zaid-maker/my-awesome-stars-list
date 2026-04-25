@@ -632,6 +632,7 @@
 - [neondatabase/serverless](https://github.com/neondatabase/serverless) - Connect to Neon PostgreSQL from serverless/worker/edge functions
 - [devmirza-bot/package-manager-benchmark](https://github.com/devmirza-bot/package-manager-benchmark) - 
 - [EddieHubCommunity/RepoRater](https://github.com/EddieHubCommunity/RepoRater) - Rate GitHub Repos for Developer Experience (DX)
+- [1999AZZAR/1999AZZAR](https://github.com/1999AZZAR/1999AZZAR) - This is a repository containing the source code for my personal portfolio website. The website was created using HTML, CSS, and JavaScript, and it showcases my skills and experience as a freelancer.
 - [adrianhajdin/aora](https://github.com/adrianhajdin/aora) - Build your first mobile application
 - [nodejs/node-core-utils](https://github.com/nodejs/node-core-utils) - CLI tools for Node.js Core collaborators
 - [shashkovdanil/clean-publish](https://github.com/shashkovdanil/clean-publish) - Removing configuration files and fields in package.json before publishing to npm
@@ -1171,7 +1172,6 @@
 - [github-early-access/generate-build-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow
 - [withastro/automation](https://github.com/withastro/automation) - Centralized repo for GitHub actions for the `withastro` org
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-- [1999AZZAR/1999AZZAR](https://github.com/1999AZZAR/1999AZZAR) - This is a repository containing the source code for my personal portfolio website. The website was created using HTML, CSS, and JavaScript, and it showcases my skills and experience as a freelancer.
 - [nodejs/jenkins-alerts](https://github.com/nodejs/jenkins-alerts) - Node.js Jenkins alerts for CI Testing environment
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [DanBot-Hosting/Pterodactyl-Eggs](https://github.com/DanBot-Hosting/Pterodactyl-Eggs) - Repository of all the Pterodactyl eggs and docker images we (DanBot Hosting) have created for use.
@@ -1281,6 +1281,7 @@
 
 ## Python 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Green Screen Keys made EZ!
 - [deepakguptabca/InstantPhotos](https://github.com/deepakguptabca/InstantPhotos) - Get Ready Passport size photo in seconds
 - [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto

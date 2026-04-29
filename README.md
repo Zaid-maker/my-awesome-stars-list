@@ -1117,7 +1117,7 @@
 
 ## Others 
 
-- [MysteryNBS/mysty-social-public](https://github.com/MysteryNBS/mysty-social-public) - 
+- [MysteryNBS/yapper-public](https://github.com/MysteryNBS/yapper-public) - 
 - [Zaid-maker/HawkTUI](https://github.com/Zaid-maker/HawkTUI) - 
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 - [AbdullahGhanem/quran-database](https://github.com/AbdullahGhanem/quran-database) - quran mysql database

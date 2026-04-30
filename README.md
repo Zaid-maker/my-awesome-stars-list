@@ -1075,7 +1075,7 @@
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [adrianhajdin/docs](https://github.com/adrianhajdin/docs) - 
 - [InfinityBotList/Documentation](https://github.com/InfinityBotList/Documentation) - Documentation Site for Infinity Bot List
-- [Androz2091/blog.androz2091.fr](https://github.com/Androz2091/blog.androz2091.fr) - ✏️ My personal blog, built with Gatsby 2
+- [Androz2091/blog.androz2091.fr](https://github.com/Androz2091/blog.androz2091.fr) - ✏️ My personal blog, built with Astro
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord Developer Docs
 
 ## Makefile 
@@ -1524,7 +1524,7 @@
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [Zillowe/Zoi](https://github.com/Zillowe/Zoi) - Universal Package Manager & Environment Setup Tool, GitLab Mirror
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii makes service integration as easy as npm install by unifying every service into a simple abstraction: Workers, Triggers, and Functions
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal

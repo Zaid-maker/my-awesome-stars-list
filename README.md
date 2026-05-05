@@ -1184,7 +1184,6 @@
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS.
 - [EpicGames/Signup](https://github.com/EpicGames/Signup) - Information about signing up for a free Epic Games account, and getting access to UnrealEngine source code.
 - [vn7n24fzkq/github-profile-summary-cards-example](https://github.com/vn7n24fzkq/github-profile-summary-cards-example) - github-profile-summary-cards' template
-- [affan-ch/affan-ch](https://github.com/affan-ch/affan-ch) - Repository showcasing my coding journey: projects, scripts, and tools reflecting my passion and expertise in development.
 - [Zaid-maker/books](https://github.com/Zaid-maker/books) - 
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [katoahq/docs](https://github.com/katoahq/docs) - Documentation for Katoa
@@ -1747,7 +1746,7 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [ishaan1013/shadow](https://github.com/ishaan1013/shadow) - Background coding agent and real-time web interface
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [RevoTale/next-scroll-restorer](https://github.com/RevoTale/next-scroll-restorer) - Scroll restoration for NextJs apps built with `app` directory. Fixed bugs that NextJs team do not fix.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
@@ -2148,7 +2147,7 @@
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [vercel/remix](https://github.com/vercel/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [louislam/dropbox-ignore](https://github.com/louislam/dropbox-ignore) - Tell Dropdox to ignore a directory
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [vercel/edge-runtime](https://github.com/vercel/edge-runtime) - Developing, testing, and defining the runtime Web APIs for Edge infrastructure.
 - [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - A playground to explore Next.js features such as nested layouts, instant loading states, streaming, and component level data fetching.
 - [vercel/storage](https://github.com/vercel/storage) - Vercel Storage - Blob and Edge Config

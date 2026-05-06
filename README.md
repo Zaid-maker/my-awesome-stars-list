@@ -471,7 +471,6 @@
 - [O-MG/O.MG-Firmware](https://github.com/O-MG/O.MG-Firmware) - 
 - [pawelgrzybek/pawelgrzybek.com](https://github.com/pawelgrzybek/pawelgrzybek.com) - My Hugo based website
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
-- [louislam/uptime-kuma-wiki](https://github.com/louislam/uptime-kuma-wiki) - 
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [Zaid-maker/todo-app-in-svelte](https://github.com/Zaid-maker/todo-app-in-svelte) - 
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -1295,7 +1294,7 @@
 - [gensyn-ai/codeassist](https://github.com/gensyn-ai/codeassist) - A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -1688,6 +1687,7 @@
 
 ## TypeScript 
 
+- [remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas) - 
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [ice-blockchain/core-v2](https://github.com/ice-blockchain/core-v2) - 
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
@@ -2173,6 +2173,7 @@
 - [RaydanOMGr/slova](https://github.com/RaydanOMGr/slova) - 📝 Generate pronounceable strings.
 - [dominnya/portfolio](https://github.com/dominnya/portfolio) - 💼 A portfolio built with Next.js, Three.js & Mantine.
 - [dominnya/cvet-cli](https://github.com/dominnya/cvet-cli) - An effecient color tool CLI for your projects
+- [louislam/uptime-kuma-wiki](https://github.com/louislam/uptime-kuma-wiki) - 
 - [Zaid-maker/react-admin-dashboard](https://github.com/Zaid-maker/react-admin-dashboard) - 
 - [lukef7fywmrp/apple-redesign-yt](https://github.com/lukef7fywmrp/apple-redesign-yt) - 
 - [InfinityEOL/CheatSheet](https://github.com/InfinityEOL/CheatSheet) - Pre-Configured list of Templates and Approval/Denial Reasons that is free for any Bot List or Bot List Staff to use!

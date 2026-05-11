@@ -1129,7 +1129,7 @@
 - [nodejs/mikeal](https://github.com/nodejs/mikeal) - In light of the the contributions that Mikeal made to Node.js and the larger ecosystem and his recent passing this repository will provide a place for people to contribute their condolences and memori
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [CVEProject/cvelist](https://github.com/CVEProject/cvelist) - Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023
-- [AnandChowdhary/chat](https://github.com/AnandChowdhary/chat) - 💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)
+- [AnandChowdhary/chat](https://github.com/AnandChowdhary/chat) - 💬 Use your GitHub repo's Issues as your own free ChatGPT (yes, really!)
 - [brave-experiments/cookiecrumbler-issues](https://github.com/brave-experiments/cookiecrumbler-issues) - Issues tracker for Cookiecrumbler crawl results
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
@@ -1415,6 +1415,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [198808xc/Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - An official implementation of Pangu-Weather
 - [SealedSaucer/Voicecord](https://github.com/SealedSaucer/Voicecord) - Make Your Discord Account 24/7 On Voice Channels!
+- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [ISS-Mimic/Mimic](https://github.com/ISS-Mimic/Mimic) - We use the actual live data from the International Space Station to control a 3D-printed model that moves the solar arrays and radiators to track the real ISS in real time for STEM outreach purposes! 
 - [sitepoint-editors/ChatBot_Tutorial](https://github.com/sitepoint-editors/ChatBot_Tutorial) - 
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
@@ -1509,6 +1510,7 @@
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [clockworklabs/BitCraftPublic](https://github.com/clockworklabs/BitCraftPublic) - The open source server code for the BitCraft MMORPG
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
@@ -1638,7 +1640,6 @@
 - [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [WeblateOrg/docker-compose](https://github.com/WeblateOrg/docker-compose) - Docker compose for Weblate
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [elementar/docker-s3-volume](https://github.com/elementar/docker-s3-volume) - Docker container with a data volume from s3.
@@ -1702,7 +1703,6 @@
 - [akinloluwami/envii](https://github.com/akinloluwami/envii) - Backup and restore environment variables across machines in seconds
 - [code-with-antonio/polaris](https://github.com/code-with-antonio/polaris) - 
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.

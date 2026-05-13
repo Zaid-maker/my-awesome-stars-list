@@ -553,7 +553,6 @@
 - [herin7/gitforme](https://github.com/herin7/gitforme) - AI-powered GitHub code explorer — understand any repo in minutes, not days.
 - [Jackywine/Bella](https://github.com/Jackywine/Bella) - Bella is best
 - [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js
-- [mazeincoding/YT-shorts-blocker](https://github.com/mazeincoding/YT-shorts-blocker) - A chrome extensions that prevents you from scrolling YouTube shorts.
 - [ybouane/aPulse](https://github.com/ybouane/aPulse) - A One-File Nodejs Server Status Monitoring Tool.
 - [reactjs/translations.react.dev](https://github.com/reactjs/translations.react.dev) - Nexus of resources and tools for translating the React docs.
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
@@ -981,7 +980,7 @@
 - [Zaid-maker/joke-bot](https://github.com/Zaid-maker/joke-bot) - LOL
 - [botblock/BotBlock.org](https://github.com/botblock/BotBlock.org) - BotBlock - The List of Discord Bot Lists and Services
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [discord-akairo/discord-akairo](https://github.com/discord-akairo/discord-akairo) - A bot framework for Discord.js.
 - [cluzier/treehouse-bot](https://github.com/cluzier/treehouse-bot) - Discord.js Moderation Bot
@@ -1062,7 +1061,6 @@
 
 ## MDX 
 
-- [mazeincoding/docs](https://github.com/mazeincoding/docs) - 
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [maplibre/maplibre.github.io](https://github.com/maplibre/maplibre.github.io) - 
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1774,7 +1772,7 @@
 - [mezotv/portfolio](https://github.com/mezotv/portfolio) - My Portfolio
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [bountydotnew/bounty.new](https://github.com/bountydotnew/bounty.new) - human fixes for the ai era
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
@@ -1985,7 +1983,7 @@
 - [pi0/nuxt-tailwindcss4](https://github.com/pi0/nuxt-tailwindcss4) - Experimental integration with Nuxt + Tailwind CSS v4.0
 - [danielroe/roe.dev](https://github.com/danielroe/roe.dev) - This is the code and content for my personal website, built in Nuxt.
 - [Rahuletto/pickr](https://github.com/Rahuletto/pickr) - A color picker, but in real life?
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [museofficial/muse](https://github.com/museofficial/muse) - 🎧 a self-hosted midwestern Discord music bot that doesn't suck
 - [unjs/confbox](https://github.com/unjs/confbox) - Compact YAML, TOML, JSONC and JSON5 and INI parser and serializer

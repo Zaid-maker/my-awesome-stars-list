@@ -1344,7 +1344,7 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [PrefectHQ/compat-tests](https://github.com/PrefectHQ/compat-tests) - Compatibility testing suite between OSS and Cloud
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.
+- [Open-Source-Legal/cite](https://github.com/Open-Source-Legal/cite) - Ground truth layer for humans and AI agents working together. Version control for knowledge.
 - [paveL1boyko/MuskEmpireBot](https://github.com/paveL1boyko/MuskEmpireBot) - XEmpire Bot
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [AnLoMinus/X-AI-Chat](https://github.com/AnLoMinus/X-AI-Chat) - X-AI-Chat

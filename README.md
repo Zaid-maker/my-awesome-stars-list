@@ -202,7 +202,6 @@
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [simon-epfl/notes-ba1-simon](https://github.com/simon-epfl/notes-ba1-simon) - Mes notes de cours @ EPFL (bachelor semestre 1)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [wictornogueira/nfsu2-rpc](https://github.com/wictornogueira/nfsu2-rpc) - A mod that adds Discord Rich Presence integration to Need for Speed: Underground 2
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -1184,6 +1183,7 @@
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS.
 - [EpicGames/Signup](https://github.com/EpicGames/Signup) - Information about signing up for a free Epic Games account, and getting access to UnrealEngine source code.
 - [vn7n24fzkq/github-profile-summary-cards-example](https://github.com/vn7n24fzkq/github-profile-summary-cards-example) - github-profile-summary-cards' template
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [Zaid-maker/books](https://github.com/Zaid-maker/books) - 
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [katoahq/docs](https://github.com/katoahq/docs) - Documentation for Katoa

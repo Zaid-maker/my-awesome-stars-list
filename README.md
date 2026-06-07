@@ -603,7 +603,7 @@
 - [Freddywhest/VertusBot](https://github.com/Freddywhest/VertusBot) - About Made by Alfred Nti. Node.js bot for farming Vertus telegram bot.
 - [Freddywhest/MemeFiBot-New](https://github.com/Freddywhest/MemeFiBot-New) - Made by Alfred Nti. Node.js bot for farming MemeFi telegram bot.
 - [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box) - 
-- [fineanmol/Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️
+- [fineanmol/Hacktoberfest2026](https://github.com/fineanmol/Hacktoberfest2026) - Make your first Pull Request on Hacktoberfest 2026. Don't forget to spread love and if you like give us a ⭐️
 - [adrianhajdin/xora](https://github.com/adrianhajdin/xora) - Learn how to build and deploy a SaaS landing page with modern UI and mobile-first principles while strengthening your React.js and Tailwind CSS skills.
 - [Tazhys/ecomping-nue](https://github.com/Tazhys/ecomping-nue) - A replica of contabo's ecomping-nue/ping api.
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.

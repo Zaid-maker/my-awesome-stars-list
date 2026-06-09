@@ -212,7 +212,7 @@
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
 - [google-deepmind/code_contests](https://github.com/google-deepmind/code_contests) - 
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [CarloWood/linuxviewer](https://github.com/CarloWood/linuxviewer) - A Vulkan Engine for the GNU/Linux operating system.
 - [misyltoad/VPhysics-Jolt](https://github.com/misyltoad/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
 - [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that turns Grand Theft Auto: San Andreas into networked multiplayer.
@@ -299,7 +299,7 @@
 - [Hemsara/welink](https://github.com/Hemsara/welink) - An advanced full-stack bio link app built with flutter, python and javascript
 - [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) - freeCodeCamp's open-source mobile app - Learn to code from your mobile phone
 - [mitchkoko/ModernSmartHomeUI](https://github.com/mitchkoko/ModernSmartHomeUI) - Modern smart home UI built with Flutter
-- [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
+- [flutter-team-archive/pinball](https://github.com/flutter-team-archive/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [AChep/2048](https://github.com/AChep/2048) - 
 - [tiagohm/restler](https://github.com/tiagohm/restler) - Restler is a beautiful and powerful Android app for quickly testing REST API anywhere and anytime.
 
@@ -315,6 +315,7 @@
 - [brody192/Uptime-Kuma-Template](https://github.com/brody192/Uptime-Kuma-Template) - 
 - [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [danielpmc/AIO](https://github.com/danielpmc/AIO) - 
 
 ## EJS 
@@ -458,6 +459,7 @@
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [eps1lon/react-popover-api-demo](https://github.com/eps1lon/react-popover-api-demo) - Created with CodeSandbox
 - [enable3d/enable3d-website](https://github.com/enable3d/enable3d-website) - 🌐 Contains the website and all examples.
+- [1999AZZAR/1999AZZAR](https://github.com/1999AZZAR/1999AZZAR) - This is a repository containing the source code for my personal portfolio website. The website was created using HTML, CSS, and JavaScript, and it showcases my skills and experience as a freelancer.
 - [Myuui/Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts) - Free Minecraft Hosting List aka. FMHL
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
@@ -581,7 +583,7 @@
 - [hotheadhacker/youtube-player](https://github.com/hotheadhacker/youtube-player) - youtube-player
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site) - 
-- [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) standardizes the development of styled React components for web and native.
+- [react/react-strict-dom](https://github.com/react/react-strict-dom) - React Strict DOM (RSD) standardizes the development of styled React components for web and native.
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [eps1lon/types-react-codemod](https://github.com/eps1lon/types-react-codemod) - Collection of transforms for jscodeshift related to `@types/react`
 - [zaidhafeeez/ideal-bassoon](https://github.com/zaidhafeeez/ideal-bassoon) - 
@@ -631,7 +633,6 @@
 - [neondatabase/serverless](https://github.com/neondatabase/serverless) - Connect to Neon PostgreSQL from serverless/worker/edge functions
 - [devmirza-bot/package-manager-benchmark](https://github.com/devmirza-bot/package-manager-benchmark) - 
 - [EddieHubCommunity/RepoRater](https://github.com/EddieHubCommunity/RepoRater) - Rate GitHub Repos for Developer Experience (DX)
-- [1999AZZAR/1999AZZAR](https://github.com/1999AZZAR/1999AZZAR) - This is a repository containing the source code for my personal portfolio website. The website was created using HTML, CSS, and JavaScript, and it showcases my skills and experience as a freelancer.
 - [adrianhajdin/aora](https://github.com/adrianhajdin/aora) - Build your first mobile application
 - [nodejs/node-core-utils](https://github.com/nodejs/node-core-utils) - CLI tools for Node.js Core collaborators
 - [shashkovdanil/clean-publish](https://github.com/shashkovdanil/clean-publish) - Removing configuration files and fields in package.json before publishing to npm
@@ -744,7 +745,7 @@
 - [VulcanWM/login-signup-nextjs](https://github.com/VulcanWM/login-signup-nextjs) - 
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [TheHellTower/Reddit-Meme-Fetcher](https://github.com/TheHellTower/Reddit-Meme-Fetcher) - 
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [andrewstech/is-a-dev-bot-old](https://github.com/andrewstech/is-a-dev-bot-old) - Generate domains via Discord
 - [davidbmaier/discord-recap](https://github.com/davidbmaier/discord-recap) - A tool to explore your Discord data package.
 - [ChristopherBThai/Discord-OwO-Bot](https://github.com/ChristopherBThai/Discord-OwO-Bot) - A Discord bot that will keep track of your OwO
@@ -1437,7 +1438,6 @@
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [kogorman/sdclone](https://github.com/kogorman/sdclone) - Backup/restore tool for entire drives, using partclone for most copies and zstd for compression
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [koyeb/example-flask](https://github.com/koyeb/example-flask) - Example to deploy a Flask application on Koyeb
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Terminal-based toolkit for GitHub data analysis.
@@ -1513,7 +1513,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
-- [kane50613/takumi](https://github.com/kane50613/takumi) - A Rust rendering engine for turning templates into images, with next/og-compatible APIs.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [zillowe/zoi](https://github.com/zillowe/zoi) - Advanced Package Manager & Environment Orchestrator
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
@@ -1756,7 +1756,7 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [athasdev/athas](https://github.com/athasdev/athas) - A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.
-- [sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) - claude code leaderboard
+- [sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) - 🏆 The AI coding usage leaderboard — Claude Code, Codex, Gemini CLI & more. Real costs and tokens from ccusage data. Submit with: npx viberank-cli
 - [adrianhajdin/saas-template](https://github.com/adrianhajdin/saas-template) - SaaS Starter Template built with Next.js, Supabase & Clerk. Includes seamless auth, manage subscriptions and payments out of the box, and scale faster with a clean, reusable codebase — everything you 
 - [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.

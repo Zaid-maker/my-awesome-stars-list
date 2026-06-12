@@ -120,6 +120,7 @@
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 - [ipmitool/ipmitool](https://github.com/ipmitool/ipmitool) - An open-source tool for controlling IPMI-enabled systems
 - [tarantino07/cube.c](https://github.com/tarantino07/cube.c) - https://youtu.be/p09i_hoFdd0
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
 - [cloudflare/cf-pgbouncer](https://github.com/cloudflare/cf-pgbouncer) - lightweight connection pooler for PostgreSQL
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -158,7 +159,6 @@
 - [louislam/rdp-portal](https://github.com/louislam/rdp-portal) - A slightly smarter and simple Remote Desktop manager for Windows.
 - [DigiWorm0/LevelImposter](https://github.com/DigiWorm0/LevelImposter) - Custom Among Us Mapping Studio (BepInEx Mod)
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
 - [SebLague/Chess-Coding-Adventure](https://github.com/SebLague/Chess-Coding-Adventure) - A work-in-progress chess bot written in C#
 - [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
@@ -315,7 +315,7 @@
 - [brody192/Uptime-Kuma-Template](https://github.com/brody192/Uptime-Kuma-Template) - 
 - [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [danielpmc/AIO](https://github.com/danielpmc/AIO) - 
 
 ## EJS 
@@ -1309,7 +1309,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) - An open-source OpusClip alternative
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [Pipelex/cocode](https://github.com/Pipelex/cocode) - Cocode is the friend of your code, it is a powerful command-line tool for analyzing and processing code repositories. It converts repository structures and contents into text formats, extracts code in
@@ -1516,7 +1516,7 @@
 - [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [zillowe/zoi](https://github.com/zillowe/zoi) - Advanced Package Manager & Environment Orchestrator
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -1691,6 +1691,7 @@
 
 ## TypeScript 
 
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - 
 - [remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas) - 
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [ice-blockchain/core-v2](https://github.com/ice-blockchain/core-v2) - 
@@ -2168,7 +2169,7 @@
 - [widgetbot-io/crate](https://github.com/widgetbot-io/crate) - Popup Discord widgets for your website ☄️
 - [AlexanderWyss/discord-bot-node](https://github.com/AlexanderWyss/discord-bot-node) - A Discord music bot fully controllable via a website. Search youtube directly and manage your playlist.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
-- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [ItzDerock/discord-html-transcripts](https://github.com/ItzDerock/discord-html-transcripts) - A node.js library for generating nicely formatted HTML transcripts with discord.js
 - [Zaid-maker/my-blog-nextjs](https://github.com/Zaid-maker/my-blog-nextjs) - 
 - [louislam/demo-kuma](https://github.com/louislam/demo-kuma) - 

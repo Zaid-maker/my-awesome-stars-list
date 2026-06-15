@@ -486,7 +486,7 @@
 - [WebDevSimplified/jquery-clone](https://github.com/WebDevSimplified/jquery-clone) - 
 - [files-community/files-community.github.io](https://github.com/files-community/files-community.github.io) - Website and documentation for Files
 - [DiegoRBaquero/BTorrent](https://github.com/DiegoRBaquero/BTorrent) - :globe_with_meridians: Fully-featured WebTorrent Client
-- [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+- [ItzSudhan/Discord-MusicBot](https://github.com/ItzSudhan/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [samuelscheit/discord-bot-client](https://github.com/samuelscheit/discord-bot-client) - A patched version of discord, with bot login support
 - [Zaid-maker/Calculator](https://github.com/Zaid-maker/Calculator) - this is the calculator based on HTML, CSS and JavaScript
 - [Zaid-maker/pingpongbot.github.io](https://github.com/Zaid-maker/pingpongbot.github.io) - This is the Website for Pingpongbot
@@ -1236,7 +1236,6 @@
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [npm/roadmap](https://github.com/npm/roadmap) - Public roadmap for npm
 - [0zul/LavalinkOnHeroku](https://github.com/0zul/LavalinkOnHeroku) - A test heroku app to deploy your own lavalink server
-- [mouncg/mouncg.github.io](https://github.com/mouncg/mouncg.github.io) - 
 
 ## PHP 
 
@@ -1407,6 +1406,7 @@
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [PaulLockett/LangServe-Railway](https://github.com/PaulLockett/LangServe-Railway) - LangServe Template for Railway one click deployments
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -1944,7 +1944,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [eps1lon/actions-label-merge-conflict](https://github.com/eps1lon/actions-label-merge-conflict) - GitHub action that adds a label once a PR has merge conflicts
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
-- [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A floating rigibody character controller
+- [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A physics-driven controller toolkit for React Three Fiber + Rapier
 - [codefactor-io/vscode-repo-status](https://github.com/codefactor-io/vscode-repo-status) - 
 - [cchalop1/Inizio](https://github.com/cchalop1/Inizio) - Tools to generate devcontainer config.
 - [Zaid-maker/finance](https://github.com/Zaid-maker/finance) - Fiance in nextjs
@@ -2040,7 +2040,6 @@
 - [affan-ch/Linko](https://github.com/affan-ch/Linko) - Linko is an open-source Link Management platform that offers a variety of features, including URL shortener, tracking capabilities, QR code generator, Bio pages and more.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [actions/go-dependency-submission](https://github.com/actions/go-dependency-submission) - Calculates dependencies for a Go build-target and submits the list to the Dependency Submission API
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go

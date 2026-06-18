@@ -1507,6 +1507,7 @@
 
 ## Rust 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source revision control system
 - [malisper/pgrust](https://github.com/malisper/pgrust) - 
 - [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.

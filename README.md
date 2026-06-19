@@ -129,7 +129,6 @@
 - [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
 - [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
 - [cozis/xHTTP](https://github.com/cozis/xHTTP) - A lightweight HTTP server as a library.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [Zaid-maker/first-c-programs](https://github.com/Zaid-maker/first-c-programs) - WOW
@@ -425,6 +424,7 @@
 - [cloudflarearchive/odoh-server-go](https://github.com/cloudflarearchive/odoh-server-go) - Oblivious DoH server in Go
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [5HT2B/heartbeat](https://github.com/5HT2B/heartbeat) - A service to keep a live heartbeat (ping) on multiple devices
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [fuzzydragon/Roblox-Game-Presence-For-Discord](https://github.com/fuzzydragon/Roblox-Game-Presence-For-Discord) - Uses Discord RPC to give you a rich presence on discord for the current ROBLOX game you are playing.
 - [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
@@ -1507,7 +1507,7 @@
 
 ## Rust 
 
-- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source revision control system
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [malisper/pgrust](https://github.com/malisper/pgrust) - 
 - [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -1896,7 +1896,7 @@
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [microsoft/beachball](https://github.com/microsoft/beachball) - The Sunniest Semantic Version Bumper
 - [kdimitrov997/my-jira-clone](https://github.com/kdimitrov997/my-jira-clone) - 
-- [nicitaacom/19_spotify-clone](https://github.com/nicitaacom/19_spotify-clone) - YouTube - code with Antonio - spotify clone
+- [nicitaacom/19_spotify-clone](https://github.com/nicitaacom/19_spotify-clone) - YouTube - code with Antonio - spotify clone (modified)
 - [Zaid-maker/jira-clone](https://github.com/Zaid-maker/jira-clone) - 
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript

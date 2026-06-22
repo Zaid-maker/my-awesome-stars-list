@@ -515,7 +515,6 @@
 - [bear-metal-2046/offseason-robot-2024](https://github.com/bear-metal-2046/offseason-robot-2024) - 
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [1brc/nodejs](https://github.com/1brc/nodejs) - 1️⃣🐝🏎️ The One Billion Row Challenge with Node.js -- A fun exploration of how quickly 1B rows from a text file can be aggregated with different languages.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [wanam/YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
@@ -1420,7 +1419,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [198808xc/Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - An official implementation of Pangu-Weather
 - [SealedSaucer/Voicecord](https://github.com/SealedSaucer/Voicecord) - Make Your Discord Account 24/7 On Voice Channels!
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
+- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
 - [ISS-Mimic/Mimic](https://github.com/ISS-Mimic/Mimic) - We use the actual live data from the International Space Station to control a 3D-printed model that moves the solar arrays and radiators to track the real ISS in real time for STEM outreach purposes! 
 - [sitepoint-editors/ChatBot_Tutorial](https://github.com/sitepoint-editors/ChatBot_Tutorial) - 
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
@@ -1919,6 +1918,7 @@
 - [cloudflare/cloudflare-typescript](https://github.com/cloudflare/cloudflare-typescript) - The official TypeScript library for the Cloudflare API
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [mendsalbert/auditra](https://github.com/mendsalbert/auditra) - 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mendsalbert/identiFi](https://github.com/mendsalbert/identiFi) - 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations

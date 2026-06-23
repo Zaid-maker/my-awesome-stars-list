@@ -515,6 +515,7 @@
 - [bear-metal-2046/offseason-robot-2024](https://github.com/bear-metal-2046/offseason-robot-2024) - 
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [1brc/nodejs](https://github.com/1brc/nodejs) - 1️⃣🐝🏎️ The One Billion Row Challenge with Node.js -- A fun exploration of how quickly 1B rows from a text file can be aggregated with different languages.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [wanam/YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
@@ -1515,7 +1516,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [zillowe/zoi](https://github.com/zillowe/zoi) - Advanced Package Manager & Environment Orchestrator
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
@@ -1644,7 +1645,7 @@
 - [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [WeblateOrg/docker-compose](https://github.com/WeblateOrg/docker-compose) - Docker compose for Weblate
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-- [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
+- [TryGhost/docker-library-ghost](https://github.com/TryGhost/docker-library-ghost) - Docker Official Image packaging for Ghost
 - [heroku/cnb-builder-images](https://github.com/heroku/cnb-builder-images) - Recipes for building Heroku's Cloud Native Buildpacks builder images
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [elementar/docker-s3-volume](https://github.com/elementar/docker-s3-volume) - Docker container with a data volume from s3.
@@ -1918,7 +1919,6 @@
 - [cloudflare/cloudflare-typescript](https://github.com/cloudflare/cloudflare-typescript) - The official TypeScript library for the Cloudflare API
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [mendsalbert/auditra](https://github.com/mendsalbert/auditra) - 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mendsalbert/identiFi](https://github.com/mendsalbert/identiFi) - 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations

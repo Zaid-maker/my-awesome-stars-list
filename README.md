@@ -1497,7 +1497,7 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - See what sticks
 - [dependabot/demo](https://github.com/dependabot/demo) - 🤖 Fork me to try out Dependabot
 - [devhub-forums/archibus](https://github.com/devhub-forums/archibus) - 
 - [devhub-forums/chirpy-client](https://github.com/devhub-forums/chirpy-client) - Plugin that adds additional introductions for staff members to the Dev Hub Chirpy Client.

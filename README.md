@@ -1078,7 +1078,7 @@
 ## Makefile 
 
 - [flow/flow-bin](https://github.com/flow/flow-bin) - Binary wrapper for Flow - A static type checker for JavaScript
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 
 ## Markdown 
 
@@ -1694,6 +1694,7 @@
 
 ## TypeScript 
 
+- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas) - 
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
@@ -2367,6 +2368,7 @@
 
 ## Vue 
 
+- [aaronmahlke/markdown](https://github.com/aaronmahlke/markdown) - 
 - [louislam/its-mytabs](https://github.com/louislam/its-mytabs) - Open source, web based, self hostable guitar/bass tab (tablature) viewer and player, similar to Songsterr.
 - [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.

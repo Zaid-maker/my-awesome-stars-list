@@ -895,7 +895,6 @@
 - [limxuan/music-bot-v13](https://github.com/limxuan/music-bot-v13) - 
 - [KarenOk/whatsapp-web-clone-backend](https://github.com/KarenOk/whatsapp-web-clone-backend) - Backend service that implements WebSocket protocol to communicate with the Whatsapp Web Clone UI (https://github.com/KarenOk/whatsapp-web-clone) I previously built.
 - [KarenOk/whatsapp-web-clone](https://github.com/KarenOk/whatsapp-web-clone) - Clone of Whatsapp Web's current UI.
-- [17teen/Discord-Presser-Server-Nuker](https://github.com/17teen/Discord-Presser-Server-Nuker) - Nuke Discord Bot in Js (Beta has arrived)
 - [UnbelievaBoat/unb-api](https://github.com/UnbelievaBoat/unb-api) - API wrapper for UnbelievaBoat Discord Bot API
 - [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template) - A boilerplate / template for discord.js v14 bots with 100% coverage of Discord API, command handler, error handler based on https://discordjs.guide/
 - [diamonddigitaldev/Discord.js-Akinator](https://github.com/diamonddigitaldev/Discord.js-Akinator) - [DISCONTINUED] Create an Akinator Command for Your Discord Bot within Seconds of Installation.

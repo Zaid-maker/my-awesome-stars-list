@@ -175,6 +175,7 @@
 
 ## C++ 
 
+- [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 - [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) - Fast, Sharp & Reliable Agentic Intelligence
 - [google/googlesql](https://github.com/google/googlesql) - GoogleSQL(formerly ZetaSQL) - Analyzer Framework for SQL
 - [fstandhartinger/Cursor-for-3D](https://github.com/fstandhartinger/Cursor-for-3D) - An AI first 3D app

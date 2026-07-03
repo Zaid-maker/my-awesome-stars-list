@@ -2042,7 +2042,7 @@
 - [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo
 - [Zaid-maker/taskify](https://github.com/Zaid-maker/taskify) - 
 - [affan-ch/Linko](https://github.com/affan-ch/Linko) - Linko is an open-source Link Management platform that offers a variety of features, including URL shortener, tracking capabilities, QR code generator, Bio pages and more.
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [actions/go-dependency-submission](https://github.com/actions/go-dependency-submission) - Calculates dependencies for a Go build-target and submits the list to the Dependency Submission API
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager

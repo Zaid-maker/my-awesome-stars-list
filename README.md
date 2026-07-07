@@ -1434,7 +1434,7 @@
 - [pi-apps/pi-python](https://github.com/pi-apps/pi-python) - Pi Python App2User Payment library
 - [MedAziz11/Uptime-Kuma-Web-API](https://github.com/MedAziz11/Uptime-Kuma-Web-API) - Uptime Kuma REST API
 - [openskynetwork/opensky-api](https://github.com/openskynetwork/opensky-api) - Python and Java bindings for the OpenSky Network REST API
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [Soheab/somerandomapi.py](https://github.com/Soheab/somerandomapi.py) - A maintained Python wrapper for the Somerandomapi API.
 - [vb100/openai-test-api](https://github.com/vb100/openai-test-api) - Test OpenAI API: text completion, code completion with Codex, and image generation with DALLE-E
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -1729,7 +1729,7 @@
 - [x402-foundation/x402](https://github.com/x402-foundation/x402) - A payments protocol for the internet. Built on HTTP.
 - [kevinslin/safe-npm](https://github.com/kevinslin/safe-npm) - Safely install NPM packages
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
-- [manolo-in/better-auth-instagram](https://github.com/manolo-in/better-auth-instagram) - Instagram OAuth Provider for @Better-Auth
+- [rajatsandeepsen/better-auth-instagram](https://github.com/rajatsandeepsen/better-auth-instagram) - Instagram OAuth Provider for @Better-Auth
 - [discord-userdoccers/discord-protos](https://github.com/discord-userdoccers/discord-protos) - Reverse-engineering Discord's user settings (and other!) protobufs
 - [githyperplexed/clock-of-clocks](https://github.com/githyperplexed/clock-of-clocks) - A recreation of u/EntropyReversed's CodePen called "Clock made of clocks"
 - [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS) - 

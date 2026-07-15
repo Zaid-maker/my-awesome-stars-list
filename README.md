@@ -443,6 +443,7 @@
 
 ## HTML 
 
+- [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip) - 
 - [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 - [permissionlesstech/georelays](https://github.com/permissionlesstech/georelays) - a collection of nostr relays and their estimated locations
 - [tc39/proposal-async-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript
@@ -1275,9 +1276,10 @@
 
 ## Python 
 
+- [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown
 - [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) - 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Free CorridorKey GUI. Turn Corridor Digital's AI keyer into a full desktop app: real-time viewer, job queue, EXR/ProRes/PNG-alpha export. Windows, macOS, Linux. Built by EZSCAPE.
 - [deepakguptabca/InstantPhotos](https://github.com/deepakguptabca/InstantPhotos) - Get Ready Passport size photo in seconds
 - [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto
@@ -1770,7 +1772,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ The fastest HTML to markdown convertor on GitHub. Optimized for LLMs and supports streaming.
 - [Anshkaran7/git-aura](https://github.com/Anshkaran7/git-aura) - A modern web app to visualize and share GitHub user profiles and contribution activity. Enter any GitHub username to view a beautiful, themeable profile card with contribution heatmap, follower stats,
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 - [ahmetskilinc/www](https://github.com/ahmetskilinc/www) - um its my portfolio?

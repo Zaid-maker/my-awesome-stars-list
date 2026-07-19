@@ -697,7 +697,7 @@
 - [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels.
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 - [npm/statusboard](https://github.com/npm/statusboard) - Public monitor/status/health board for @npm/cli-team's maintained projects
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [DevMirza-Blog/uptime](https://github.com/DevMirza-Blog/uptime) - Fork of devmirza official repo
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [aprilaili/aprilaili](https://github.com/aprilaili/aprilaili) - 
@@ -1277,6 +1277,7 @@
 
 ## Python 
 
+- [NyarchLinux/AgeVerification](https://github.com/NyarchLinux/AgeVerification) - Privacy-friendly age verification implementation for Nyarch Linux
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown
 - [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) - 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you

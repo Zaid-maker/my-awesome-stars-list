@@ -1306,7 +1306,7 @@
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [twiggy-tools/Twiggy](https://github.com/twiggy-tools/Twiggy) - Real-time directory structure for Cursor AI. Your AI always knows your codebase's structure 🌿
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - A simple yet powerful agent framework that delivers with open-source models
@@ -1745,7 +1745,7 @@
 - [github/ai-moderator](https://github.com/github/ai-moderator) - An AI-powered GitHub Action that detects and tags spam in your repository
 - [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, Hyperdrive, KV, R2, and geolocation services. CLI for project generation, automated resource provisioning on Cloudflare, and database migr
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 - [adrianhajdin/signalist_stock-tracker-app](https://github.com/adrianhajdin/signalist_stock-tracker-app) - Stock Market app built with Next.js, Shadcn, Better Auth, and Inngest. Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.
 - [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of personal access tokens (PAT) and credential management, use temporary GitHub Application access tokens instead!

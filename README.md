@@ -444,6 +444,7 @@
 ## HTML 
 
 - [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip) - 
+- [deepakguptabca/InstantPhotos](https://github.com/deepakguptabca/InstantPhotos) - Get Ready Passport size photo in seconds
 - [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 - [permissionlesstech/georelays](https://github.com/permissionlesstech/georelays) - a collection of nostr relays and their estimated locations
 - [tc39/proposal-async-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript
@@ -1280,7 +1281,6 @@
 - [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) - 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Free CorridorKey GUI. Turn Corridor Digital's AI keyer into a full desktop app: real-time viewer, job queue, EXR/ProRes/PNG-alpha export. Windows, macOS, Linux. Built by EZSCAPE.
-- [deepakguptabca/InstantPhotos](https://github.com/deepakguptabca/InstantPhotos) - Get Ready Passport size photo in seconds
 - [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [nokodo-labs/os1](https://github.com/nokodo-labs/os1) - the next-gen open source AI platform
@@ -1781,7 +1781,6 @@
 - [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai) - 
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [databuddy-analytics/better-analytics](https://github.com/databuddy-analytics/better-analytics) - Track logs, errors, and 404 pages in minutes, not hours. AI-Native design, an agent with full context on your errors to help you debug and solve them, all made within 3 days for CustomHack hackathon
-- [batuhan/dotfiles](https://github.com/batuhan/dotfiles) - my configuration files
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.

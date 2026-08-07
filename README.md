@@ -1298,7 +1298,7 @@
 - [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
 - [MineDojo/NitroGen](https://github.com/MineDojo/NitroGen) - A Foundation Model for Generalist Gaming Agents
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
-- [aiming-lab/Agent0](https://github.com/aiming-lab/Agent0) - [COLM'26 & ICML'26] Agent0 Series: Self-Evolving Agents from Zero Data
+- [aiming-lab/Agent0](https://github.com/aiming-lab/Agent0) - [ICML'26 & COLM'26] Agent0 Series: Self-Evolving Agents from Zero Data
 - [microsoft/fara](https://github.com/microsoft/fara) - Fara1.5 – A family of frontier computer use agent models
 - [severity1/claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver) - Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.
 - [gensyn-ai/codeassist](https://github.com/gensyn-ai/codeassist) - A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
@@ -1767,7 +1767,7 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [ishaan1013/shadow](https://github.com/ishaan1013/shadow) - Background coding agent and real-time web interface
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up ｜Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [RevoTale/next-scroll-restorer](https://github.com/RevoTale/next-scroll-restorer) - Scroll restoration for NextJs apps built with `app` directory. Fixed bugs that NextJs team do not fix.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React

@@ -1851,7 +1851,7 @@
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
 - [microsoft/copilot-metrics-dashboard](https://github.com/microsoft/copilot-metrics-dashboard) - The GitHub Copilot Metrics Dashboard is a solution accelerator designed to visualize metrics from GitHub Copilot using the GitHub Copilot Metrics API and GitHub Copilot User Management API.
 - [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube) - 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [caching-tools/next-shared-cache](https://github.com/caching-tools/next-shared-cache) - Next.js self-hosting simplified
 - [svobik7/next-roots](https://github.com/svobik7/next-roots) - Next.js utility to generate i18n routes in the new APP directory.

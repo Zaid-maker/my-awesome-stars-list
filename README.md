@@ -1171,7 +1171,6 @@
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [nodejs/jenkins-alerts](https://github.com/nodejs/jenkins-alerts) - Node.js Jenkins alerts for CI Testing environment
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
-- [DanBot-Hosting/Pterodactyl-Eggs](https://github.com/DanBot-Hosting/Pterodactyl-Eggs) - Repository of all the Pterodactyl eggs and docker images we (DanBot Hosting) have created for use.
 - [widgetbot-io/locales](https://github.com/widgetbot-io/locales) - 
 - [nodejs/web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
@@ -1424,7 +1423,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [198808xc/Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - An official implementation of Pangu-Weather
 - [SealedSaucer/Voicecord](https://github.com/SealedSaucer/Voicecord) - Make Your Discord Account 24/7 On Voice Channels!
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
+- [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [ISS-Mimic/Mimic](https://github.com/ISS-Mimic/Mimic) - We use the actual live data from the International Space Station to control a 3D-printed model that moves the solar arrays and radiators to track the real ISS in real time for STEM outreach purposes! 
 - [sitepoint-editors/ChatBot_Tutorial](https://github.com/sitepoint-editors/ChatBot_Tutorial) - 
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
@@ -1642,6 +1641,7 @@
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [nodejs/snap](https://github.com/nodejs/snap) - Node.js snap source and updater
+- [DanBot-Hosting/Pterodactyl-Eggs](https://github.com/DanBot-Hosting/Pterodactyl-Eggs) - Repository of all the Pterodactyl eggs and docker images we (DanBot Hosting) have created for use.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [jmfayard/timetraveler](https://github.com/jmfayard/timetraveler) - Create fake commits for every day last year
 - [nodejs/node-v8](https://github.com/nodejs/node-v8) - Experimental Node.js mirror on V8 lkgr :sparkles::turtle::rocket::sparkles:

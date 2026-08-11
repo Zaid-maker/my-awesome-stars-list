@@ -293,6 +293,7 @@
 
 ## Dart 
 
+- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [GLEECBTC/gleec-wallet](https://github.com/GLEECBTC/gleec-wallet) - Gleec Wallet
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [ice-blockchain/ion-framework](https://github.com/ice-blockchain/ion-framework) - The ION Framework, built using Flutter, which allows anyone to create and deploy cross-platform DApps easily.
@@ -347,6 +348,7 @@
 ## Go 
 
 - [AnandChowdhary/gitclaw](https://github.com/AnandChowdhary/gitclaw) - Like OpenClaw, but running entirely on GitHub Actions & Issues
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [picosh/pgit](https://github.com/picosh/pgit) - static site generator for git repos
 - [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) - Send and receive SMS messages using your Android phone programmatically via a simple HTTP API
@@ -514,7 +516,6 @@
 
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [bear-metal-2046/offseason-robot-2024](https://github.com/bear-metal-2046/offseason-robot-2024) - 
-- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [1brc/nodejs](https://github.com/1brc/nodejs) - 1️⃣🐝🏎️ The One Billion Row Challenge with Node.js -- A fun exploration of how quickly 1B rows from a text file can be aggregated with different languages.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
@@ -535,7 +536,6 @@
 
 - [oven-sh/WebKit](https://github.com/oven-sh/WebKit) - WebKit with patches
 - [Acadify-PK/Acadify](https://github.com/Acadify-PK/Acadify) - Creating a LMS to get a better grip on MERN stack
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [Sudo-Ali-Dev/Rankistan](https://github.com/Sudo-Ali-Dev/Rankistan) - The definitive index of Pakistani open source developers. Auto-updated daily via GitHub Actions.
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [Zaid-maker/PopIndex](https://github.com/Zaid-maker/PopIndex) - 
@@ -1758,7 +1758,7 @@
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [jsmastery-pro/e-commerce](https://github.com/jsmastery-pro/e-commerce) - Nike-style eCommerce built with Devin AI, Next.js, TS, Tailwind, and Better Auth. Features product pages, cart, and checkout integrated with Stripe payments and a Neon PostgreSQL/Drizzle backend.Nike 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [growchief/growchief](https://github.com/growchief/growchief) - The Ultimate all-in social media automation (outreach) tool 🤖
 - [NiladriHazra/Open-Fiesta](https://github.com/NiladriHazra/Open-Fiesta) - An open-source version to use all the Models for free
 - [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature) - ⌨️ keyboard-based digital signatures

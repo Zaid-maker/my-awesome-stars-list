@@ -1079,7 +1079,7 @@
 ## Makefile 
 
 - [flow/flow-bin](https://github.com/flow/flow-bin) - Binary wrapper for Flow - A static type checker for JavaScript
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 
 ## Markdown 
 
@@ -1699,6 +1699,7 @@
 
 ## TypeScript 
 
+- [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 - [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils) - 
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.

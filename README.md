@@ -309,7 +309,7 @@
 ## Dockerfile 
 
 - [louislam/simple-docker-github-actions-runner](https://github.com/louislam/simple-docker-github-actions-runner) - 
-- [BlueprintFramework/docker](https://github.com/BlueprintFramework/docker) - Blueprint's extension ecosystem you know and love, in Docker. Install, manage and develop Pterodactyl modifications like never before.
+- [BlueprintFramework/framework-docker](https://github.com/BlueprintFramework/framework-docker) - Blueprint's extension ecosystem you know and love, in Docker. Install, manage and develop Pterodactyl modifications like never before.
 - [nhaef/devcontainer-bun](https://github.com/nhaef/devcontainer-bun) - The Bun Dev Container provides a pre-configured development environment through Visual Studio Code's Dev Containers, simplifying JavaScript and TypeScript project development with Bun. 🚀
 - [linuxserver/docker-syncthing](https://github.com/linuxserver/docker-syncthing) - 
 - [renovatebot/docker-renovate](https://github.com/renovatebot/docker-renovate) - Renovate docker slim image
@@ -1699,6 +1699,8 @@
 
 ## TypeScript 
 
+- [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Local Windows coding and computer-use bridge for ChatGPT over MCP, limited to folders and capabilities you approve.
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) - VS Code in the terminal
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent

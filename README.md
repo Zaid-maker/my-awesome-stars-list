@@ -172,6 +172,7 @@
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
+- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [PolyMarsDev/Minecraft-Skin-Grabber](https://github.com/PolyMarsDev/Minecraft-Skin-Grabber) - Minecraft skin-grabbing tool made with Unity and minotar.net
 
 ## C++ 
@@ -241,7 +242,6 @@
 - [xyz-1/SDK-Generator](https://github.com/xyz-1/SDK-Generator) - 
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
-- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
 ## CMake 
 
@@ -1149,6 +1149,7 @@
 - [HorizonEmuTeam/Horizon-Emu](https://github.com/HorizonEmuTeam/Horizon-Emu) - 
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [TinyTalkHQ/.github](https://github.com/TinyTalkHQ/.github) - 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [Mashhood-Rehman/Mashhood-Rehman](https://github.com/Mashhood-Rehman/Mashhood-Rehman) - 
 - [uptime-lab/compute-blade](https://github.com/uptime-lab/compute-blade) - Feature rich enterprise-level carrier board for the Raspberry Pi Compute Module 4. From Homelabs to advanced AI clusters at scale.
 - [mezotv/discord-badges](https://github.com/mezotv/discord-badges) - A collection of all the Discord badges and how to get your hands on them! Including the new discord guild clans and the new Discord Nitro Badge..
@@ -1762,6 +1763,7 @@
 - [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 - [adrianhajdin/signalist_stock-tracker-app](https://github.com/adrianhajdin/signalist_stock-tracker-app) - Stock Market app built with Next.js, Shadcn, Better Auth, and Inngest. Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.
 - [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of personal access tokens (PAT) and credential management, use temporary GitHub Application access tokens instead!
+- [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [jsmastery-pro/e-commerce](https://github.com/jsmastery-pro/e-commerce) - Nike-style eCommerce built with Devin AI, Next.js, TS, Tailwind, and Better Auth. Features product pages, cart, and checkout integrated with Stripe payments and a Neon PostgreSQL/Drizzle backend.Nike 
@@ -1805,7 +1807,7 @@
 - [bountydotnew/bounty.new](https://github.com/bountydotnew/bounty.new) - human fixes for the ai era
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
-- [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
+- [punkpeye/mcp-remote](https://github.com/punkpeye/mcp-remote) - Connect an MCP Client that only supports local (stdio) servers to a Remote MCP Server.
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot) - Turn private Telegram groups into real-time support ticket hubs — powered by Unthread.io. 🎫🤖
 - [OscarMayReal/AIChat](https://github.com/OscarMayReal/AIChat) - 
@@ -1904,7 +1906,6 @@
 - [Zaid-maker/storeit](https://github.com/Zaid-maker/storeit) - 
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.
 - [CordXApp/lintydeps](https://github.com/CordXApp/lintydeps) - LintyDeps is a tool designed to find and report missing or unused dependencies and dev dependencies in your project.
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [yc-oss/api](https://github.com/yc-oss/api) - 📎 Public API for companies funded by Y Combinator
@@ -2383,7 +2384,6 @@
 ## Vue 
 
 - [aaronmahlke/markdown](https://github.com/aaronmahlke/markdown) - 
-- [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Zaid-maker/test-nuxt-hub](https://github.com/Zaid-maker/test-nuxt-hub) - 
 - [CVEProject/cve-website](https://github.com/CVEProject/cve-website) - The CVE.ORG website

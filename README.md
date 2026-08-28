@@ -410,7 +410,7 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
 - [conaticus/go-cdn](https://github.com/conaticus/go-cdn) - Basic CDN API (first go project)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [prometheus-community/pro-bing](https://github.com/prometheus-community/pro-bing) - A library for creating continuous probers
 - [pavanbelagatti/Golang-CICD-Tutorial](https://github.com/pavanbelagatti/Golang-CICD-Tutorial) - Golang CICD Tutorial!
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -1149,7 +1149,6 @@
 - [HorizonEmuTeam/Horizon-Emu](https://github.com/HorizonEmuTeam/Horizon-Emu) - 
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [TinyTalkHQ/.github](https://github.com/TinyTalkHQ/.github) - 
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [Mashhood-Rehman/Mashhood-Rehman](https://github.com/Mashhood-Rehman/Mashhood-Rehman) - 
 - [uptime-lab/compute-blade](https://github.com/uptime-lab/compute-blade) - Feature rich enterprise-level carrier board for the Raspberry Pi Compute Module 4. From Homelabs to advanced AI clusters at scale.
 - [mezotv/discord-badges](https://github.com/mezotv/discord-badges) - A collection of all the Discord badges and how to get your hands on them! Including the new discord guild clans and the new Discord Nitro Badge..
@@ -1906,6 +1905,7 @@
 - [Zaid-maker/storeit](https://github.com/Zaid-maker/storeit) - 
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.
 - [CordXApp/lintydeps](https://github.com/CordXApp/lintydeps) - LintyDeps is a tool designed to find and report missing or unused dependencies and dev dependencies in your project.
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [yc-oss/api](https://github.com/yc-oss/api) - 📎 Public API for companies funded by Y Combinator

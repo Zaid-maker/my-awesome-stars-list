@@ -463,7 +463,7 @@
 - [AnandChowdhary/one-grid](https://github.com/AnandChowdhary/one-grid) - One Grid is the simplest grid system in 1 KB
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [eps1lon/react-popover-api-demo](https://github.com/eps1lon/react-popover-api-demo) - Created with CodeSandbox
-- [enable3d/enable3d-website](https://github.com/enable3d/enable3d-website) - 🌐 Contains the website and all examples.
+- [enable3d/enable3d.github.io](https://github.com/enable3d/enable3d.github.io) - 🌐 Contains the website and all examples.
 - [1999AZZAR/1999AZZAR](https://github.com/1999AZZAR/1999AZZAR) - This is a repository containing the source code for my personal portfolio website. The website was created using HTML, CSS, and JavaScript, and it showcases my skills and experience as a freelancer.
 - [Myuui/Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts) - Free Minecraft Hosting List aka. FMHL
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -1762,7 +1762,6 @@
 - [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 - [adrianhajdin/signalist_stock-tracker-app](https://github.com/adrianhajdin/signalist_stock-tracker-app) - Stock Market app built with Next.js, Shadcn, Better Auth, and Inngest. Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.
 - [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of personal access tokens (PAT) and credential management, use temporary GitHub Application access tokens instead!
-- [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [jsmastery-pro/e-commerce](https://github.com/jsmastery-pro/e-commerce) - Nike-style eCommerce built with Devin AI, Next.js, TS, Tailwind, and Better Auth. Features product pages, cart, and checkout integrated with Stripe payments and a Neon PostgreSQL/Drizzle backend.Nike 
@@ -2384,6 +2383,7 @@
 ## Vue 
 
 - [aaronmahlke/markdown](https://github.com/aaronmahlke/markdown) - 
+- [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Zaid-maker/test-nuxt-hub](https://github.com/Zaid-maker/test-nuxt-hub) - 
 - [CVEProject/cve-website](https://github.com/CVEProject/cve-website) - The CVE.ORG website

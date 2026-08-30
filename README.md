@@ -28,6 +28,7 @@
 - [HTML](#html)
 - [Hack](#hack)
 - [Haskell](#haskell)
+- [Inno Setup](#inno-setup)
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -410,7 +411,6 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
 - [conaticus/go-cdn](https://github.com/conaticus/go-cdn) - Basic CDN API (first go project)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [prometheus-community/pro-bing](https://github.com/prometheus-community/pro-bing) - A library for creating continuous probers
 - [pavanbelagatti/Golang-CICD-Tutorial](https://github.com/pavanbelagatti/Golang-CICD-Tutorial) - Golang CICD Tutorial!
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -506,6 +506,10 @@
 
 - [nasa/ogma](https://github.com/nasa/ogma) - Generator of runtime monitors for flight and robotics applications.
 - [jonascarpay/calligraphy](https://github.com/jonascarpay/calligraphy) - haskell source code visualizer
+
+## Inno Setup 
+
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
 ## JSON 
 

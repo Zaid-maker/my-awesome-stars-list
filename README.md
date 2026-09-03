@@ -1158,7 +1158,6 @@
 - [mezotv/discord-badges](https://github.com/mezotv/discord-badges) - A collection of all the Discord badges and how to get your hands on them! Including the new discord guild clans and the new Discord Nitro Badge..
 - [AnLoMinus/X-Portal](https://github.com/AnLoMinus/X-Portal) - X-Portal
 - [reactwg/react-compiler](https://github.com/reactwg/react-compiler) - Working group for using React Compiler in production
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application toolkit in Python: generate a resume and cover letter tailored to each job posting, and drive a stealth browser from any AI client over MCP.
 - [jdrouet/action-git-metrics](https://github.com/jdrouet/action-git-metrics) - Github action for git-metrics
 - [Visnalize/win7-simu](https://github.com/Visnalize/win7-simu) - 📝 Win7 Simu repo for issue reports and tracking
 - [adrianogil/awesome-termux](https://github.com/adrianogil/awesome-termux) - A list of awesome things related to Termux
@@ -1371,6 +1370,7 @@
 - [YarmolenkoD/boinkers](https://github.com/YarmolenkoD/boinkers) - [NO SUPPROTED] Boinkers is a Telegram automation tool designed to help you manage and interact with boinker_bot. This bot can create sessions, gather statistics, and automate tasks for your accounts.
 - [YarmolenkoD/moonbix](https://github.com/YarmolenkoD/moonbix) - [NO SUPPORTED FOR NOW] Python bot for telegram moonbix bot. (Auto refs, auto games, auto tasks, multithreading, proxy, pyrogram sessions)
 - [aDarkDev/NotPixel](https://github.com/aDarkDev/NotPixel) - NotPixel automatic claim and paint bot، easy to use without extras.
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.
 - [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
@@ -1701,6 +1701,7 @@
 
 ## TypeScript 
 
+- [horsemeninteractive-dev/terminus](https://github.com/horsemeninteractive-dev/terminus) - A web app based clone of the game Infection Free Zone
 - [shadcn-ui/cn](https://github.com/shadcn-ui/cn) - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
 - [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 

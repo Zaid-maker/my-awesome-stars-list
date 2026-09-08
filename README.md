@@ -1704,6 +1704,8 @@
 
 ## TypeScript 
 
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
+- [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli) - Lighweight CLI to interact with MCP servers
 - [horsemeninteractive-dev/terminus](https://github.com/horsemeninteractive-dev/terminus) - A web app based clone of the game Infection Free Zone
 - [shadcn-ui/cn](https://github.com/shadcn-ui/cn) - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
 - [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
@@ -1739,7 +1741,7 @@
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
 - [xt42io/gh-chat](https://github.com/xt42io/gh-chat) - 
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [vercel-labs/ralph-loop-agent](https://github.com/vercel-labs/ralph-loop-agent) - Continuous Autonomy for the AI SDK
 - [rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare) - local cloudflare
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
@@ -1769,7 +1771,6 @@
 - [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 - [adrianhajdin/signalist_stock-tracker-app](https://github.com/adrianhajdin/signalist_stock-tracker-app) - Stock Market app built with Next.js, Shadcn, Better Auth, and Inngest. Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.
 - [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of personal access tokens (PAT) and credential management, use temporary GitHub Application access tokens instead!
-- [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [jsmastery-pro/e-commerce](https://github.com/jsmastery-pro/e-commerce) - Nike-style eCommerce built with Devin AI, Next.js, TS, Tailwind, and Better Auth. Features product pages, cart, and checkout integrated with Stripe payments and a Neon PostgreSQL/Drizzle backend.Nike 
@@ -1813,7 +1814,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
 - [punkpeye/mcp-remote](https://github.com/punkpeye/mcp-remote) - Connect an MCP Client that only supports local (stdio) servers to a Remote MCP Server.
-- [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+- [newsnext/newsnow](https://github.com/newsnext/newsnow) - Elegant reading of real-time and hottest news
 - [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot) - Turn private Telegram groups into real-time support ticket hubs — powered by Unthread.io. 🎫🤖
 - [OscarMayReal/AIChat](https://github.com/OscarMayReal/AIChat) - 
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -2391,6 +2392,7 @@
 ## Vue 
 
 - [aaronmahlke/markdown](https://github.com/aaronmahlke/markdown) - 
+- [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Zaid-maker/test-nuxt-hub](https://github.com/Zaid-maker/test-nuxt-hub) - 
 - [CVEProject/cve-website](https://github.com/CVEProject/cve-website) - The CVE.ORG website

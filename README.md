@@ -115,7 +115,6 @@
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [torvalds/uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 - [EpicGames/ThirdParty](https://github.com/EpicGames/ThirdParty) - Modifications to third party software used by UE4
-- [nlgxzef/NFSU2Unlimiter](https://github.com/nlgxzef/NFSU2Unlimiter) - Need for Speed Underground 2 Unlimiter
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
@@ -209,6 +208,7 @@
 - [simon-epfl/notes-ba1-simon](https://github.com/simon-epfl/notes-ba1-simon) - Mes notes de cours @ EPFL (bachelor semestre 1)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [wictornogueira/nfsu2-rpc](https://github.com/wictornogueira/nfsu2-rpc) - A mod that adds Discord Rich Presence integration to Need for Speed: Underground 2
+- [nlgxzef/NFSU2Unlimiter](https://github.com/nlgxzef/NFSU2Unlimiter) - Need for Speed Underground 2 Unlimiter
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [Endermanch/XPKeygen](https://github.com/Endermanch/XPKeygen) - Windows XP Keygen
@@ -1842,7 +1842,7 @@
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [mhart/fetch-to-node](https://github.com/mhart/fetch-to-node) - Node.js-compatible request and response objects for WinterTC (fetch-like) runtimes
 - [stegano/next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) - HTTP Proxy middleware available in API Middleware provided by Next.js.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration
 - [render-examples/bun-docker](https://github.com/render-examples/bun-docker) - Deploy a Bun HTTP server on Render
 - [anthonyshew/dotenv-run](https://github.com/anthonyshew/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular. ESM and Monorepos.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.

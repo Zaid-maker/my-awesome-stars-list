@@ -138,6 +138,7 @@
 
 ## C# # 
 
+- [hostdit/minecraft-server-in-valheim](https://github.com/hostdit/minecraft-server-in-valheim) - 
 - [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [glad-tidings/TimeFarmBot](https://github.com/glad-tidings/TimeFarmBot) - TimeFarmBot an automated farming tool
@@ -1517,6 +1518,7 @@
 
 ## Rust 
 
+- [ghuntley/underclass](https://github.com/ghuntley/underclass) - underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earli
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system

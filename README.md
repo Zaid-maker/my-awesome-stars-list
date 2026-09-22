@@ -523,7 +523,6 @@
 
 ## Java 
 
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [bear-metal-2046/offseason-robot-2024](https://github.com/bear-metal-2046/offseason-robot-2024) - 
 - [1brc/nodejs](https://github.com/1brc/nodejs) - 1️⃣🐝🏎️ The One Billion Row Challenge with Node.js -- A fun exploration of how quickly 1B rows from a text file can be aggregated with different languages.
 - [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
@@ -542,6 +541,7 @@
 
 ## JavaScript 
 
+- [callebtc/twitter-x-delete-suite](https://github.com/callebtc/twitter-x-delete-suite) - delete your posts on twitter
 - [oven-sh/WebKit](https://github.com/oven-sh/WebKit) - WebKit with patches
 - [Acadify-PK/Acadify](https://github.com/Acadify-PK/Acadify) - Creating a LMS to get a better grip on MERN stack
 - [Sudo-Ali-Dev/Rankistan](https://github.com/Sudo-Ali-Dev/Rankistan) - The definitive index of Pakistani open source developers. Auto-updated daily via GitHub Actions.
@@ -559,7 +559,7 @@
 - [tayyabadev/PassportScannerDesign](https://github.com/tayyabadev/PassportScannerDesign) - 
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [AbhiVarde/Idea-tracker](https://github.com/AbhiVarde/Idea-tracker) - Professional idea management for developers.
 - [sindresorhus/multicast-stream](https://github.com/sindresorhus/multicast-stream) - Create a multicast stream that lets multiple consumers independently read the same data
 - [reactjs/react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
@@ -602,7 +602,6 @@
 - [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action) - 
 - [petercunha/tts](https://github.com/petercunha/tts) - :pencil: :sound: A simple text-to-speech tool. Converts your text to speech with any Amazon Polly voices. Built with Node.js.
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [Freddywhest/PawsBot](https://github.com/Freddywhest/PawsBot) - Made by Alfred Nti. Node.js bot for farming Paws telegram bot.
 - [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
@@ -1371,7 +1370,7 @@
 - [YarmolenkoD/boinkers](https://github.com/YarmolenkoD/boinkers) - [NO SUPPROTED] Boinkers is a Telegram automation tool designed to help you manage and interact with boinker_bot. This bot can create sessions, gather statistics, and automate tasks for your accounts.
 - [YarmolenkoD/moonbix](https://github.com/YarmolenkoD/moonbix) - [NO SUPPORTED FOR NOW] Python bot for telegram moonbix bot. (Auto refs, auto games, auto tasks, multithreading, proxy, pyrogram sessions)
 - [aDarkDev/NotPixel](https://github.com/aDarkDev/NotPixel) - NotPixel automatic claim and paint bot، easy to use without extras.
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.
 - [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
@@ -1685,6 +1684,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [face-hh/lyntr](https://github.com/face-hh/lyntr) - Micro-blogging social media - with an IQ test. https://lyntr.com
 - [face-hh/lawmaxxing](https://github.com/face-hh/lawmaxxing) - A maps website, that reports you to the police if detected speeding. (self-hosted, calls a number of your choice, a meme)
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [akzhy/social-media-link-preview](https://github.com/akzhy/social-media-link-preview) - A chrome extension that shows the sample preview of a webpage link on social media
 - [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime
@@ -1735,6 +1735,7 @@
 - [xt42io/envii](https://github.com/xt42io/envii) - Backup and restore environment variables across machines in seconds
 - [code-with-antonio/polaris](https://github.com/code-with-antonio/polaris) - 
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.

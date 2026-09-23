@@ -525,6 +525,7 @@
 
 - [bear-metal-2046/offseason-robot-2024](https://github.com/bear-metal-2046/offseason-robot-2024) - 
 - [1brc/nodejs](https://github.com/1brc/nodejs) - 1️⃣🐝🏎️ The One Billion Row Challenge with Node.js -- A fun exploration of how quickly 1B rows from a text file can be aggregated with different languages.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [wanam/YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
@@ -1291,8 +1292,9 @@
 - [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [nokodo-labs/os1](https://github.com/nokodo-labs/os1) - the next-gen open source AI platform
+- [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org) - Source of open-vsx.org
 - [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
-- [NadirRouter/NadirClaw](https://github.com/NadirRouter/NadirClaw) - Open-source LLM router & AI cost optimizer. Routes simple prompts to cheap/local models, complex ones to premium — automatically. Drop-in OpenAI-compatible proxy for Claude Code, Codex, Cursor, OpenCl
+- [NadirRouter/NadirClaw](https://github.com/NadirRouter/NadirClaw) - Source-available LLM router and AI cost optimizer. Routes simple prompts to cheap or local models and complex ones to premium models, automatically. Drop-in OpenAI-compatible proxy for Claude Code, Co
 - [gaitco/quran-database](https://github.com/gaitco/quran-database) - A complete, structured Quran database — verses, translations and metadata, free for any project.
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [spullara/models](https://github.com/spullara/models) - 
@@ -1370,7 +1372,7 @@
 - [YarmolenkoD/boinkers](https://github.com/YarmolenkoD/boinkers) - [NO SUPPROTED] Boinkers is a Telegram automation tool designed to help you manage and interact with boinker_bot. This bot can create sessions, gather statistics, and automate tasks for your accounts.
 - [YarmolenkoD/moonbix](https://github.com/YarmolenkoD/moonbix) - [NO SUPPORTED FOR NOW] Python bot for telegram moonbix bot. (Auto refs, auto games, auto tasks, multithreading, proxy, pyrogram sessions)
 - [aDarkDev/NotPixel](https://github.com/aDarkDev/NotPixel) - NotPixel automatic claim and paint bot، easy to use without extras.
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - An AI agent that drives a real anti-detect browser: say what you want in plain English and it navigates, clicks, types and extracts. MCP server for coding agents, or a standalone web UI. Undetected st
 - [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
@@ -1725,7 +1727,6 @@
 - [ice-blockchain/core-v2](https://github.com/ice-blockchain/core-v2) - 
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
-- [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org) - Source of open-vsx.org
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [ahmadawais/ramadan-cli](https://github.com/ahmadawais/ramadan-cli) - CLI to check Sehar and Iftar times in Ramadan anywhere in the world.
 - [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
@@ -1950,7 +1951,6 @@
 - [cloudflare/cloudflare-typescript](https://github.com/cloudflare/cloudflare-typescript) - The official TypeScript library for the Cloudflare API
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [mendsalbert/auditra](https://github.com/mendsalbert/auditra) - 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mendsalbert/identiFi](https://github.com/mendsalbert/identiFi) - 
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.

@@ -139,7 +139,7 @@
 ## C# # 
 
 - [hostdit/minecraft-server-in-valheim](https://github.com/hostdit/minecraft-server-in-valheim) - 
-- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Flyoobe is the Control Panel for setting up Windows
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [glad-tidings/TimeFarmBot](https://github.com/glad-tidings/TimeFarmBot) - TimeFarmBot an automated farming tool
 - [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6) - A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia

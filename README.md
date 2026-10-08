@@ -80,6 +80,7 @@
 ## Astro 
 
 - [dominnya/profile-card](https://github.com/dominnya/profile-card) - 🚀 Discord profile card built with Astro & Sass.
+- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 
 ## Batchfile 
 
@@ -1243,7 +1244,6 @@
 - [AbdullahGhanem/quran-lumen-api](https://github.com/AbdullahGhanem/quran-lumen-api) - quran lumen api with quran database
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [server-status-project/server-status](https://github.com/server-status-project/server-status) - Simple, modern looking server status page with administration and some nice features, that can run even on shared webhosting
 - [erikaheidi/autodocs](https://github.com/erikaheidi/autodocs) - Automated Documentation
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
@@ -1950,6 +1950,7 @@
 - [mendsalbert/auditra](https://github.com/mendsalbert/auditra) - 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mendsalbert/identiFi](https://github.com/mendsalbert/identiFi) - 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.
 - [Zaid-maker/evently](https://github.com/Zaid-maker/evently) - Event organization web app like Eventbrite or Meetup
@@ -2319,7 +2320,6 @@
 - [MenuDocs/erela.js](https://github.com/MenuDocs/erela.js) - An easy-to-use Lavalink client for NodeJS.
 - [lavacord/Lavacord](https://github.com/lavacord/Lavacord) - Lightweight Lavalink client for Node.js with TypeScript, ESM/CommonJS support and multiple Discord library compatibility
 - [nitzanhen/agrippa](https://github.com/nitzanhen/agrippa) - The CLI for frontend component generation
-- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.

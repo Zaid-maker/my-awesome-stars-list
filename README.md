@@ -486,6 +486,7 @@
 - [Zaid-maker/todo-app-in-svelte](https://github.com/Zaid-maker/todo-app-in-svelte) - 
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [fireship-io/threejs-scroll-animation-demo](https://github.com/fireship-io/threejs-scroll-animation-demo) - 3D Scrolling Portfolio Website with Three.js
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [git/git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 - [Zaid-maker/givesawaysbot.github.io](https://github.com/Zaid-maker/givesawaysbot.github.io) - A discord bot
 - [todaydevs/dark-mode](https://github.com/todaydevs/dark-mode) - Dark/Light mode for your website
@@ -541,6 +542,7 @@
 
 ## JavaScript 
 
+- [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) - Self host your media and share with unique links
 - [callebtc/twitter-x-delete-suite](https://github.com/callebtc/twitter-x-delete-suite) - delete your posts on twitter
 - [oven-sh/WebKit](https://github.com/oven-sh/WebKit) - WebKit with patches
 - [Acadify-PK/Acadify](https://github.com/Acadify-PK/Acadify) - Creating a LMS to get a better grip on MERN stack
@@ -881,7 +883,6 @@
 - [Zaid-maker/opensea](https://github.com/Zaid-maker/opensea) - 
 - [CleverProgrammers/opensea-blockchain-youtube](https://github.com/CleverProgrammers/opensea-blockchain-youtube) - 
 - [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [cheraphp/code](https://github.com/cheraphp/code) - 
 - [webpack/mini-css-extract-plugin](https://github.com/webpack/mini-css-extract-plugin) - Lightweight CSS extraction plugin
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
@@ -1246,7 +1247,7 @@
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
 - [server-status-project/server-status](https://github.com/server-status-project/server-status) - Simple, modern looking server status page with administration and some nice features, that can run even on shared webhosting
 - [erikaheidi/autodocs](https://github.com/erikaheidi/autodocs) - Automated Documentation
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+- [phpdotenv/phpdotenv](https://github.com/phpdotenv/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel blade starter kit Based on Tabler HTML Template + Vite
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -1688,7 +1689,7 @@
 - [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime
 - [Zaid-maker/unsplash-search-app](https://github.com/Zaid-maker/unsplash-search-app) - 
 - [genshindev/web](https://github.com/genshindev/web) - The source code for the genshin.dev frontend.
-- [rovelstars/discord-list](https://github.com/rovelstars/discord-list) - Imagine a place - where you get to find everything about discord! Ranging from botlist, to users, servers, templates, banners, stickers and emojis!
+- [rovelstars/discord-list](https://github.com/rovelstars/discord-list) - Imagine a place — every bot, server, emoji and sticker on Discord, in one list.
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 
 ## Swift 
@@ -1817,7 +1818,7 @@
 - [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot) - Turn private Telegram groups into real-time support ticket hubs — powered by Unthread.io. 🎫🤖
 - [OscarMayReal/AIChat](https://github.com/OscarMayReal/AIChat) - 
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
@@ -1950,7 +1951,7 @@
 - [mendsalbert/auditra](https://github.com/mendsalbert/auditra) - 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mendsalbert/identiFi](https://github.com/mendsalbert/identiFi) - 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.
 - [Zaid-maker/evently](https://github.com/Zaid-maker/evently) - Event organization web app like Eventbrite or Meetup

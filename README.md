@@ -1695,6 +1695,7 @@
 
 ## Swift 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [affan-ch/Nitro-Downloader-Mac](https://github.com/affan-ch/Nitro-Downloader-Mac) - A modern macOS download manager built with Swift and SwiftUI. Supports video, torrent, and bulk downloads using yt-dlp, aria2c, and ffmpeg.
 - [brycebostwick/AnimatedAppIcons](https://github.com/brycebostwick/AnimatedAppIcons) - Trick iOS Into Animating App Icons

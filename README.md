@@ -604,7 +604,6 @@
 - [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react) - Demos and tutorials for getting started with Appwrite + React JS
 - [Zaid-maker/tiny-deep-clone](https://github.com/Zaid-maker/tiny-deep-clone) - 
 - [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action) - 
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [petercunha/tts](https://github.com/petercunha/tts) - :pencil: :sound: A simple text-to-speech tool. Converts your text to speech with any Amazon Polly voices. Built with Node.js.
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -897,7 +896,7 @@
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [CTK-WARRIOR/Discord-Link-Mod](https://github.com/CTK-WARRIOR/Discord-Link-Mod) - Discord Custom Vanity URL
 - [CTK-WARRIOR/Discord-Modmail-Bot](https://github.com/CTK-WARRIOR/Discord-Modmail-Bot) - This is Basic Modmail bot in JS created by me xD
-- [JeanVydes/dashboard-discord-ejs](https://github.com/JeanVydes/dashboard-discord-ejs) - Dashboard for Discord bots, Using EJS, Express and MongoDB (include bot)
+- [JeanVydes2/dashboard-discord-ejs](https://github.com/JeanVydes2/dashboard-discord-ejs) - Dashboard for Discord bots, Using EJS, Express and MongoDB (include bot)
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [stuyy/2021-discord-music-bot](https://github.com/stuyy/2021-discord-music-bot) - 
 - [vesln/package](https://github.com/vesln/package) - Easy package.json exports.
@@ -1283,6 +1282,7 @@
 
 ## Python 
 
+- [interplains/zero-breach](https://github.com/interplains/zero-breach) - Zero Breach — local, read-only scanner that checks a computer for indicators of the AdFection / Candiru ad-delivered spyware campaign. No network, no admin, no dependencies.
 - [User0332/rewards-farmer](https://github.com/User0332/rewards-farmer) - Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA
 - [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
 - [NyarchLinux/AgeVerification](https://github.com/NyarchLinux/AgeVerification) - Privacy-friendly age verification implementation for Nyarch Linux
@@ -1914,6 +1914,7 @@
 - [dont-be-evil-company/p2p.kiwi](https://github.com/dont-be-evil-company/p2p.kiwi) - p2p.kiwi 🥝, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Zaid-maker/neural-network-training-sim](https://github.com/Zaid-maker/neural-network-training-sim) - 
 - [Zaid-maker/storeit](https://github.com/Zaid-maker/storeit) - 
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.

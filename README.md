@@ -541,6 +541,7 @@
 
 ## JavaScript 
 
+- [Ahmadkhattak1/awesome-downloader](https://github.com/Ahmadkhattak1/awesome-downloader) - Open-source Windows download manager with browser video integration
 - [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report) - 
 - [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) - Self host your media and share with unique links
 - [callebtc/twitter-x-delete-suite](https://github.com/callebtc/twitter-x-delete-suite) - delete your posts on twitter
@@ -1707,6 +1708,7 @@
 
 ## TypeScript 
 
+- [TanStack/redact](https://github.com/TanStack/redact) - An alternative logical projection of React with 100% API compliancy but simpler implementation resulting in smaller bundle size and better performance.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli) - Lighweight CLI to interact with MCP servers

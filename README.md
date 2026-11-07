@@ -1555,6 +1555,7 @@
 - [Rapptz/sub-tools](https://github.com/Rapptz/sub-tools) - 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
 - [InfinityBotList/infernoplex](https://github.com/InfinityBotList/infernoplex) - 
@@ -1940,7 +1941,6 @@
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [developersdigest/ai-consulting](https://github.com/developersdigest/ai-consulting) - 
 - [nikandr-surkov/Notcoin-Telegram-Mini-App-Clone](https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone) - A clone of the popular Telegram mini app Notcoin (clicker game), built with Vite, TypeScript, and Tailwind CSS
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [dus4nstojanovic/create-files-from-template-vscode](https://github.com/dus4nstojanovic/create-files-from-template-vscode) - 
 - [sujjeee/threads-clone](https://github.com/sujjeee/threads-clone) - Threads built with the t3-stack: Next.js 14, TypeScript, tRPC, Tailwind CSS, Shadcn ui, Prisma ORM, and Clerk Auth.
 - [dev-ahmadbilal/islam.js](https://github.com/dev-ahmadbilal/islam.js) - A comprehensive Typescript package offering Quranic text with multiple dialects (Hafs and Warsh), translations in over 20 languages, 28 Tafseers, Hadith collections with multiple translations, Dua and
